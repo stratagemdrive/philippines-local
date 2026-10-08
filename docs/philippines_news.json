@@ -159,6 +159,20 @@
   ],
   "Energy": [
     {
+      "title": "Heavy rains bring floods to Bukidnon amid weather transition",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2319730/heavy-rains-bring-floods-to-bukidnon-amid-weather-transition",
+      "published_date": "2026-10-08T09:44:11+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "NBI: Leviste ‘a fugitive’ in case vs solar firm",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2319610/nbi-leviste-a-fugitive-in-case-vs-solar-firm",
+      "published_date": "2026-10-08T05:36:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Atom slams Marcos over Singapore F1 trip, Duterte over China ties",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2319351/atom-slams-marcos-over-singapore-f1-trip-hits-duterte-over-china-ties-ties",
@@ -202,6 +216,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "WATCH:  Sara Duterte impeachment trial | Oct. 8, 2026",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2319713/watch-sara-duterte-impeachment-trial-oct-8-2026",
+      "published_date": "2026-10-08T08:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bank confirms Duterte father-daughter account",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2319611/bank-confirms-duterte-father-daughter-account",
+      "published_date": "2026-10-08T05:34:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Comelec unit finds ‘inconsistencies’ in Marcoleta’s statements",
       "source": "Philippine Daily Inquirer",
@@ -324,143 +352,143 @@
   ],
   "Local Events": [
     {
+      "title": "Dizon dismisses claims on Cabinet revamp: ‘Don’t believe those’",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2319736/dizon-dismisses-claims-on-cabinet-revamp-dont-believe-those",
+      "published_date": "2026-10-08T09:59:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thunderstorm advisory up in Metro Manila, other Luzon areas Thursday",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2319719/thunderstorm-advisory-up-in-metro-manila-other-luzon-areas-thursday",
+      "published_date": "2026-10-08T08:56:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CHR probe sought over alleged harassment of fishers; OPAPRU denies role",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2319717/chr-probe-sought-over-alleged-harassment-of-fishers-opapru-denies-role",
+      "published_date": "2026-10-08T08:01:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coconut agency urges moisture-saving measures as El Niño threatens farms",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2319708/coconut-agency-urges-moisture-saving-measures-as-el-nino-threatens-farms",
+      "published_date": "2026-10-08T07:07:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "VP Trial Day 36: BIR exec to testify before Senate impeach court",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2319687/vp-trial-day-36-bir-exec-to-testify-before-senate-impeach-court",
+      "published_date": "2026-10-08T07:00:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ITCZ, northeasterly wind flow to prevail over parts of PH on Thursday",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2319705/itcz-northeasterly-wind-flow-to-prevail-over-parts-of-ph-on-thursday",
+      "published_date": "2026-10-08T06:59:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DILG: 58 TBS members nabbed in 2025",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2319617/dilg-58-tbs-members-nabbed-in-2025",
+      "published_date": "2026-10-08T05:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SC: Concealment may void insurance policy",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2319615/sc-concealment-may-void-insurance-policy",
+      "published_date": "2026-10-08T05:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "COA flags MMDA for failing to insure P9.22-B assets",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2319614/coa-flags-mmda-for-failing-to-insure-p9-22-b-assets",
+      "published_date": "2026-10-08T05:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2 senators lead new bid vs trial threshold",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2319608/2-senators-lead-new-bid-vs-trial-threshold",
+      "published_date": "2026-10-08T05:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "COA ‘disallowance’ final: OVP must return P73M",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2319606/coa-disallowance-final-ovp-must-return-p73m",
+      "published_date": "2026-10-08T05:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bohol farms reel from El Niño, suffer P173.7M in losses",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2319586/bohol-farms-reel-from-el-nino-suffer-p173-7m-in-losses",
+      "published_date": "2026-10-08T05:08:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baguio sees tourism boost amid prolonged dry spell",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2319582/baguio-sees-tourism-boost-amid-prolonged-dry-spell",
+      "published_date": "2026-10-08T05:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Isabela vice mayor clears drug test after Remulla challenge",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2319580/isabela-vice-mayor-clears-drug-test-after-remulla-challenge",
+      "published_date": "2026-10-08T05:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2 Mindanao teachers persist in mission of educating IP children",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2319565/2-mindanao-teachers-persist-in-mission-of-educating-ip-children",
+      "published_date": "2026-10-08T02:00:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "published_date": "2026-10-08T01:51:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sara Duterte trial recap, Oct. 7: VP and husband's millions",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/08/2561761/sara-duterte-trial-recap-oct-7-vp-and-husbands-millions",
+      "published_date": "2026-10-08T01:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SPECIAL COVERAGE: Impeachment trial of Sara Duterte",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/philippines/video-special-coverage-panel-discussion-impeachment-trial-sara-duterte/",
+      "published_date": "2026-10-08T01:01:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LIVE Coverage: Sara Duterte's impeachment trial, Oct. 8",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/08/2561758/live-coverage-sara-dutertes-impeachment-trial-oct-8",
+      "published_date": "2026-10-08T00:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Empowering next-gen leaders through real-world industry exposure",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2319625/empowering-next-gen-leaders-through-real-world-industry-exposure",
       "published_date": "2026-10-07T23:41:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Proposal to track House spending, a district’s infra projects nixed",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319575/proposal-to-track-house-spending-a-districts-infra-projects-nixed",
-      "published_date": "2026-10-07T21:52:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No jackpot winners in Oct. 7 Grand, Mega Lotto draws",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319557/no-jackpot-winners-in-oct-7-grand-mega-lotto-draws",
-      "published_date": "2026-10-07T21:48:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jeepney driver and transport activist ‘Tatay Elmer’ dies",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319552/jeepney-driver-and-transport-activist-tatay-elmer-dies",
-      "published_date": "2026-10-07T21:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prosecutor, clerk scolded for inefficiencies in impeachment trial",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319547/prosec-clerk-scolded-for-inefficiencies-in-impeachment-trial",
-      "published_date": "2026-10-07T20:58:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BOC: P12.31M raised from auction of forfeited refrigerant gases",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319530/boc-p12-31m-raised-from-auction-of-forfeited-refrigerant-gases",
-      "published_date": "2026-10-07T20:43:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Federations welcome Coca-Cola’s commitment to use Negros sugar",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319520/federations-welcome-coca-colas-commitment-to-use-negros-sugar",
-      "published_date": "2026-10-07T20:36:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "House OKs P7.2-T spending bill on 2nd reading",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319516/house-oks-p7-2-t-spending-bill-on-2nd-reading",
-      "published_date": "2026-10-07T20:25:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Duterte impeachment trial: Who is Rep. Lordan Suan?",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319454/duterte-impeachment-trial-who-is-rep-lordan-suan",
-      "published_date": "2026-10-07T19:48:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DENR’s ‘Permitting on Wheels’ serves over 10,000 in first 5 months",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319386/denrs-permitting-on-wheels-serves-over-10000-in-first-5-months",
-      "published_date": "2026-10-07T19:44:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dy lauds ratification of bill creating presidential scholarship programs",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319356/dy-lauds-ratification-of-bill-creating-presidential-scholarship-programs",
-      "published_date": "2026-10-07T19:15:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "COA flags P9.22 billion worth of uninsured MMDA assets",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319411/coa-flags-p9-22-billion-worth-of-uninsured-mmda-assets",
-      "published_date": "2026-10-07T18:45:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "House OKs P116-B in 2027 budget amendments",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319399/house-oks-p116-b-in-2027-budget-amendments",
-      "published_date": "2026-10-07T18:34:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Isabela vice mayor passes P28K drug test; asks Remulla to reimburse him",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319326/isabela-vice-mayor-passes-p28k-drug-test-asks-remulla-to-reimburse-him",
-      "published_date": "2026-10-07T18:18:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Solon: Appropriations panel obeyed rules on reporting 2027 budget tweaks",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319365/solon-appropriations-panel-obeyed-rules-on-reporting-2027-budget-tweaks",
-      "published_date": "2026-10-07T18:09:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sara Duterte’s lawyer promised to submit VP’s affidavit to NBI – Matibag",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319357/sara-dutertes-lawyer-promised-to-submit-vps-affidavit-to-nbi-matibag",
-      "published_date": "2026-10-07T18:01:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tinio demands details on budget amendments as House debate sets to open",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319350/tinio-demands-details-on-budget-amendments-as-house-debate-sets-to-open",
-      "published_date": "2026-10-07T17:49:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DOJ to Leviste: Failure to return to PH is a disrespect to court system",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319348/doj-to-leviste-failure-to-return-to-ph-disrespects-court-system",
-      "published_date": "2026-10-07T17:47:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EXPLAINER: Why the tamaraw is still fighting for survival",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319302/explainer-why-the-tamaraw-is-still-fighting-for-survival",
-      "published_date": "2026-10-07T17:19:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Job numbers improve, but workers need higher pay, labor group says",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319289/job-numbers-improve-but-workers-need-higher-pay-labor-group-says",
-      "published_date": "2026-10-07T17:11:41+00:00",
       "category": "Local Events"
     }
   ]
