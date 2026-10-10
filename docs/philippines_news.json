@@ -259,6 +259,27 @@
   ],
   "Economy": [
     {
+      "title": "Fishers call for aid amid health impact of El Niño",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2320868/fishers-call-for-aid-amid-health-impact-of-el-nino",
+      "published_date": "2026-10-10T05:48:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "SC affirms court’s say on bank funds of deceased",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2320871/sc-affirms-courts-say-on-bank-funds-of-deceased",
+      "published_date": "2026-10-10T05:42:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Baguio to pilot World Bank-backed jeepney modernization model",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2320816/baguio-to-pilot-world-bank-backed-jeepney-modernization-model",
+      "published_date": "2026-10-10T05:02:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Why did Duterte list Gencorp in SALN? Too precious to lose – witness Cabrera",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2320775/why-did-duterte-list-gencorp-in-saln-too-precious-to-lose-witness-cabrera",
@@ -376,30 +397,51 @@
       "url": "https://newsinfo.inquirer.net/2319602/highlights-day-35-of-sara-duterte-impeachment-trial-oct-7-2026",
       "published_date": "2026-10-07T22:30:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Marcos appoints 3 CA justices, including Bersamin’s daughter",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319493/marcos-appoints-3-ca-justices-including-bersamins-daughter",
-      "published_date": "2026-10-07T19:55:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Duterte, husband bank accounts presented before Senate impeach court",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319442/duterte-husband-bank-accounts-presented-before-senate-impeach-court",
-      "published_date": "2026-10-07T19:25:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "DTI maps halal calamansi supply chain in Oriental Mindoro",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319361/dti-maps-halal-calamansi-supply-chain-in-oriental-mindoro",
-      "published_date": "2026-10-07T18:56:57+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "From Donki to Nike: Analyst says VP had ‘unusual’ purchases in 2025",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2320942/from-donki-to-nike-analyst-says-vp-had-unusual-purchases-in-2025",
+      "published_date": "2026-10-10T06:30:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mental health group: Socmed ban on minors a ‘nonsolution’",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2320875/mental-health-group-socmed-ban-on-minors-a-nonsolution",
+      "published_date": "2026-10-10T05:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Analyst: VP Sara didn’t declare P817-million wealth",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2320864/analyst-vp-sara-didnt-declare-p817-million-wealth",
+      "published_date": "2026-10-10T05:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "3 dead, 1 hurt as landslide destroys house in Cebu City",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2320815/3-dead-1-hurt-as-landslide-destroys-house-in-cebu-city",
+      "published_date": "2026-10-10T05:08:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Catbalogan now insurgency-free, joins other Eastern Visayas cities",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2320819/catbalogan-now-insurgency-free-joins-other-eastern-visayas-cities",
+      "published_date": "2026-10-10T05:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "VP told: Massive splurge for shoes; P200,000 Japan dinner not simple life",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2320951/vp-told-massive-splurge-for-shoes-p200000-japan-dinner-not-simple-life",
+      "published_date": "2026-10-10T04:05:24+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "South Cotabato co-op warns of possible higher rates due to El Niño",
       "source": "Philippine Daily Inquirer",
@@ -412,6 +454,13 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2320908/villagers-rescue-ailing-philippine-serpent-eagle-in-zamboanga-del-norte",
       "published_date": "2026-10-10T00:21:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Think tank urges unified approach to curb child stunting",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2320887/think-tank-urges-unified-approach-to-curb-child-stunting",
+      "published_date": "2026-10-09T23:25:58+00:00",
       "category": "Local Events"
     },
     {
@@ -489,55 +538,6 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2320754/witness-likens-managers-check-to-tinikling-to-hide-funds-from-year-end-balance",
       "published_date": "2026-10-09T19:35:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iligan City Hall turns pink for breast cancer awareness",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320729/iligan-city-hall-turns-pink-for-breast-cancer-awareness",
-      "published_date": "2026-10-09T19:33:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DOTr: LTFRB, LRTA to look into LRT-2 route for PUBs",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320712/dotr-ltfrb-lrta-to-look-into-lrt-2-route-for-pubs",
-      "published_date": "2026-10-09T18:55:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "VP Duterte’s total unexplained wealth at P817.87M – witness’ report",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320698/vp-dutertes-total-unexplained-wealth-at-p817-87m-witness-report-2",
-      "published_date": "2026-10-09T18:08:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pagasa: LPA east of Northern Samar to bring rains on Saturday",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320663/pagasa-lpa-east-of-northern-samar-to-bring-rains-on-saturday",
-      "published_date": "2026-10-09T17:25:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dy leads LegisHear delegation in Calamba to discuss Laguna flooding",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320633/dy-leads-legishear-delegation-in-calamba-to-discuss-laguna-flooding",
-      "published_date": "2026-10-09T17:18:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Violation of privacy?’ Senate court takes down Sara Duterte trial livestream",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/philippines/violation-of-privacy-senate-court-takes-down-sara-duterte-trial-livestream/",
-      "published_date": "2026-10-09T17:13:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MILF chief seeks meeting with Marcos",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320666/milf-chief-seeks-meeting-with-marcos",
-      "published_date": "2026-10-09T17:08:03+00:00",
       "category": "Local Events"
     }
   ]
