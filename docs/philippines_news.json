@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Mt. Kanlaon erupts, sends ash plume above summit",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321065/mt-kanlaon-erupts-sends-ash-plume-above-summit",
+      "published_date": "2026-10-10T14:02:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "2 homegrown technologies advance toward wider use in South Luzon",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2320440/2-homegrown-technologies-advance-toward-wider-use-in-south-luzon",
@@ -37,6 +44,20 @@
     }
   ],
   "Military": [
+    {
+      "title": "Several hurt as military vehicle hits cars in Manila; Marines apologize",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321187/several-hurt-as-military-vehicle-hits-cars-in-manila-marines-apologize",
+      "published_date": "2026-10-10T19:55:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "OCD: Ashfall, sulfuric odor after Kanlaon’s ‘explosive’ eruption",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321133/ashfall-sulfur-odor-observed-after-kanlaon-volcanos-explosive-eruption",
+      "published_date": "2026-10-10T17:12:11+00:00",
+      "category": "Military"
+    },
     {
       "title": "PCG: Dark water in Occ. Mindoro’s Mamburao coast not from oil spill",
       "source": "Philippine Daily Inquirer",
@@ -162,20 +183,6 @@
       "url": "https://newsinfo.inquirer.net/2318791/dnd-afp-chiefs-rush-to-basilan-after-ambush-on-military-convoy",
       "published_date": "2026-10-07T01:37:23+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Top defense officials rush to Basilan after convoy ambush",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2318617/top-defense-officials-rush-to-basilan-after-convoy-ambush",
-      "published_date": "2026-10-06T19:49:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Karapatan hits suspension of 4 UST activists over PAF exhibit incident",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2318471/karapatan-hits-suspension-of-4-ust-activists-over-paf-exhibit-incident",
-      "published_date": "2026-10-06T17:40:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -258,6 +265,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Mayor orders probe into illegal Pogo operations in Zamboanga Sibugay",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321274/mayor-orders-probe-into-illegal-pogo-operations-in-zamboanga-sibugay",
+      "published_date": "2026-10-10T23:27:48+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Fishers call for aid amid health impact of El Niño",
       "source": "Philippine Daily Inquirer",
@@ -390,154 +404,147 @@
       "url": "https://newsinfo.inquirer.net/2319600/comelec-unit-finds-inconsistencies-in-marcoletas-statements",
       "published_date": "2026-10-07T22:51:04+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Highlights: Day 35 of Sara Duterte impeachment trial | Oct. 7, 2026",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319602/highlights-day-35-of-sara-duterte-impeachment-trial-oct-7-2026",
-      "published_date": "2026-10-07T22:30:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
     {
-      "title": "From Donki to Nike: Analyst says VP had ‘unusual’ purchases in 2025",
+      "title": "Calabarzon domestic workers to get P750 monthly wage hike",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320942/from-donki-to-nike-analyst-says-vp-had-unusual-purchases-in-2025",
-      "published_date": "2026-10-10T06:30:10+00:00",
+      "url": "https://newsinfo.inquirer.net/2321273/calabarzon-domestic-workers-to-get-p750-monthly-wage-hike",
+      "published_date": "2026-10-10T23:13:11+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Mental health group: Socmed ban on minors a ‘nonsolution’",
+      "title": "PCSO: ₱259.92-M Grand Lotto jackpot has no winner",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320875/mental-health-group-socmed-ban-on-minors-a-nonsolution",
-      "published_date": "2026-10-10T05:44:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2321226/pcso-%e2%82%b1259-92m-grand-lotto-jackpot-has-no-winner",
+      "published_date": "2026-10-10T21:58:52+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Analyst: VP Sara didn’t declare P817-million wealth",
+      "title": "Sara Duterte’s unexplained wealth case strongest, says Barbers",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320864/analyst-vp-sara-didnt-declare-p817-million-wealth",
-      "published_date": "2026-10-10T05:30:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2321212/sara-dutertes-alleged-unexplained-wealth-case-strongest-says-barbers",
+      "published_date": "2026-10-10T21:19:38+00:00",
       "category": "Local Events"
     },
     {
-      "title": "3 dead, 1 hurt as landslide destroys house in Cebu City",
+      "title": "Maniquiz questions P319M China-linked funds amid Zambales fishers’ woes",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320815/3-dead-1-hurt-as-landslide-destroys-house-in-cebu-city",
-      "published_date": "2026-10-10T05:08:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2321184/maniquiz-questions-p319m-china-linked-funds-amid-zambales-fishers-woes",
+      "published_date": "2026-10-10T20:23:16+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Catbalogan now insurgency-free, joins other Eastern Visayas cities",
+      "title": "IN PHOTOS: Discovering Albay’s diverse birdlife",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320819/catbalogan-now-insurgency-free-joins-other-eastern-visayas-cities",
-      "published_date": "2026-10-10T05:06:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2321144/in-photos-discovering-albays-diverse-birdlife",
+      "published_date": "2026-10-10T20:22:45+00:00",
       "category": "Local Events"
     },
     {
-      "title": "VP told: Massive splurge for shoes; P200,000 Japan dinner not simple life",
+      "title": "Pangilinan on Senate majority: We’ll see if it becomes SB19",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320951/vp-told-massive-splurge-for-shoes-p200000-japan-dinner-not-simple-life",
-      "published_date": "2026-10-10T04:05:24+00:00",
+      "url": "https://newsinfo.inquirer.net/2321157/pangilinan-on-senate-majority-well-see-if-it-becomes-sb19",
+      "published_date": "2026-10-10T19:50:24+00:00",
       "category": "Local Events"
     },
     {
-      "title": "South Cotabato co-op warns of possible higher rates due to El Niño",
+      "title": "One Education boosts learner support, expands job pathways",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320791/south-cotabato-co-op-warns-of-possible-higher-rates-due-to-el-nino",
-      "published_date": "2026-10-10T00:48:20+00:00",
+      "url": "https://newsinfo.inquirer.net/2321166/one-education-boosts-learner-support-expands-job-pathways",
+      "published_date": "2026-10-10T18:45:52+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Villagers rescue ailing Philippine serpent eagle in Zamboanga del Norte",
+      "title": "Solon: Civilian informants key in anti-drug operations",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320908/villagers-rescue-ailing-philippine-serpent-eagle-in-zamboanga-del-norte",
-      "published_date": "2026-10-10T00:21:41+00:00",
+      "url": "https://newsinfo.inquirer.net/2321130/civilian-informants-key-in-anti-drug-operations",
+      "published_date": "2026-10-10T16:40:55+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Think tank urges unified approach to curb child stunting",
+      "title": "Bohol poverty incidence down 39.2 points in 25 years",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320887/think-tank-urges-unified-approach-to-curb-child-stunting",
-      "published_date": "2026-10-09T23:25:58+00:00",
+      "url": "https://newsinfo.inquirer.net/2321116/bohol-poverty-incidence-down-39-2-points-in-25-years",
+      "published_date": "2026-10-10T16:18:18+00:00",
       "category": "Local Events"
     },
     {
-      "title": "With analyst being prosecution’s last witness, what’s next?",
+      "title": "6,000 openings up in Eastern Visayas job fair",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320847/with-analyst-being-prosecs-last-witness-whats-next",
-      "published_date": "2026-10-09T22:36:20+00:00",
+      "url": "https://newsinfo.inquirer.net/2321107/6000-openings-up-in-eastern-visayas-job-fair",
+      "published_date": "2026-10-10T15:55:36+00:00",
       "category": "Local Events"
     },
     {
-      "title": "PCSO lotto results Oct. 9: No winner for ₱377.06M jackpot",
+      "title": "Calabarzon workers to get up to P45 wage hike starting Oct. 26",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320810/pcso-lotto-results-oct-9-no-winner-for-%e2%82%b1377-06m-jackpot",
-      "published_date": "2026-10-09T22:30:29+00:00",
+      "url": "https://newsinfo.inquirer.net/2321100/calabarzon-minimum-wage-earners-to-get-p45-hike-starting-oct-26",
+      "published_date": "2026-10-10T15:13:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Highlights:  Day 37 of Sara Duterte impeachment trial | Oct. 9, 2026",
+      "title": "Palace to Mans Carpio: Pray to ‘true God’ truth comes out",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320883/highlights-day-37-of-sara-duterte-impeachment-trial-oct-9-2026",
-      "published_date": "2026-10-09T22:30:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2321094/palace-to-mans-carpio-pray-to-true-god-truth-comes-out",
+      "published_date": "2026-10-10T14:48:04+00:00",
       "category": "Local Events"
     },
     {
-      "title": "NBI files graft complaint vs CHR chair, 3 others",
+      "title": "11 nabbed as authorities dismantle Maguindanao del Sur drug den",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320828/nbi-files-graft-complaint-vs-chr-chair-3-others",
-      "published_date": "2026-10-09T22:09:15+00:00",
+      "url": "https://newsinfo.inquirer.net/2321022/11-nabbed-as-authorities-dismantle-maguindanao-del-sur-drug-den",
+      "published_date": "2026-10-10T14:05:47+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Receding insurgency due to ongoing gov’t dev’t programs – NTF-Elcac",
+      "title": "Man nabbed for posing as NBI agent yields P350K in meth in Sultan Kudarat",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320809/receding-insurgency-due-to-ongoing-govt-devt-programs-ntf-elcac",
-      "published_date": "2026-10-09T21:46:07+00:00",
+      "url": "https://newsinfo.inquirer.net/2321008/man-nabbed-for-posing-as-nbi-agent-yields-p350k-in-meth-in-sultan-kudarat",
+      "published_date": "2026-10-10T13:46:02+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Laguna Water marks 17th year with El Niño awareness program",
+      "title": "Taal Volcano logs 20 quakes, 9 tremors lasting 2 to 7 minutes",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320789/laguna-water-marks-17th-year-with-el-nino-awareness-program",
-      "published_date": "2026-10-09T21:25:56+00:00",
+      "url": "https://newsinfo.inquirer.net/2321005/taal-volcano-logs-20-quakes-9-tremors-lasting-2-to-7-minutes",
+      "published_date": "2026-10-10T13:37:20+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Landslide kills grandmother, 2 grandchildren in Cebu City",
+      "title": "Comelec flags fake post claiming BSKE set for Dec. 14",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320747/landslide-kills-grandmother-2-grandchildren-in-cebu-city",
-      "published_date": "2026-10-09T20:45:44+00:00",
+      "url": "https://newsinfo.inquirer.net/2321047/no-bske-in-december-2026-polls-set-for-november-2028",
+      "published_date": "2026-10-10T12:55:34+00:00",
       "category": "Local Events"
     },
     {
-      "title": "BOC seizes P29-M smuggled cigarettes at a subport in Manila",
+      "title": "Sandiganbayan grants Romualdez’s motion to sign pre-trial order at QC jail",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320743/boc-seizes-p29-m-smuggled-cigarettes-at-a-subport-in-manila",
-      "published_date": "2026-10-09T20:33:12+00:00",
+      "url": "https://newsinfo.inquirer.net/2321043/sandiganbayan-grants-romualdezs-motion-to-sign-pre-trial-order-at-qc-jail",
+      "published_date": "2026-10-10T12:29:49+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Sara Duterte trial: Paying taxes shows integrity, says financial analyst",
+      "title": "Vico Sotto eyes more green spaces as Pasig opens third linear park",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320736/sara-duterte-trial-paying-taxes-shows-integrity-says-financial-analyst",
-      "published_date": "2026-10-09T20:06:37+00:00",
+      "url": "https://newsinfo.inquirer.net/2321038/vico-sotto-eyes-more-green-spaces-as-pasig-opens-third-linear-park",
+      "published_date": "2026-10-10T11:51:48+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Labor group seeks probe into deaths of 3 Dusit Davao workers",
+      "title": "DICT Secretary Henry Aguda has resigned, says Ombudsman Remulla",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320721/labor-group-seeks-probe-into-deaths-of-3-dusit-davao-workers",
-      "published_date": "2026-10-09T19:38:04+00:00",
+      "url": "https://newsinfo.inquirer.net/2321032/dict-secretary-henry-aguda-has-resigned-says-ombudsman-remulla",
+      "published_date": "2026-10-10T11:45:16+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Witness likens manager’s check to ‘tinikling’ to hide funds from year-end balance",
+      "title": "Beneath the surface: The fight to protect Philippine caves",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2320754/witness-likens-managers-check-to-tinikling-to-hide-funds-from-year-end-balance",
-      "published_date": "2026-10-09T19:35:45+00:00",
+      "url": "https://newsinfo.inquirer.net/2321011/beneath-the-surface-the-fight-to-protect-philippine-caves",
+      "published_date": "2026-10-10T11:17:58+00:00",
       "category": "Local Events"
     }
   ]
