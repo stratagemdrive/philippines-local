@@ -45,6 +45,13 @@
   ],
   "Military": [
     {
+      "title": "PNP probes if seized Laos drugs bound for Manila",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321299/pnp-probes-if-seized-laos-drugs-bound-for-manila",
+      "published_date": "2026-10-11T05:20:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Several hurt as military vehicle hits cars in Manila; Marines apologize",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2321187/several-hurt-as-military-vehicle-hits-cars-in-manila-marines-apologize",
@@ -56,6 +63,13 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2321133/ashfall-sulfur-odor-observed-after-kanlaon-volcanos-explosive-eruption",
       "published_date": "2026-10-10T17:12:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PAF to acquire advanced Black Hawk training systems",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/11/2562358/paf-acquire-advanced-black-hawk-training-systems",
+      "published_date": "2026-10-10T16:00:00+00:00",
       "category": "Military"
     },
     {
@@ -169,23 +183,23 @@
       "url": "https://www.rappler.com/newsbreak/inside-track/sara-duterte-unaware-bpi-accounts-rodrigo-impeachment-trial/",
       "published_date": "2026-10-07T14:41:40+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Bad weather grounds flight carrying 51 trafficking victims to Manila",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2318710/bad-weather-grounds-flight-carrying-51-trafficking-victims-to-manila",
-      "published_date": "2026-10-07T04:35:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "DND, AFP chiefs rush to Basilan after ambush on military convoy",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2318791/dnd-afp-chiefs-rush-to-basilan-after-ambush-on-military-convoy",
-      "published_date": "2026-10-07T01:37:23+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Regulators OK Meralco rate hike after 15 yrs",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321298/regulators-ok-meralco-rate-hike-after-15-yrs",
+      "published_date": "2026-10-11T05:36:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Marcos disappointed Philippines halted Bataan Nuclear Power Plant",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/11/2562352/marcos-disappointed-philippines-halted-bataan-nuclear-power-plant",
+      "published_date": "2026-10-10T16:00:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Ombudsman warns public execs vs using gov’t gas for private vehicles",
       "source": "Philippine Daily Inquirer",
@@ -408,6 +422,90 @@
   ],
   "Local Events": [
     {
+      "title": "Rains to drench parts of PH on Oct. 11",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321399/rains-to-drench-parts-of-ph-on-oct-11",
+      "published_date": "2026-10-11T09:22:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ombudsman: DICT chief Aguda has resigned",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321294/ombudsman-dict-chief-aguda-has-resigned",
+      "published_date": "2026-10-11T05:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tagle makes history as first Asian dean of cardinals",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321292/tagle-makes-history-as-first-asian-dean-of-cardinals",
+      "published_date": "2026-10-11T05:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NBI files graft raps vs CHR chair, 3 others",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321293/nbi-files-graft-raps-vs-chr-chair-3-others",
+      "published_date": "2026-10-11T05:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PhilHealth warns vs fake accreditation assistance",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321302/philhealth-warns-vs-fake-accreditation-assistance",
+      "published_date": "2026-10-11T05:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Recto to agencies: Procure early for ‘super’ El Niño",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321296/recto-to-agencies-procure-early-for-super-el-nino",
+      "published_date": "2026-10-11T05:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Calabarzon workers get P45 wage hike",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321301/calabarzon-workers-get-p45-wage-hike",
+      "published_date": "2026-10-11T05:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "OFW count, remittances fall in two straight quarters of 2025",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321304/ofw-count-remittances-fall-in-two-straight-quarters-of-2025",
+      "published_date": "2026-10-11T05:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "This week’s milestones: Oct. 11 to Oct. 17",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321234/this-weeks-milestones-oct-11-to-oct-17",
+      "published_date": "2026-10-11T05:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senate to conduct inquiry on P700-M rice smuggling attempt from Vietnam",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321379/senate-to-conduct-inquiry-on-p700-m-rice-smuggling-attempt-from-vietnam",
+      "published_date": "2026-10-11T04:43:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senators to gov’t agencies: Step up preparations for ‘Super El Nino’",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321377/senators-to-govt-agencies-step-up-preparations-for-super-el-nino",
+      "published_date": "2026-10-11T04:36:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LIST: New minimum wage rates in Calabarzon",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321316/list-new-minimum-wage-rates-in-calabarzon",
+      "published_date": "2026-10-10T23:54:09+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Calabarzon domestic workers to get P750 monthly wage hike",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2321273/calabarzon-domestic-workers-to-get-p750-monthly-wage-hike",
@@ -461,90 +559,6 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2321130/civilian-informants-key-in-anti-drug-operations",
       "published_date": "2026-10-10T16:40:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bohol poverty incidence down 39.2 points in 25 years",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321116/bohol-poverty-incidence-down-39-2-points-in-25-years",
-      "published_date": "2026-10-10T16:18:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "6,000 openings up in Eastern Visayas job fair",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321107/6000-openings-up-in-eastern-visayas-job-fair",
-      "published_date": "2026-10-10T15:55:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Calabarzon workers to get up to P45 wage hike starting Oct. 26",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321100/calabarzon-minimum-wage-earners-to-get-p45-hike-starting-oct-26",
-      "published_date": "2026-10-10T15:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palace to Mans Carpio: Pray to ‘true God’ truth comes out",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321094/palace-to-mans-carpio-pray-to-true-god-truth-comes-out",
-      "published_date": "2026-10-10T14:48:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "11 nabbed as authorities dismantle Maguindanao del Sur drug den",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321022/11-nabbed-as-authorities-dismantle-maguindanao-del-sur-drug-den",
-      "published_date": "2026-10-10T14:05:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man nabbed for posing as NBI agent yields P350K in meth in Sultan Kudarat",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321008/man-nabbed-for-posing-as-nbi-agent-yields-p350k-in-meth-in-sultan-kudarat",
-      "published_date": "2026-10-10T13:46:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taal Volcano logs 20 quakes, 9 tremors lasting 2 to 7 minutes",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321005/taal-volcano-logs-20-quakes-9-tremors-lasting-2-to-7-minutes",
-      "published_date": "2026-10-10T13:37:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Comelec flags fake post claiming BSKE set for Dec. 14",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321047/no-bske-in-december-2026-polls-set-for-november-2028",
-      "published_date": "2026-10-10T12:55:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sandiganbayan grants Romualdez’s motion to sign pre-trial order at QC jail",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321043/sandiganbayan-grants-romualdezs-motion-to-sign-pre-trial-order-at-qc-jail",
-      "published_date": "2026-10-10T12:29:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vico Sotto eyes more green spaces as Pasig opens third linear park",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321038/vico-sotto-eyes-more-green-spaces-as-pasig-opens-third-linear-park",
-      "published_date": "2026-10-10T11:51:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DICT Secretary Henry Aguda has resigned, says Ombudsman Remulla",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321032/dict-secretary-henry-aguda-has-resigned-says-ombudsman-remulla",
-      "published_date": "2026-10-10T11:45:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Beneath the surface: The fight to protect Philippine caves",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321011/beneath-the-surface-the-fight-to-protect-philippine-caves",
-      "published_date": "2026-10-10T11:17:58+00:00",
       "category": "Local Events"
     }
   ]
