@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "President Marcos admits escalation of tensions in Ayungin",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/12/2562551/president-marcos-admits-escalation-tensions-ayungin",
+      "published_date": "2026-10-11T16:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kanlaon Volcano emits ash on Sunday",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321444/kanlaon-volcano-emits-ash-on-sunday-morning",
+      "published_date": "2026-10-11T10:33:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Mt. Kanlaon erupts, sends ash plume above summit",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2321065/mt-kanlaon-erupts-sends-ash-plume-above-summit",
@@ -44,6 +58,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "Chua dares Duterte defense team: Seek impeachment case dismissal",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321699/chua-dares-duterte-defense-team-seek-impeachment-case-dismissal",
+      "published_date": "2026-10-11T22:04:22+00:00",
+      "category": "Military"
+    },
     {
       "title": "PNP probes if seized Laos drugs bound for Manila",
       "source": "Philippine Daily Inquirer",
@@ -176,16 +197,16 @@
       "url": "https://www.philstar.com/headlines/2026/10/08/2561654/coast-guard-activates-kalayaan-auxiliary-district",
       "published_date": "2026-10-07T16:00:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Is Sara Duterte unaware of BPI accounts with father Rodrigo?",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/newsbreak/inside-track/sara-duterte-unaware-bpi-accounts-rodrigo-impeachment-trial/",
-      "published_date": "2026-10-07T14:41:40+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Solar irrigation boosts Eastern Visayas farmers’ El Niño resilience",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321518/solar-irrigation-boosts-eastern-visayas-farmers-el-nino-resilience",
+      "published_date": "2026-10-11T13:10:57+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Regulators OK Meralco rate hike after 15 yrs",
       "source": "Philippine Daily Inquirer",
@@ -422,143 +443,143 @@
   ],
   "Local Events": [
     {
-      "title": "Rains to drench parts of PH on Oct. 11",
+      "title": "Local pollution, not Indon haze, forces 4 Cebu cities to suspend classes",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321399/rains-to-drench-parts-of-ph-on-oct-11",
-      "published_date": "2026-10-11T09:22:48+00:00",
+      "url": "https://newsinfo.inquirer.net/2321664/local-pollution-not-indonesian-haze-forces-4-cebu-cities-to-suspend-classes",
+      "published_date": "2026-10-11T21:59:44+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Ombudsman: DICT chief Aguda has resigned",
+      "title": "ICYMI: Sara Duterte impeachment trial Week 14 highlights",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321294/ombudsman-dict-chief-aguda-has-resigned",
-      "published_date": "2026-10-11T05:34:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2321676/icymi-sara-duterte-impeachment-trial-week-14-highlights",
+      "published_date": "2026-10-11T21:53:16+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Tagle makes history as first Asian dean of cardinals",
+      "title": "PCSO lotto results Oct. 11: No winner for ₱384.92-M jackpot",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321292/tagle-makes-history-as-first-asian-dean-of-cardinals",
-      "published_date": "2026-10-11T05:32:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2321683/pcso-lotto-results-oct-11-no-winner-for-384-92m-jackpot",
+      "published_date": "2026-10-11T21:46:55+00:00",
       "category": "Local Events"
     },
     {
-      "title": "NBI files graft raps vs CHR chair, 3 others",
+      "title": "P306-M ‘shabu’ seized in Cebu City’s ‘biggest haul’ in a decade",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321293/nbi-files-graft-raps-vs-chr-chair-3-others",
-      "published_date": "2026-10-11T05:30:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2321647/p306-m-shabu-seized-in-cebu-citys-biggest-haul-in-a-decade",
+      "published_date": "2026-10-11T21:09:24+00:00",
       "category": "Local Events"
     },
     {
-      "title": "PhilHealth warns vs fake accreditation assistance",
+      "title": "Legarda files bill to strengthen monitoring of fishing vessels",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321302/philhealth-warns-vs-fake-accreditation-assistance",
-      "published_date": "2026-10-11T05:28:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2321643/legarda-files-bill-to-strengthen-monitoring-of-fishing-vessels",
+      "published_date": "2026-10-11T19:25:37+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Recto to agencies: Procure early for ‘super’ El Niño",
+      "title": "Tulfo warns power firms vs price exploitation amid Super El Niño",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321296/recto-to-agencies-procure-early-for-super-el-nino",
-      "published_date": "2026-10-11T05:26:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2321635/tulfo-warns-power-firms-vs-price-exploitation-amid-super-el-nio",
+      "published_date": "2026-10-11T18:34:47+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Calabarzon workers get P45 wage hike",
+      "title": "Lacson dares Cayetano: Name people I threatened over Taguig projects",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321301/calabarzon-workers-get-p45-wage-hike",
-      "published_date": "2026-10-11T05:24:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2321630/lacson-dares-cayetano-name-people-i-threatened-over-taguig-projects",
+      "published_date": "2026-10-11T18:19:52+00:00",
       "category": "Local Events"
     },
     {
-      "title": "OFW count, remittances fall in two straight quarters of 2025",
+      "title": "Marcos: Sara Duterte’s smear campaign claims ‘fake news’",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321304/ofw-count-remittances-fall-in-two-straight-quarters-of-2025",
-      "published_date": "2026-10-11T05:22:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2321614/marcos-calls-sara-dutertes-smear-campaign-claims-fake-news",
+      "published_date": "2026-10-11T17:53:20+00:00",
       "category": "Local Events"
     },
     {
-      "title": "This week’s milestones: Oct. 11 to Oct. 17",
+      "title": "Marcos confirms Lino Cayetano to replace Dave Gomez as PCO chief",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321234/this-weeks-milestones-oct-11-to-oct-17",
-      "published_date": "2026-10-11T05:15:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2321607/marcos-confirms-lino-cayetano-to-replace-gomez-as-pco-chief",
+      "published_date": "2026-10-11T17:23:24+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Senate to conduct inquiry on P700-M rice smuggling attempt from Vietnam",
+      "title": "Marcos confirms Aguda resignation",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321379/senate-to-conduct-inquiry-on-p700-m-rice-smuggling-attempt-from-vietnam",
-      "published_date": "2026-10-11T04:43:54+00:00",
+      "url": "https://newsinfo.inquirer.net/2321603/marcos-confirms-aguda-resignation",
+      "published_date": "2026-10-11T17:13:16+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Senators to gov’t agencies: Step up preparations for ‘Super El Nino’",
+      "title": "Padilla said he, allies may skip Sara Duterte impeachment trial",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321377/senators-to-govt-agencies-step-up-preparations-for-super-el-nino",
-      "published_date": "2026-10-11T04:36:18+00:00",
+      "url": "https://newsinfo.inquirer.net/2321601/padilla-said-he-allies-may-skip-trial-due-to-distortion-of-constitution",
+      "published_date": "2026-10-11T17:10:06+00:00",
       "category": "Local Events"
     },
     {
-      "title": "LIST: New minimum wage rates in Calabarzon",
+      "title": "Mans Carpio: Personal money used for flagged purchases, not public funds",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321316/list-new-minimum-wage-rates-in-calabarzon",
-      "published_date": "2026-10-10T23:54:09+00:00",
+      "url": "https://newsinfo.inquirer.net/2321599/mans-carpio-personal-money-used-for-flagged-purchases-not-public-funds",
+      "published_date": "2026-10-11T17:08:15+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Calabarzon domestic workers to get P750 monthly wage hike",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321273/calabarzon-domestic-workers-to-get-p750-monthly-wage-hike",
-      "published_date": "2026-10-10T23:13:11+00:00",
+      "title": "Probe sought on Chinese remittances to Cale88",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/12/2562539/probe-sought-chinese-remittances-cale88",
+      "published_date": "2026-10-11T16:00:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "PCSO: ₱259.92-M Grand Lotto jackpot has no winner",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321226/pcso-%e2%82%b1259-92m-grand-lotto-jackpot-has-no-winner",
-      "published_date": "2026-10-10T21:58:52+00:00",
+      "title": "Prosecutors rest impeachment case vs VP Sara",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/12/2562542/prosecutors-rest-impeachment-case-vs-vp-sara",
+      "published_date": "2026-10-11T16:00:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Sara Duterte’s unexplained wealth case strongest, says Barbers",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321212/sara-dutertes-alleged-unexplained-wealth-case-strongest-says-barbers",
-      "published_date": "2026-10-10T21:19:38+00:00",
+      "title": "2 cyclones seen outside PAR",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/12/2562549/2-cyclones-seen-outside-par",
+      "published_date": "2026-10-11T16:00:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Maniquiz questions P319M China-linked funds amid Zambales fishers’ woes",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321184/maniquiz-questions-p319m-china-linked-funds-amid-zambales-fishers-woes",
-      "published_date": "2026-10-10T20:23:16+00:00",
+      "title": "Robin, allies threaten to stop attending trial",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/12/2562552/robin-allies-threaten-stop-attending-trial",
+      "published_date": "2026-10-11T16:00:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "IN PHOTOS: Discovering Albay’s diverse birdlife",
+      "title": "Paolo Duterte questions need to testify on alleged cash deliveries",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321144/in-photos-discovering-albays-diverse-birdlife",
-      "published_date": "2026-10-10T20:22:45+00:00",
+      "url": "https://newsinfo.inquirer.net/2321591/paolo-duterte-questions-need-to-testify-on-alleged-cash-deliveries",
+      "published_date": "2026-10-11T15:55:20+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Pangilinan on Senate majority: We’ll see if it becomes SB19",
+      "title": "Caloocan LGU offers free mental health services to constituents",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321157/pangilinan-on-senate-majority-well-see-if-it-becomes-sb19",
-      "published_date": "2026-10-10T19:50:24+00:00",
+      "url": "https://newsinfo.inquirer.net/2321585/caloocan-lgu-offers-free-mental-health-services-to-constituents",
+      "published_date": "2026-10-11T15:30:11+00:00",
       "category": "Local Events"
     },
     {
-      "title": "One Education boosts learner support, expands job pathways",
+      "title": "Padilla: No info on other senators moving to majority bloc",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321166/one-education-boosts-learner-support-expands-job-pathways",
-      "published_date": "2026-10-10T18:45:52+00:00",
+      "url": "https://newsinfo.inquirer.net/2321583/padilla-no-info-on-other-senators-moving-to-majority-bloc",
+      "published_date": "2026-10-11T15:20:08+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Solon: Civilian informants key in anti-drug operations",
+      "title": "Mans Carpio feels like ‘collateral damage’ in wife Sara Duterte’s trial",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321130/civilian-informants-key-in-anti-drug-operations",
-      "published_date": "2026-10-10T16:40:55+00:00",
+      "url": "https://newsinfo.inquirer.net/2321574/mans-carpio-feels-like-collateral-damage-in-wife-sara-dutertes-trial",
+      "published_date": "2026-10-11T14:48:26+00:00",
       "category": "Local Events"
     }
   ]
