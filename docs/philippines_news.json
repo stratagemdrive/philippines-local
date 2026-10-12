@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Mt. Kanlaon spews ash after latest blast",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321671/mt-kanlaon-spews-ash-after-latest-blast",
+      "published_date": "2026-10-12T04:35:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "President Marcos admits escalation of tensions in Ayungin",
       "source": "Philstar Global",
       "url": "https://www.philstar.com/headlines/2026/10/12/2562551/president-marcos-admits-escalation-tensions-ayungin",
@@ -58,6 +65,34 @@
     }
   ],
   "Military": [
+    {
+      "title": "Fallen Isabela soldier given full military, Islamic honors in Sulu",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321806/fallen-isabela-soldier-given-full-military-islamic-honors-in-sulu",
+      "published_date": "2026-10-12T08:49:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "WATCH: Sara Duterte impeachment trial | Oct. 12, 2026",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321791/watch-sara-duterte-impeachment-trial-oct-12-2026",
+      "published_date": "2026-10-12T07:20:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Day 38 of Duterte impeachment trial: Defense to cross financial analyst",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321685/sara-duterte-impeachment-trial-defense-to-cross-financial-analyst",
+      "published_date": "2026-10-12T07:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "LIVE: Sara Duterte's impeachment trial, Oct. 12",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/12/2562638/live-sara-dutertes-impeachment-trial-oct-12",
+      "published_date": "2026-10-12T00:30:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Chua dares Duterte defense team: Seek impeachment case dismissal",
       "source": "Philippine Daily Inquirer",
@@ -169,37 +204,16 @@
       "url": "https://www.rappler.com/philippines/rodrigo-duterte-fit-stand-trial-international-criminal-court-october-8-2026/",
       "published_date": "2026-10-08T14:09:22+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Ridon: VP’s defense for bank records is to push blame toward dad",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319672/ridon-vps-defense-for-bank-records-is-to-push-blame-toward-dad",
-      "published_date": "2026-10-08T00:26:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PCG, PDEA seize P81.6-M shabu at Batangas port; 4 arrested",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319341/pcg-pdea-seize-p81-6-m-shabu-at-batangas-port-4-arrested",
-      "published_date": "2026-10-07T18:14:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "4 suspects busted, P81.6 M ‘shabu’ seized at Batangas port",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2319272/4-suspects-busted-p81-6-m-shabu-seized-at-batangas-port",
-      "published_date": "2026-10-07T17:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Coast Guard activates Kalayaan auxiliary district",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/08/2561654/coast-guard-activates-kalayaan-auxiliary-district",
-      "published_date": "2026-10-07T16:00:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Fuel aid, solar irrigation rolled out across PH",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321668/fuel-aid-solar-irrigation-rolled-out-across-ph",
+      "published_date": "2026-10-12T04:30:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Solar irrigation boosts Eastern Visayas farmers’ El Niño resilience",
       "source": "Philippine Daily Inquirer",
@@ -443,6 +457,69 @@
   ],
   "Local Events": [
     {
+      "title": "Romualdez’s bail hearing for plunder begins",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321792/romualdezs-bail-hearing-for-plunder-begins",
+      "published_date": "2026-10-12T09:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Maleta boys’ to testify vs Romualdez in plunder bail hearing",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321810/maleta-boys-to-testify-vs-romualdez-in-plunder-bail-hearing",
+      "published_date": "2026-10-12T09:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ITCZ, easterlies to bring rains over parts of PH",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321798/itcz-easterlies-to-bring-rains-over-parts-of-philippines",
+      "published_date": "2026-10-12T07:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Panelo: ‘Dark horse’ could replace Sara Duterte in 2028",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321714/panelo-dark-horse-could-replace-sara-duterte-in-2028",
+      "published_date": "2026-10-12T05:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lawmaker flags P180-B pork in 2027 budget",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321724/lawmaker-flags-p180-b-pork-in-2027-budget",
+      "published_date": "2026-10-12T05:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lino Cayetano named Palace communications chief",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321715/lino-cayetano-named-palace-communications-chief",
+      "published_date": "2026-10-12T05:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tau Omega Mu to hold free medical, vet clinics",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2321732/tau-omega-mu-to-hold-free-medical-vet-clinics",
+      "published_date": "2026-10-12T04:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "published_date": "2026-10-12T01:03:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SPECIAL COVERAGE: Impeachment trial of Sara Duterte",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/philippines/video-special-coverage-panel-discussion-impeachment-trial-sara-duterte/",
+      "published_date": "2026-10-12T01:01:52+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Local pollution, not Indon haze, forces 4 Cebu cities to suspend classes",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2321664/local-pollution-not-indonesian-haze-forces-4-cebu-cities-to-suspend-classes",
@@ -517,69 +594,6 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2321601/padilla-said-he-allies-may-skip-trial-due-to-distortion-of-constitution",
       "published_date": "2026-10-11T17:10:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mans Carpio: Personal money used for flagged purchases, not public funds",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321599/mans-carpio-personal-money-used-for-flagged-purchases-not-public-funds",
-      "published_date": "2026-10-11T17:08:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Probe sought on Chinese remittances to Cale88",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/12/2562539/probe-sought-chinese-remittances-cale88",
-      "published_date": "2026-10-11T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prosecutors rest impeachment case vs VP Sara",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/12/2562542/prosecutors-rest-impeachment-case-vs-vp-sara",
-      "published_date": "2026-10-11T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 cyclones seen outside PAR",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/12/2562549/2-cyclones-seen-outside-par",
-      "published_date": "2026-10-11T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Robin, allies threaten to stop attending trial",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/12/2562552/robin-allies-threaten-stop-attending-trial",
-      "published_date": "2026-10-11T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paolo Duterte questions need to testify on alleged cash deliveries",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321591/paolo-duterte-questions-need-to-testify-on-alleged-cash-deliveries",
-      "published_date": "2026-10-11T15:55:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Caloocan LGU offers free mental health services to constituents",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321585/caloocan-lgu-offers-free-mental-health-services-to-constituents",
-      "published_date": "2026-10-11T15:30:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Padilla: No info on other senators moving to majority bloc",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321583/padilla-no-info-on-other-senators-moving-to-majority-bloc",
-      "published_date": "2026-10-11T15:20:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mans Carpio feels like ‘collateral damage’ in wife Sara Duterte’s trial",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321574/mans-carpio-feels-like-collateral-damage-in-wife-sara-dutertes-trial",
-      "published_date": "2026-10-11T14:48:26+00:00",
       "category": "Local Events"
     }
   ]
