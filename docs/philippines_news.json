@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "AFP modernization needs sustained funding amid threats — Ejercito",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2325819/afp-modernization-needs-sustained-funding-amid-threats-ejercito",
+      "published_date": "2026-10-18T07:51:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Lawmaker seeks Chinese envoy’s expulsion over embassy’s ‘stop bluffing’ taunt",
       "source": "Philstar Global",
       "url": "https://www.philstar.com/headlines/2026/10/17/2563867/lawmaker-seeks-chinese-envoys-expulsion-over-embassys-stop-bluffing-taunt",
@@ -80,6 +87,13 @@
   ],
   "Military": [
     {
+      "title": "PCG seeks help in search for missing fisherman in Occidental Mindoro",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2325832/pcg-seeks-help-in-search-for-missing-fisherman-in-occidental-mindoro",
+      "published_date": "2026-10-18T08:29:22+00:00",
+      "category": "Military"
+    },
+    {
       "title": "4 stranded individuals rescued island off Bislig City",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2325678/4-stranded-individuals-rescued-island-off-bislig-city",
@@ -91,6 +105,13 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2325645/speaker-dy-joins-marcos-at-pcgs-125th-anniv-rites-cites-house-backed-reforms",
       "published_date": "2026-10-17T17:52:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "First female PMA Commandant of Cadets named",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/18/2563979/first-female-pma-commandant-cadets-named",
+      "published_date": "2026-10-17T16:00:00+00:00",
       "category": "Military"
     },
     {
@@ -203,20 +224,6 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2323088/pcg-60-of-77-victims-in-mv-june-aster-ferry-fire-identified",
       "published_date": "2026-10-13T18:18:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Duterte trial: Luistro protests ‘persecution’ remark by defense counsel",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2323032/duterte-trial-luistro-protests-persecution-remark-by-defense-counsel",
-      "published_date": "2026-10-13T17:38:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sumisip LGU condemns attacks on Army troops in Basilan",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2322979/sumisip-lgu-condemns-attacks-on-army-troops-in-basilan",
-      "published_date": "2026-10-13T16:36:48+00:00",
       "category": "Military"
     }
   ],
@@ -346,16 +353,16 @@
       "url": "https://newsinfo.inquirer.net/2321298/regulators-ok-meralco-rate-hike-after-15-yrs",
       "published_date": "2026-10-11T05:36:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Marcos disappointed Philippines halted Bataan Nuclear Power Plant",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/11/2562352/marcos-disappointed-philippines-halted-bataan-nuclear-power-plant",
-      "published_date": "2026-10-10T16:00:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Development banks pledge support in 1st Manila meeting",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2325777/development-banks-pledge-support-in-1st-manila-meeting",
+      "published_date": "2026-10-18T05:24:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Sen. Mark Villar pushes tax credits for businesses granting senior, PWD discounts",
       "source": "Philippine Daily Inquirer",
@@ -488,16 +495,37 @@
       "url": "https://newsinfo.inquirer.net/2324105/ridon-to-carpios-massive-shoe-bill-only-oligarchs-are-sports-patrons",
       "published_date": "2026-10-15T01:28:08+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "P3.9-B South Cotabato-Sarangani road eases travel for Mindanao farmers",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2323845/p3-9-b-south-cotabato-sarangani-road-eases-travel-for-mindanao-farmers",
-      "published_date": "2026-10-14T19:10:16+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Erwin Tulfo on 3 ‘backstabbing’ peers: ‘Tsk, tsk, tsk’",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2325771/erwin-tulfo-on-3-backstabbing-peers-tsk-tsk-tsk",
+      "published_date": "2026-10-18T05:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ombudsman bares probe of Cagayan lawmaker Lara, kin",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2325779/ombudsman-bares-probe-of-cagayan-lawmaker-lara-kin",
+      "published_date": "2026-10-18T05:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "18 including 8 Chinese nabbed for illegal mining in Surigao City",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2325773/18-including-8-chinese-nabbed-for-illegal-mining-in-surigao-city",
+      "published_date": "2026-10-18T05:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Millennial Saint’ relic touring Visayas churches",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2325769/millennial-saint-relic-touring-visayas-churches",
+      "published_date": "2026-10-18T05:20:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Grand Lotto 6/55, Lotto 6/42 draw results on Saturday, Oct. 17",
       "source": "Philippine Daily Inquirer",
@@ -510,6 +538,13 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2325663/philpen-launched-for-stronger-polytechnic-education",
       "published_date": "2026-10-17T21:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than a topnotcher: Who is Maxine Francesco Gwyneth Baculo?",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2325695/more-than-a-topnotcher-who-is-maxine-francesco-gwyneth-baculo",
+      "published_date": "2026-10-17T20:34:09+00:00",
       "category": "Local Events"
     },
     {
@@ -590,52 +625,17 @@
       "category": "Local Events"
     },
     {
-      "title": "Rare, threatened amphibian spotted in Mount Apo",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325562/rare-threatened-amphibian-spotted-in-mount-apo",
-      "published_date": "2026-10-17T15:26:05+00:00",
+      "title": "‘VP could still be convicted outside impeachment’",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/18/2563974/vp-could-still-be-convicted-outside-impeachment",
+      "published_date": "2026-10-17T16:00:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "QC solon takes legal action vs ‘fake’ news sites",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325517/qc-solon-takes-legal-action-vs-fake-news-sites",
-      "published_date": "2026-10-17T14:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lacson hits 3 minority senators over bid to oust Erwin Tulfo",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325550/lacson-hits-3-minority-senators-over-vote-on-bid-to-oust-erwin-tulfo",
-      "published_date": "2026-10-17T13:46:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tourism Infra Authority, Ilocos Norte LGU to rehabilitate Paoay Golf Course",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325475/tourism-infra-authority-ilocos-norte-lgu-to-rehabilitate-paoay-golf-course",
-      "published_date": "2026-10-17T13:14:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Filipino composer Rom Dongeto and the song we thought we knew",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/people/artists/filipino-composer-rom-dongeto-song-kanlungan/",
-      "published_date": "2026-10-17T08:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "As Asia grays, can an aging Philippines avoid its neighbors’ fate?",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/philippines/aging-population-senior-citizens-asia/",
-      "published_date": "2026-10-17T06:05:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DepEd adopts ‘buddy system’ for students’ mental health",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325302/deped-adopts-buddy-system-for-students-mental-health",
-      "published_date": "2026-10-17T05:46:00+00:00",
+      "title": "ICC prosecutor wants 5 more testimonies admitted",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/18/2563978/icc-prosecutor-wants-5-more-testimonies-admitted",
+      "published_date": "2026-10-17T16:00:00+00:00",
       "category": "Local Events"
     }
   ]
