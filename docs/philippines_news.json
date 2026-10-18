@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "PHILTHRA urges harm reduction: Studies back lower-risk nicotine products",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326063/philthra-urges-harm-reduction-studies-back-lower-risk-nicotine-products",
+      "published_date": "2026-10-18T17:20:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "AFP modernization needs sustained funding amid threats — Ejercito",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2325819/afp-modernization-needs-sustained-funding-amid-threats-ejercito",
@@ -76,21 +83,35 @@
       "url": "https://www.philstar.com/headlines/2026/10/12/2562551/president-marcos-admits-escalation-tensions-ayungin",
       "published_date": "2026-10-11T16:00:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Kanlaon Volcano emits ash on Sunday",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321444/kanlaon-volcano-emits-ash-on-sunday-morning",
-      "published_date": "2026-10-11T10:33:52+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "PCG transfers remains of 10 M/V June Aster victims to El Nido",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326095/pcg-transfers-remains-of-10-m-v-june-aster-victims-to-el-nido",
+      "published_date": "2026-10-18T21:03:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "2 rescued from partially submerged fishing boat off Palawan",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2325923/2-rescued-from-partially-submerged-fishing-boat-off-palawan",
+      "published_date": "2026-10-18T11:35:01+00:00",
+      "category": "Military"
+    },
     {
       "title": "PCG seeks help in search for missing fisherman in Occidental Mindoro",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2325832/pcg-seeks-help-in-search-for-missing-fisherman-in-occidental-mindoro",
       "published_date": "2026-10-18T08:29:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PMA’s first female summa cum laude takes command of cadets",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/people/human-interest/philippine-military-academy-first-female-commandant-cadets/",
+      "published_date": "2026-10-18T04:05:15+00:00",
       "category": "Military"
     },
     {
@@ -204,30 +225,16 @@
       "url": "https://www.philstar.com/headlines/2026/10/15/2563322/duterte-defense-wants-fewer-witnesses-evidence",
       "published_date": "2026-10-14T16:00:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Basilan execs deny lockdown amid heightened security",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2323235/basilan-execs-deny-lockdown-amid-heightened-security",
-      "published_date": "2026-10-14T04:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "ICC rejects Duterte camp bid to cap evidence at 10,000 items",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/14/2563175/icc-rejects-duterte-camp-bid-cap-evidence-10000-items",
-      "published_date": "2026-10-14T03:03:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PCG: 60 of 77 victims in MV June Aster ferry fire identified",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2323088/pcg-60-of-77-victims-in-mv-june-aster-ferry-fire-identified",
-      "published_date": "2026-10-13T18:18:18+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "NIA turns over 3 solar-powered irrigation projects in Leyte, Samar",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2325995/nia-turns-over-3-solar-powered-irrigation-projects-in-leyte-samar",
+      "published_date": "2026-10-18T13:08:20+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Inside story: Politician behind 521-kilo shabu shipment bound for Manila",
       "source": "Rappler",
@@ -339,23 +346,23 @@
       "url": "https://newsinfo.inquirer.net/2321668/fuel-aid-solar-irrigation-rolled-out-across-ph",
       "published_date": "2026-10-12T04:30:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Solar irrigation boosts Eastern Visayas farmers’ El Niño resilience",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321518/solar-irrigation-boosts-eastern-visayas-farmers-el-nino-resilience",
-      "published_date": "2026-10-11T13:10:57+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Regulators OK Meralco rate hike after 15 yrs",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2321298/regulators-ok-meralco-rate-hike-after-15-yrs",
-      "published_date": "2026-10-11T05:36:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Ejercito: Senate ready to extend courtesy to OVP at budget hearing",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326024/ejercito-senate-ready-to-extend-courtesy-to-ovp-at-budget-hearing",
+      "published_date": "2026-10-18T13:16:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "2027 budget not being used for Duterte’s impeachment trial – Ejercito",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2325844/2027-budget-not-being-used-for-dutertes-impeachment-trial-ejercito",
+      "published_date": "2026-10-18T08:37:13+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Development banks pledge support in 1st Manila meeting",
       "source": "Philippine Daily Inquirer",
@@ -481,161 +488,147 @@
       "url": "https://newsinfo.inquirer.net/2324048/da-chief-urged-to-take-leave-amid-rice-import-probe",
       "published_date": "2026-10-15T05:27:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Peso breaches 63-level vs dollar, hits record low",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/business/2026/10/15/2563400/peso-breaches-63-level-vs-dollar-hits-record-low",
-      "published_date": "2026-10-15T03:06:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ridon to Carpio’s massive shoe bill: Only oligarchs are sports patrons",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2324105/ridon-to-carpios-massive-shoe-bill-only-oligarchs-are-sports-patrons",
-      "published_date": "2026-10-15T01:28:08+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "PCSO lotto results Oct. 18: No winner for ₱410.97-M jackpot",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326125/pcso-lotto-results-oct-18-no-winner-for-410-97-m-jackpot",
+      "published_date": "2026-10-18T22:01:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "P4.6-M suspected shabu, smuggled cigarettes seized in BARMM",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326102/p4-6-m-suspected-shabu-smuggled-cigarettes-seized-in-barmm",
+      "published_date": "2026-10-18T21:38:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "VP Duterte told: You only have yourself to blame for impeachment trial",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326090/vp-duterte-told-she-has-only-herself-to-blame-for-impeachment-trial",
+      "published_date": "2026-10-18T19:33:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prosecution expects Ombudsman to file raps vs VP over fund misuse",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326088/prosecution-expects-ombudsman-to-file-raps-vs-vp-over-fund-misuse",
+      "published_date": "2026-10-18T18:57:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DENR ramps up forest protection, reforestation amid El Niño risk",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326066/denr-ramps-up-forest-protection-reforestation-amid-el-nino-risk",
+      "published_date": "2026-10-18T17:57:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2 alleged fixers nabbed over disorderly behavior in LTO central office",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326055/2-alleged-fixers-nabbed-over-disorderly-behavior-in-lto-central-office",
+      "published_date": "2026-10-18T15:54:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PDEA seizes P415.6-M illegal drugs, arrests 126 suspects",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326049/pdea-seizes-p415-6-m-illegal-drugs-arrests-126-suspects",
+      "published_date": "2026-10-18T15:35:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LTFRB: Over 600 TNVS partners under ‘tempo’ status to be regularized",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326045/ltfrb-over-600-tnvs-partners-under-tempo-status-to-be-regularized",
+      "published_date": "2026-10-18T14:44:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DepEd, DILG to deploy barangay tanods in schools, link up with 911",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326036/deped-dilg-to-deploy-barangay-tanods-in-schools-link-up-with-911",
+      "published_date": "2026-10-18T13:56:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavy rains expected in NCR, other Luzon areas Sunday afternoon",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2325993/heavy-rains-expected-in-ncr-other-luzon-areas-sunday-afternoon",
+      "published_date": "2026-10-18T12:59:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tagum diocese: Refrain from sexualized comments about ‘handsome’ priest",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2325956/tagum-diocese-refrain-from-sexualized-comments-on-handsome-priest",
+      "published_date": "2026-10-18T11:44:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inquirer report on PH debt burden wins Best News Coverage at 48th CMMA",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2325941/inquirer-report-on-ph-debt-burden-wins-best-news-coverage-in-48th-cmma",
+      "published_date": "2026-10-18T11:30:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Psychologists slam podcast over remarks on Kris Aquino’s son Josh",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2325896/psychologists-slam-podcast-over-remarks-on-kris-aquinos-son-josh",
+      "published_date": "2026-10-18T10:28:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Labor coalition seeks faster action on P85 NCR wage hike dispute",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/18/2564078/labor-coalition-seeks-faster-action-p85-ncr-wage-hike-dispute",
+      "published_date": "2026-10-18T09:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Super Typhoon Champi to enter PAR on Oct. 20; to be named Rosal",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2325875/super-typhoon-champi-to-enter-par-tuesday-to-be-named-rosal",
+      "published_date": "2026-10-18T09:52:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "P1-M shabu seized in South Cotabato; 4 arrested",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2325859/p1-m-shabu-seized-in-south-cotabato-4-arrested",
+      "published_date": "2026-10-18T09:25:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Everything wrong with the BSKE postponement",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/philippines/video-issues-barangay-sangguniang-kabataan-elections-postponement/",
+      "published_date": "2026-10-18T07:42:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "34 OFWs from Riyadh to arrive in Manila amid flight disruptions",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/18/2564067/34-ofws-riyadh-arrive-manila-amid-flight-disruptions",
+      "published_date": "2026-10-18T07:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Super Typhoon Champi to enter PAR on October 20",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/philippines/weather/super-typhoon-champi-itcz-easterlies-update-pagasa-forecast-october-18-2026-11am/",
+      "published_date": "2026-10-18T05:40:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Erwin Tulfo on 3 ‘backstabbing’ peers: ‘Tsk, tsk, tsk’",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2325771/erwin-tulfo-on-3-backstabbing-peers-tsk-tsk-tsk",
       "published_date": "2026-10-18T05:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ombudsman bares probe of Cagayan lawmaker Lara, kin",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325779/ombudsman-bares-probe-of-cagayan-lawmaker-lara-kin",
-      "published_date": "2026-10-18T05:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "18 including 8 Chinese nabbed for illegal mining in Surigao City",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325773/18-including-8-chinese-nabbed-for-illegal-mining-in-surigao-city",
-      "published_date": "2026-10-18T05:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Millennial Saint’ relic touring Visayas churches",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325769/millennial-saint-relic-touring-visayas-churches",
-      "published_date": "2026-10-18T05:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Grand Lotto 6/55, Lotto 6/42 draw results on Saturday, Oct. 17",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325707/grand-lotto-6-55-lotto-6-42-draw-results-on-saturday-oct-17",
-      "published_date": "2026-10-17T21:57:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PhilPEN launched to enhance polytechnic education",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325663/philpen-launched-for-stronger-polytechnic-education",
-      "published_date": "2026-10-17T21:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than a topnotcher: Who is Maxine Francesco Gwyneth Baculo?",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325695/more-than-a-topnotcher-who-is-maxine-francesco-gwyneth-baculo",
-      "published_date": "2026-10-17T20:34:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cagayan Rep. Lara under probe for possible plunder",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325643/cagayan-rep-lara-under-probe-for-possible-plunder",
-      "published_date": "2026-10-17T20:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Concerns raised over unfinished gov’t-MILF peace pact",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325636/concerns-raised-over-unfinished-govt-milf-peace-pact",
-      "published_date": "2026-10-17T19:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sen. Erwin Tulfo posts backstabbing cartoon after failed bid to oust him",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325634/sen-erwin-tulfo-posts-backstabbing-cartoon-after-failed-bid-to-oust-him",
-      "published_date": "2026-10-17T19:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "37 Ilocos Norte schools get rainwater catchment drums amid El Niño threat",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325600/37-ilocos-norte-schools-get-rainwater-catchment-drums-amid-el-nino-threat",
-      "published_date": "2026-10-17T18:17:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DepEd introduces ‘My Buddy’ peer support system for safer schools",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325646/deped-introduces-my-buddy-peer-support-system-for-safer-schools",
-      "published_date": "2026-10-17T18:02:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Approval of national water management bill pushed amid El Niño threat",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325596/approval-of-national-water-management-bill-pushed-amid-el-nino-threat",
-      "published_date": "2026-10-17T17:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prosec draws comparison between Corona conviction, VP’s P1.5B ‘unexplained wealth’",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325638/prosec-draws-comparison-between-corona-conviction-vps-p1-5b-unexplained-wealth",
-      "published_date": "2026-10-17T17:15:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prosec hoping for Sara Duterte impeachment verdict by November, December",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325633/prosec-hoping-for-sara-duterte-impeachment-verdict-by-november-december",
-      "published_date": "2026-10-17T17:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prosec: COA ruling shows VP could still be convicted of confi funds misuse",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325620/prosec-coa-ruling-shows-vp-could-still-be-convicted-of-confi-funds-misuse",
-      "published_date": "2026-10-17T16:51:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prosecution eyes early formal offer of evidence in VP impeachment trial",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325618/prosecution-eyes-early-formal-offer-of-evidence-in-vp-impeachment-trial",
-      "published_date": "2026-10-17T16:34:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Residents of southern Bukidnon warned of afternoon rains",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325567/residents-of-southern-bukidnon-warned-of-afternoon-rains",
-      "published_date": "2026-10-17T16:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘VP could still be convicted outside impeachment’",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/18/2563974/vp-could-still-be-convicted-outside-impeachment",
-      "published_date": "2026-10-17T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICC prosecutor wants 5 more testimonies admitted",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/18/2563978/icc-prosecutor-wants-5-more-testimonies-admitted",
-      "published_date": "2026-10-17T16:00:00+00:00",
       "category": "Local Events"
     }
   ]
