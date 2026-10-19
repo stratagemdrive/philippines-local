@@ -1,10 +1,31 @@
 {
   "Diplomacy": [
     {
+      "title": "Cayetano to Filipinos: Be pro-Philippines",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326150/cayetano-to-filipinos-be-pro-philippines",
+      "published_date": "2026-10-18T22:41:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "PHILTHRA urges harm reduction: Studies back lower-risk nicotine products",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2326063/philthra-urges-harm-reduction-studies-back-lower-risk-nicotine-products",
       "published_date": "2026-10-18T17:20:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China taking advantage of VP impeachment raps?",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/19/2564119/china-taking-advantage-vp-impeachment-raps",
+      "published_date": "2026-10-18T16:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Chinese embassy: Persona non grata threat an old trick",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/19/2564124/chinese-embassy-persona-non-grata-threat-old-trick",
+      "published_date": "2026-10-18T16:00:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -76,21 +97,35 @@
       "url": "https://newsinfo.inquirer.net/2321671/mt-kanlaon-spews-ash-after-latest-blast",
       "published_date": "2026-10-12T04:35:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "President Marcos admits escalation of tensions in Ayungin",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/12/2562551/president-marcos-admits-escalation-tensions-ayungin",
-      "published_date": "2026-10-11T16:00:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "PMA’s first female cadet commandant to uphold academy standards",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326129/pmas-first-female-cadet-commandant-to-uphold-academy-standards",
+      "published_date": "2026-10-19T04:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "2 soldiers, 2 others hurt in Himamaylan clash with NPA",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326117/2-soldiers-2-others-hurt-in-himamaylan-clash-with-npa",
+      "published_date": "2026-10-18T22:42:25+00:00",
+      "category": "Military"
+    },
     {
       "title": "PCG transfers remains of 10 M/V June Aster victims to El Nido",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2326095/pcg-transfers-remains-of-10-m-v-june-aster-victims-to-el-nido",
       "published_date": "2026-10-18T21:03:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Navy launches 3rd offshore patrol vessel",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/19/2564125/navy-launches-3rd-offshore-patrol-vessel",
+      "published_date": "2026-10-18T16:00:00+00:00",
       "category": "Military"
     },
     {
@@ -204,30 +239,16 @@
       "url": "https://newsinfo.inquirer.net/2323748/carpio-sara-dutertes-defense-strategy-hangs-in-the-balance",
       "published_date": "2026-10-14T17:42:45+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Ex-soldier, cop nabbed over alleged illegal firearms sale in Pangasinan",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2323640/ex-soldier-cop-nabbed-over-alleged-illegal-firearms-sale-in-pangasinan",
-      "published_date": "2026-10-14T17:14:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "VP Sara told: Stop playing victim",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/15/2563331/vp-sara-told-stop-playing-victim",
-      "published_date": "2026-10-14T16:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Duterte defense wants fewer witnesses,  evidence",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/15/2563322/duterte-defense-wants-fewer-witnesses-evidence",
-      "published_date": "2026-10-14T16:00:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Marcos orders creation of carbon market",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326168/marcos-orders-creation-of-carbon-market",
+      "published_date": "2026-10-19T05:25:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "NIA turns over 3 solar-powered irrigation projects in Leyte, Samar",
       "source": "Philippine Daily Inquirer",
@@ -350,6 +371,27 @@
   ],
   "Economy": [
     {
+      "title": "Senate to extend courtesy to OVP in budget hearing",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326170/senate-to-extend-courtesy-to-ovp-in-budget-hearing",
+      "published_date": "2026-10-19T05:50:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "No dynasty, no celebrity: Cielo Magno to take shot at Senate",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326159/no-dynasty-no-celebrity-cielo-magno-to-take-shot-at-senate",
+      "published_date": "2026-10-19T05:25:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "MBC hopes impeachment trial over by year-end",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/19/2564123/mbc-hopes-impeachment-trial-over-year-end",
+      "published_date": "2026-10-18T16:00:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Ejercito: Senate ready to extend courtesy to OVP at budget hearing",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2326024/ejercito-senate-ready-to-extend-courtesy-to-ovp-at-budget-hearing",
@@ -467,30 +509,79 @@
       "url": "https://newsinfo.inquirer.net/2324413/only-dti-approved-promos-can-replace-20-senior-discount-says-lawyer",
       "published_date": "2026-10-15T17:32:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Poll: Inflation, corruption top concerns of Pinoys",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/16/2563585/poll-inflation-corruption-top-concerns-pinoys",
-      "published_date": "2026-10-15T16:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "FACT CHECK: Martin Romualdez remains detained in Payatas jail",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/newsbreak/fact-check/martin-romualdez-remains-detained-payatas-jail-october-2026/",
-      "published_date": "2026-10-15T08:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "DA chief urged to take leave amid rice import probe",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2324048/da-chief-urged-to-take-leave-amid-rice-import-probe",
-      "published_date": "2026-10-15T05:27:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Thunderstorms, heavy rain expected in parts of Calabarzon Monday morning",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326241/thunderstorms-heavy-rain-expected-in-parts-of-calabarzon-monday-morning",
+      "published_date": "2026-10-19T08:24:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Taal Volcano records 2 minor phreatic eruptions, spike in quakes",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326236/taal-volcano-records-2-minor-phreatic-eruptions-spike-in-quakes",
+      "published_date": "2026-10-19T07:38:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Champi nears PAR but will not affect PH directly on Monday",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326231/champi-nears-par-but-will-not-affect-ph-directly-on-monday",
+      "published_date": "2026-10-19T06:55:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Supertyphoon Rosal to enter PAR Oct. 20",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326163/supertyphoon-rosal-to-enter-par-oct-20",
+      "published_date": "2026-10-19T05:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inquirer report on PH debt wins CMMA",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326173/inquirer-report-on-ph-debt-wins-cmma",
+      "published_date": "2026-10-19T05:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Agusan del Sur reels from dengue surge",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326133/agusan-del-sur-reels-from-dengue-surge",
+      "published_date": "2026-10-19T04:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marawi’s Catholics still endure war scars",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326132/marawis-catholics-still-endure-war-scars",
+      "published_date": "2026-10-19T04:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Champi weakens to typhoon, but may regain strength before entering PAR",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326211/champi-weakens-to-typhoon-but-may-regain-strength-before-entering-par",
+      "published_date": "2026-10-19T00:40:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sara Duterte prays for father’s safe return during Zamboanga visit",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326153/sara-duterte-prays-for-fathers-safe-return-during-zamboanga-visit",
+      "published_date": "2026-10-18T22:48:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands flock to Bacolod for MassKara street dancing competitions",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326120/thousands-flock-to-bacolod-for-masskara-street-dancing-competitions",
+      "published_date": "2026-10-18T22:31:05+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "PCSO lotto results Oct. 18: No winner for ₱410.97-M jackpot",
       "source": "Philippine Daily Inquirer",
@@ -527,6 +618,27 @@
       "category": "Local Events"
     },
     {
+      "title": "‘Stop pitting President Marcos vs VP Sara’",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/19/2564121/stop-pitting-president-marcos-vs-vp-sara",
+      "published_date": "2026-10-18T16:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Evidence on dropped impeachment raps going to ombudsman",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/19/2564122/evidence-dropped-impeachment-raps-going-ombudsman",
+      "published_date": "2026-10-18T16:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Go seeks review of PSC charter",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/19/2564126/go-seeks-review-psc-charter",
+      "published_date": "2026-10-18T16:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "2 alleged fixers nabbed over disorderly behavior in LTO central office",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2326055/2-alleged-fixers-nabbed-over-disorderly-behavior-in-lto-central-office",
@@ -538,97 +650,6 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2326049/pdea-seizes-p415-6-m-illegal-drugs-arrests-126-suspects",
       "published_date": "2026-10-18T15:35:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LTFRB: Over 600 TNVS partners under ‘tempo’ status to be regularized",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326045/ltfrb-over-600-tnvs-partners-under-tempo-status-to-be-regularized",
-      "published_date": "2026-10-18T14:44:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DepEd, DILG to deploy barangay tanods in schools, link up with 911",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326036/deped-dilg-to-deploy-barangay-tanods-in-schools-link-up-with-911",
-      "published_date": "2026-10-18T13:56:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heavy rains expected in NCR, other Luzon areas Sunday afternoon",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325993/heavy-rains-expected-in-ncr-other-luzon-areas-sunday-afternoon",
-      "published_date": "2026-10-18T12:59:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tagum diocese: Refrain from sexualized comments about ‘handsome’ priest",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325956/tagum-diocese-refrain-from-sexualized-comments-on-handsome-priest",
-      "published_date": "2026-10-18T11:44:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inquirer report on PH debt burden wins Best News Coverage at 48th CMMA",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325941/inquirer-report-on-ph-debt-burden-wins-best-news-coverage-in-48th-cmma",
-      "published_date": "2026-10-18T11:30:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Psychologists slam podcast over remarks on Kris Aquino’s son Josh",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325896/psychologists-slam-podcast-over-remarks-on-kris-aquinos-son-josh",
-      "published_date": "2026-10-18T10:28:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Labor coalition seeks faster action on P85 NCR wage hike dispute",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/18/2564078/labor-coalition-seeks-faster-action-p85-ncr-wage-hike-dispute",
-      "published_date": "2026-10-18T09:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Super Typhoon Champi to enter PAR on Oct. 20; to be named Rosal",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325875/super-typhoon-champi-to-enter-par-tuesday-to-be-named-rosal",
-      "published_date": "2026-10-18T09:52:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "P1-M shabu seized in South Cotabato; 4 arrested",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325859/p1-m-shabu-seized-in-south-cotabato-4-arrested",
-      "published_date": "2026-10-18T09:25:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Everything wrong with the BSKE postponement",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/philippines/video-issues-barangay-sangguniang-kabataan-elections-postponement/",
-      "published_date": "2026-10-18T07:42:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "34 OFWs from Riyadh to arrive in Manila amid flight disruptions",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/18/2564067/34-ofws-riyadh-arrive-manila-amid-flight-disruptions",
-      "published_date": "2026-10-18T07:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Super Typhoon Champi to enter PAR on October 20",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/philippines/weather/super-typhoon-champi-itcz-easterlies-update-pagasa-forecast-october-18-2026-11am/",
-      "published_date": "2026-10-18T05:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Erwin Tulfo on 3 ‘backstabbing’ peers: ‘Tsk, tsk, tsk’",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325771/erwin-tulfo-on-3-backstabbing-peers-tsk-tsk-tsk",
-      "published_date": "2026-10-18T05:28:00+00:00",
       "category": "Local Events"
     }
   ]
