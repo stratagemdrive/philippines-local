@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Second Senate resolution seeking China ambassador's expulsion filed",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/20/2564550/second-senate-resolution-seeking-china-ambassadors-expulsion-filed",
+      "published_date": "2026-10-20T07:32:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Filipinos split on Marcos admin’s handling of China dispute — survey",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/20/2564525/filipinos-split-marcos-admins-handling-china-dispute-survey",
+      "published_date": "2026-10-20T04:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Pro-China officials, online trolls embolden Beijing to make daring acts",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2326766/pro-china-officials-online-trolls-embolden-beijing-to-make-daring-acts",
@@ -100,6 +114,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "Coast Guard suspends sea travel in Aurora as Rosal approaches",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2327340/coast-guard-suspends-sea-travel-in-aurora-as-rosal-approaches",
+      "published_date": "2026-10-20T23:04:08+00:00",
+      "category": "Military"
+    },
     {
       "title": "Supangan takes over as new PCG commandant",
       "source": "Philippine Daily Inquirer",
@@ -232,16 +253,16 @@
       "url": "https://newsinfo.inquirer.net/2324750/coast-guard-mdrrmo-rescue-4-passengers-from-grounded-boat-in-palawan",
       "published_date": "2026-10-16T07:18:28+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Sara Duterte was told prosecutors might drop 3 impeachment charges",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/16/2563642/sara-duterte-was-told-prosecutors-might-drop-3-impeachment-charges",
-      "published_date": "2026-10-16T05:32:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Marcos vows smooth transition of Sulu from BARMM to Zambo Peninsula",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2327181/marcos-on-sulu",
+      "published_date": "2026-10-20T18:31:45+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Marcos orders creation of carbon market",
       "source": "Philippine Daily Inquirer",
@@ -318,27 +339,6 @@
       "url": "https://www.philstar.com/headlines/2026/10/14/2563111/meralco-rates-month",
       "published_date": "2026-10-13T16:00:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "OIL PRICE WATCH as of Oct. 13, 2026",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2322565/oil-price-watch-as-of-oct-13-2026",
-      "published_date": "2026-10-13T09:23:37+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "ERC orders Meralco to refund P2.64B to consumers",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2322431/erc-orders-meralco-to-refund-p2-64b-to-consumers",
-      "published_date": "2026-10-13T05:35:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "El Niño threat triggers race to save power, water in provinces",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2322389/el-nino-threat-triggers-race-to-save-power-water-in-provinces",
-      "published_date": "2026-10-13T04:30:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -347,6 +347,13 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2326647/raw-sugar-imports-threaten-local-industry-bukidnon-planters-warn",
       "published_date": "2026-10-20T04:35:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Senate panel clears OVP budget in under 20 minutes as Duterte skips hearing",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/20/2564518/senate-panel-clears-ovp-budget-under-20-minutes-duterte-skips-hearing",
+      "published_date": "2026-10-20T03:21:00+00:00",
       "category": "Economy"
     },
     {
@@ -474,154 +481,147 @@
       "url": "https://www.rappler.com/newsbreak/inside-track/jaime-augusto-zobel-de-ayala-philippine-investments-makati-business-club/",
       "published_date": "2026-10-16T11:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Amid cheap pork, eggs, fuel prices prop up inflation in Cordillera",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2324777/amid-cheap-pork-eggs-fuel-prices-prop-up-inflation-in-cordillera",
-      "published_date": "2026-10-16T08:49:54+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
     {
-      "title": "Ex-DPWH official, now state witness, testifies against Romualdez",
+      "title": "DepEd orders schools to brace for disruptions as Rosal approaches",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326811/ex-dpwh-official-now-state-witness-testifies-against-romualdez",
-      "published_date": "2026-10-20T09:26:32+00:00",
+      "url": "https://newsinfo.inquirer.net/2327345/deped-orders-schools-to-brace-for-disruptions-as-rosal-approaches",
+      "published_date": "2026-10-20T23:22:16+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Manila Water schedules repairs in Taguig, Marikina, Rizal on Oct. 20-22",
+      "title": "Vargas files ‘Basura to Ayuda’ bill",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326800/manila-water-schedules-repairs-in-taguig-marikina-rizal-on-oct-20-22",
-      "published_date": "2026-10-20T08:57:15+00:00",
+      "url": "https://newsinfo.inquirer.net/2327329/vargas-files-basura-to-ayuda-bill",
+      "published_date": "2026-10-20T22:11:47+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Super Typhoon Champi’s trough to bring rain to parts of Luzon, Visayas",
+      "title": "PCSO lotto results Oct. 20: ₱420.16M jackpot not won",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326793/super-typhoon-champis-trough-to-bring-rain-to-parts-of-luzon-visayas",
-      "published_date": "2026-10-20T07:01:21+00:00",
+      "url": "https://newsinfo.inquirer.net/2327311/pcso-lotto-results-oct-20-%e2%82%b1420-16m-jackpot-not-won",
+      "published_date": "2026-10-20T21:51:59+00:00",
       "category": "Local Events"
     },
     {
-      "title": "PWD group seeks NBI help in case vs ‘macho’ hosts",
+      "title": "NBI witness: ‘Kickbacks’ to lawmakers standard in gov’t projects",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326688/pwd-group-seeks-nbi-help-in-case-vs-macho-hosts",
-      "published_date": "2026-10-20T05:50:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2327292/nbi-witness-kickbacks-to-lawmakers-standard-in-govt-projects",
+      "published_date": "2026-10-20T21:09:17+00:00",
       "category": "Local Events"
     },
     {
-      "title": "DA proposes P62-B plan to address dry spell impact",
+      "title": "Where can PWDs seek help?",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326710/da-proposes-p62-b-plan-to-address-dry-spell-impact",
-      "published_date": "2026-10-20T05:35:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2327291/where-can-pwds-seek-help",
+      "published_date": "2026-10-20T21:09:16+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Marcoleta suspended due to plunder case",
+      "title": "Dong Gonzales on his graft cases: I will prove myself innocent",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326693/marcoleta-suspended-due-to-plunder-case",
-      "published_date": "2026-10-20T05:30:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2327280/dong-gonzales-on-his-graft-cases-i-will-prove-myself-innocent",
+      "published_date": "2026-10-20T20:47:50+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Dole suspends operations of 6 vessels of MV June Aster firm",
+      "title": "INQToday: Signal No. 1 up in 6 Luzon areas due to Super Typhoon Rosal",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326714/dole-suspends-operations-of-6-vessels-of-mv-june-aster-firm",
-      "published_date": "2026-10-20T05:25:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2327266/inqtoday-signal-no-1-up-in-6-luzon-areas-due-to-super-typhoon-rosal",
+      "published_date": "2026-10-20T20:16:23+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Marcos vows better benefits, opportunities for nurses",
+      "title": "Only 1 of 5 ‘Machong Chismisan’ hosts appears at NBI following subpoenas",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326691/marcos-vows-better-benefits-opportunities-for-nurses",
-      "published_date": "2026-10-20T05:05:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2327271/one-out-of-five-machong-chismisan-hosts-appear-at-nbi",
+      "published_date": "2026-10-20T20:11:43+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Manila dengue cases now at 4,048",
+      "title": "‘No debt’: Mayor Belmonte lists QC gains in State of the City Address",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326690/manila-dengue-cases-now-at-4048",
-      "published_date": "2026-10-20T04:55:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2327170/no-debt-mayor-belmonte-lists-qc-gains-in-state-of-the-city-address",
+      "published_date": "2026-10-20T19:49:11+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Gov’t keeps hands off BARMM parliament leadership vote",
+      "title": "Twins’ suspected trafficker nabbed in Aurora; but abducted kids are missing",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326649/govt-keeps-hands-off-barmm-parliament-leadership-vote",
-      "published_date": "2026-10-20T04:45:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2327232/twins-suspected-trafficker-nabbed-in-aurora-but-abducted-kids-are-missing",
+      "published_date": "2026-10-20T19:30:06+00:00",
       "category": "Local Events"
     },
     {
-      "title": "MassKara Fest draws huge crowds in Bacolod",
+      "title": "Super Typhoon Rosal to bring significant rains in PH by Thursday",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326651/masskara-fest-draws-huge-crowds-in-bacolod",
-      "published_date": "2026-10-20T04:40:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2327239/super-typhoon-rosal-to-bring-significant-rains-in-ph-by-thursday",
+      "published_date": "2026-10-20T19:19:17+00:00",
       "category": "Local Events"
     },
     {
-      "title": "New Urdaneta mayor vows no job cuts",
+      "title": "DSWD readies relief supplies as Pagudpud placed under Signal No. 1",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326650/new-urdaneta-mayor-vows-no-job-cuts",
-      "published_date": "2026-10-20T04:30:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2327206/dswd-readies-relief-supplies-as-pagudpud-placed-under-signal-no-1",
+      "published_date": "2026-10-20T19:03:23+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Super Typhoon Champi maintains strength near Philippines",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/20/2564498/super-typhoon-champi-maintains-strength-near-philippines",
-      "published_date": "2026-10-19T23:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "7 Filipinos hurt in attacks on Saudi Arabia; 3 in critical condition",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/20/2564322/7-filipinos-hurt-attacks-saudi-arabia-3-critical-condition",
-      "published_date": "2026-10-19T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ombudsman clears Santa Maria, Laguna mayor in poll-related raps",
+      "title": "SC: ‘Bloated’ unprogrammed funds in nat’l budget ‘unconstitutional’",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326685/ombudsman-clears-santa-maria-laguna-mayor-in-poll-related-raps",
-      "published_date": "2026-10-19T22:50:18+00:00",
+      "url": "https://newsinfo.inquirer.net/2327202/sc-bloated-unprogrammed-funds-in-natl-budget-unconstitutional",
+      "published_date": "2026-10-20T19:03:11+00:00",
       "category": "Local Events"
     },
     {
-      "title": "DSWD releases aid to over 53,000 sugar farmers, workers in Negros",
+      "title": "Northern Mindanao’s 2nd most wanted falls in Dapitan",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326670/dswd-releases-aid-to-over-53000-sugar-farmers-workers-in-negros",
-      "published_date": "2026-10-19T22:38:33+00:00",
+      "url": "https://newsinfo.inquirer.net/2327183/northern-mindanaos-2nd-most-wanted-falls-in-dapitan",
+      "published_date": "2026-10-20T18:45:27+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Witness: I saw ‘maleta’ in Co’s office when he was not yet solon",
+      "title": "Gatchalian questions Duterte’s absence at OVP budget hearing",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326679/witness-i-saw-maleta-in-cos-office-when-he-was-not-yet-solon",
-      "published_date": "2026-10-19T22:27:25+00:00",
+      "url": "https://newsinfo.inquirer.net/2327174/gatchalian-questions-dutertes-absence-at-ovp-budget-hearing",
+      "published_date": "2026-10-20T18:45:07+00:00",
       "category": "Local Events"
     },
     {
-      "title": "PCSO lotto results Oct. 19: Still no winner for ₱284.69-M jackpot",
+      "title": "Mark Villar seeks mandatory free HMO coverage for gov’t workers",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326644/pcso-lotto-results-oct-19-still-no-winner-for-%e2%82%b1284-69-m-jackpot",
-      "published_date": "2026-10-19T21:50:28+00:00",
+      "url": "https://newsinfo.inquirer.net/2327151/mark-villar-seeks-mandatory-free-hmo-coverage-for-govt-workers",
+      "published_date": "2026-10-20T18:14:33+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Belmonte says QC ‘debt-free’",
+      "title": "Prosecution ready to give ombudsman evidence vs Duterte once requested",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326659/belmonte-says-qc-debt-free",
-      "published_date": "2026-10-19T21:45:58+00:00",
+      "url": "https://newsinfo.inquirer.net/2327160/prosecution-ready-to-give-ombudsman-evidence-vs-duterte-once-requested",
+      "published_date": "2026-10-20T18:07:50+00:00",
       "category": "Local Events"
     },
     {
-      "title": "NUJP calls for accountability as cops allegedly harass reporter",
+      "title": "Signal No. 1 raised in 6 Luzon areas due to Super Typhoon Rosal",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326639/nujp-calls-for-accountability-as-cops-allegedly-harass-reporter",
-      "published_date": "2026-10-19T21:14:27+00:00",
+      "url": "https://newsinfo.inquirer.net/2327134/wind-signal-no-1-raised-in-6-luzon-areas-due-to-super-typhoon-rosal",
+      "published_date": "2026-10-20T17:29:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palace hopes BOC’s proposed P29.9B budget will be restored",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2327101/palace-hopes-bocs-p29-9b-budget-will-be-restored",
+      "published_date": "2026-10-20T17:16:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dengue, leptospirosis cases decline in latest DOH report",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2327095/dengue-leptospirosis-cases-decline-in-latest-doh-report",
+      "published_date": "2026-10-20T17:06:00+00:00",
       "category": "Local Events"
     }
   ]
