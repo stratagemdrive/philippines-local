@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Pro-China officials, online trolls embolden Beijing to make daring acts",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326766/pro-china-officials-online-trolls-embolden-beijing-to-make-daring-acts",
+      "published_date": "2026-10-20T00:26:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "INQToday: DFA summons Chinese envoy for ‘may easily win’ remark",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2326687/inqtoday-dfa-summons-chinese-envoy-for-may-easily-win-remark",
@@ -90,23 +97,16 @@
       "url": "https://www.philstar.com/headlines/2026/10/14/2563194/trump-fly-manila-asean-summit-first-ph-visit-2017",
       "published_date": "2026-10-14T05:58:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "‘Kutseros’ preserving Vigan heritage get rice aid",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2322349/kutseros-preserving-vigan-heritage-get-rice-aid",
-      "published_date": "2026-10-12T22:35:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Manila Water, MWPV-Cebu earn podium finishes at ASEAN Energy Awards 2026",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2322353/manila-water-mwpv-cebu-earn-podium-finishes-at-asean-energy-awards-2026",
-      "published_date": "2026-10-12T21:53:09+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Supangan takes over as new PCG commandant",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326711/supangan-takes-over-as-new-pcg-commandant",
+      "published_date": "2026-10-20T05:20:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Stronger cyberwarfare capabilities needed vs new threats – Gatchalian",
       "source": "Philippine Daily Inquirer",
@@ -239,13 +239,6 @@
       "url": "https://www.philstar.com/headlines/2026/10/16/2563642/sara-duterte-was-told-prosecutors-might-drop-3-impeachment-charges",
       "published_date": "2026-10-16T05:32:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Kapunan: Were VP Duterte’s earlier bank balances declared?",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2324548/kapunan-were-vp-dutertes-earlier-bank-balances-declared",
-      "published_date": "2026-10-15T19:39:16+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -346,16 +339,16 @@
       "url": "https://newsinfo.inquirer.net/2322389/el-nino-threat-triggers-race-to-save-power-water-in-provinces",
       "published_date": "2026-10-13T04:30:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "House panel approves system loss, power generation bills",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2322291/house-panel-approves-system-loss-power-generation-bills",
-      "published_date": "2026-10-12T20:25:42+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Raw sugar imports threaten local industry, Bukidnon planters warn",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326647/raw-sugar-imports-threaten-local-industry-bukidnon-planters-warn",
+      "published_date": "2026-10-20T04:35:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "BIR expands fuel marking operations to 10 revenue regions",
       "source": "Philippine Daily Inquirer",
@@ -488,16 +481,107 @@
       "url": "https://newsinfo.inquirer.net/2324777/amid-cheap-pork-eggs-fuel-prices-prop-up-inflation-in-cordillera",
       "published_date": "2026-10-16T08:49:54+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "BIR updates 2010 tax rules on shared drug discounts for seniors",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2324663/bir-updates-2010-tax-rules-on-shared-drug-discounts-for-seniors",
-      "published_date": "2026-10-16T05:42:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Ex-DPWH official, now state witness, testifies against Romualdez",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326811/ex-dpwh-official-now-state-witness-testifies-against-romualdez",
+      "published_date": "2026-10-20T09:26:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Manila Water schedules repairs in Taguig, Marikina, Rizal on Oct. 20-22",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326800/manila-water-schedules-repairs-in-taguig-marikina-rizal-on-oct-20-22",
+      "published_date": "2026-10-20T08:57:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Super Typhoon Champi’s trough to bring rain to parts of Luzon, Visayas",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326793/super-typhoon-champis-trough-to-bring-rain-to-parts-of-luzon-visayas",
+      "published_date": "2026-10-20T07:01:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PWD group seeks NBI help in case vs ‘macho’ hosts",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326688/pwd-group-seeks-nbi-help-in-case-vs-macho-hosts",
+      "published_date": "2026-10-20T05:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DA proposes P62-B plan to address dry spell impact",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326710/da-proposes-p62-b-plan-to-address-dry-spell-impact",
+      "published_date": "2026-10-20T05:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marcoleta suspended due to plunder case",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326693/marcoleta-suspended-due-to-plunder-case",
+      "published_date": "2026-10-20T05:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dole suspends operations of 6 vessels of MV June Aster firm",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326714/dole-suspends-operations-of-6-vessels-of-mv-june-aster-firm",
+      "published_date": "2026-10-20T05:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marcos vows better benefits, opportunities for nurses",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326691/marcos-vows-better-benefits-opportunities-for-nurses",
+      "published_date": "2026-10-20T05:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Manila dengue cases now at 4,048",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326690/manila-dengue-cases-now-at-4048",
+      "published_date": "2026-10-20T04:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gov’t keeps hands off BARMM parliament leadership vote",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326649/govt-keeps-hands-off-barmm-parliament-leadership-vote",
+      "published_date": "2026-10-20T04:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MassKara Fest draws huge crowds in Bacolod",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326651/masskara-fest-draws-huge-crowds-in-bacolod",
+      "published_date": "2026-10-20T04:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Urdaneta mayor vows no job cuts",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2326650/new-urdaneta-mayor-vows-no-job-cuts",
+      "published_date": "2026-10-20T04:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Super Typhoon Champi maintains strength near Philippines",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/20/2564498/super-typhoon-champi-maintains-strength-near-philippines",
+      "published_date": "2026-10-19T23:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "7 Filipinos hurt in attacks on Saudi Arabia; 3 in critical condition",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/20/2564322/7-filipinos-hurt-attacks-saudi-arabia-3-critical-condition",
+      "published_date": "2026-10-19T23:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Ombudsman clears Santa Maria, Laguna mayor in poll-related raps",
       "source": "Philippine Daily Inquirer",
@@ -538,104 +622,6 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2326639/nujp-calls-for-accountability-as-cops-allegedly-harass-reporter",
       "published_date": "2026-10-19T21:14:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manila Water maximizes Cardona WTP for strong El Niño",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326628/manila-water-maximizes-cardona-wtp-for-strong-el-nino",
-      "published_date": "2026-10-19T21:04:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DOH eyes HPV vaccination for over 2 million girls nationwide",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326611/doh-eyes-hpv-vaccination-for-over-2-million-girls-nationwide",
-      "published_date": "2026-10-19T20:53:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cayetano: Taguig flood control project contractor ‘messed up’ in geotag",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326557/cayetano-says-taguig-flood-control-project-contractor-messed-up-in-geotag",
-      "published_date": "2026-10-19T20:07:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "P447,600 worth of suspected smuggled cigarettes seized in N. Mindanao",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326531/p447600-worth-of-suspected-smuggled-cigarettes-seized-in-n-mindanao",
-      "published_date": "2026-10-19T19:48:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cayetanos slam LLDA for ‘special interest’ in Taguig projects",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326519/cayetanos-slam-llda-for-special-interest-in-taguig-projects",
-      "published_date": "2026-10-19T19:30:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Speaker Dy honors Raul Daza’s five decades of public service",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326489/speaker-dy-honors-raul-dazas-five-decades-of-public-service",
-      "published_date": "2026-10-19T18:52:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sandiganbayan suspends Marcoleta as senator",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326472/sandiganbayan-suspends-marcoleta-as-senator",
-      "published_date": "2026-10-19T18:20:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Champi may trigger wind signals in Cagayan, Isabela by Wednesday",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326496/champi-may-trigger-wind-signals-in-cagayan-isabela-by-wednesday",
-      "published_date": "2026-10-19T18:18:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Las Piñas solon backs PDEA call for national anti-drug task force",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326464/las-pinas-solon-backs-pdea-call-for-national-anti-drug-task-force",
-      "published_date": "2026-10-19T17:56:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NUJP CDO launches drive to shield journalists",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326466/nujp-cdo-launches-drive-to-shield-journalists",
-      "published_date": "2026-10-19T17:51:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "De Lima honors late ex-solon Raul Daza: He was a ‘reassuring presence’",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326446/de-lima-honors-late-ex-solon-raul-daza-he-was-a-reassuring-presence",
-      "published_date": "2026-10-19T17:26:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LTFRB clears 1,131 buses for Undas travel surge",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326442/ltfrb-clears-1131-buses-for-undas-travel-surge",
-      "published_date": "2026-10-19T16:33:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dizon: 3 nabbed for stealing parts of Diokno Pumping Station",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326409/dizon-3-nabbed-for-stealing-parts-of-diokno-pumping-station",
-      "published_date": "2026-10-19T15:08:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manila dengue cases top 4,000 after 31 new cases",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326399/manila-dengue-cases-top-4000-after-31-new-cases",
-      "published_date": "2026-10-19T14:39:34+00:00",
       "category": "Local Events"
     }
   ]
