@@ -8,6 +8,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Reckless decisions on China row must be avoided – Palace",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/22/2564853/reckless-decisions-china-row-must-be-avoided-palace",
+      "published_date": "2026-10-21T16:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Pangilinan to Marcos: You sent Duterte and Romualdez to jail, you can expel China’s envoy",
       "source": "Philstar Global",
       "url": "https://www.philstar.com/headlines/2026/10/21/2564780/pangilinan-marcos-you-sent-duterte-and-romualdez-jail-you-can-expel-chinas-envoy",
@@ -332,23 +339,16 @@
       "url": "https://www.rappler.com/voices/newsletters/readout-inflation-impact-business/",
       "published_date": "2026-10-15T10:00:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "[Vantage Point] Semirara: The government is auctioning an energy crisis",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/voices/thought-leaders/vantage-point-semirara-mining-power-auction-energy-crisis/",
-      "published_date": "2026-10-15T00:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Group seeks House probe on alleged Socoteco II plebiscite issues",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2324003/group-seeks-house-probe-on-alleged-socoteco-ii-plebiscite-issues",
-      "published_date": "2026-10-14T21:54:11+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Baguio, Ormoc top circular economy assessment among Green LGUs",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328112/baguio-ormoc-top-circular-economy-assessment-among-green-lgus",
+      "published_date": "2026-10-22T07:39:24+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Palace laughs off Duterte’s remark that Marcos must ‘stop politicking’",
       "source": "Philippine Daily Inquirer",
@@ -481,16 +481,135 @@
       "url": "https://newsinfo.inquirer.net/2325195/food-inflation-heavily-hits-bukidnons-poorest-households",
       "published_date": "2026-10-16T22:51:30+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Senators back restoration of funding for DepEd’s Aral Program",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325063/senators-back-restoration-of-funding-for-depeds-aral-program",
-      "published_date": "2026-10-16T18:43:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "9 hurt after fire breaks out during Buglasan Festival in Dumaguete",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328125/9-injured-after-fire-breaks-out-during-buglasan-festival-in-dumaguete",
+      "published_date": "2026-10-22T09:13:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Taal Volcano logs 2 more minor phreatomagmatic eruptions",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328121/taal-volcano-logs-2-more-minor-phreatomagmatic-eruptions",
+      "published_date": "2026-10-22T07:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Signal No. 2 still up in Batanes, parts of Babuyan Islands",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328113/signal-no-2-still-up-in-batanes-parts-of-babuyan-islands",
+      "published_date": "2026-10-22T07:46:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palace: Probe lapses in Atong Ang case",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328031/palace-probe-lapses-in-atong-ang-case",
+      "published_date": "2026-10-22T05:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Film industry execs urge gov’t: Help bring down movie ticket prices",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328032/film-industry-execs-urge-govt-help-bring-down-movie-ticket-prices",
+      "published_date": "2026-10-22T05:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "COA notes P242-M idled equipment for still-unfinished gov’t hospitals",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328026/coa-notes-p242-m-idled-equipment-for-still-unfinished-govt-hospitals",
+      "published_date": "2026-10-22T05:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "P397-M ‘duplicate’ payments found in DSWD ‘ayuda’ scheme",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2327998/p397-m-duplicate-payments-found-in-dswd-ayuda-scheme",
+      "published_date": "2026-10-22T05:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Taxpayers can’t get back P467B flagged by SC",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2327997/taxpayers-cant-get-back-p467b-flagged-by-sc",
+      "published_date": "2026-10-22T05:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In Bohol, cloud seeding begins to save farms",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2327943/in-bohol-cloud-seeding-begins-to-save-farms",
+      "published_date": "2026-10-22T05:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bukidnon planters seek fixed price for raw sugar",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2327939/bukidnon-planters-seek-fixed-price-for-raw-sugar",
+      "published_date": "2026-10-22T05:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DENR records big colony of endangered fruit bats in Aurora forests",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2327944/denr-records-big-colony-of-endangered-fruit-bats-in-aurora-forests",
+      "published_date": "2026-10-22T05:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "published_date": "2026-10-22T00:32:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "[Puso at Diwa] Sara Duterte trial: Is the space for political impunity finally closing?",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/voices/thought-leaders/puso-at-diwa-sara-duterte-trial-space-political-impunity-finally-closing/",
+      "published_date": "2026-10-22T00:29:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Intense rain possible in Batanes even as Super Typhoon Rosal weakens further",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/philippines/weather/super-typhoon-rosal-update-pagasa-forecast-october-22-2026-5am/",
+      "published_date": "2026-10-22T00:15:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flu-like illnesses up in Oriental Mindoro",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2327977/flu-like-illnesses-up-in-oriental-mindoro",
+      "published_date": "2026-10-21T23:54:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Forcing employees to perform in Christmas parties a form of bullying",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328063/forcing-employees-to-perform-in-christmas-parties-a-form-of-bullying",
+      "published_date": "2026-10-21T23:48:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NBI rescues child from alleged online sexual abuse, exploitation",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328046/nbi-rescues-child-from-alleged-online-sexual-abuse-exploitation",
+      "published_date": "2026-10-21T23:20:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Part 1: New candidates in the running to be Marcos’ 2nd SC justice",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/philippines/supreme-court-associate-justice-candidates-marcos-pick-2026-part-1/",
+      "published_date": "2026-10-21T23:15:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "MMDA flags 5 major cemeteries for Undas traffic management",
       "source": "Philippine Daily Inquirer",
@@ -503,132 +622,6 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2327947/pcso-lotto-results-oct-21-291-39m-jackpot-unwon",
       "published_date": "2026-10-21T21:55:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manila Water keeps system losses below 15% for El Niño readiness",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327935/manila-water-keeps-system-losses-below-15-for-el-nino-readiness",
-      "published_date": "2026-10-21T21:37:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kapunan: Pursuing grave threat issue vs VP might have diverted trial",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327914/kapunan-pursuing-grave-threat-issue-vs-vp-might-have-diverted-trial",
-      "published_date": "2026-10-21T21:24:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Walang pasok: Oct. 22 classes suspended in some areas due to Rosal",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327921/walang-pasok-oct-22-classes-suspended-in-some-areas-due-to-rosal",
-      "published_date": "2026-10-21T21:18:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "COA flags P397M ‘duplicate,’ ‘overlapping’ AICS payments",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327916/coa-flags-p397m-duplicate-overlapping-aics-payments",
-      "published_date": "2026-10-21T20:33:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kapunan: VP Duterte, Manases prenup, if any, will face scrutiny",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327899/kapunan-vp-duterte-manases-prenup-if-any-will-face-scrutiny",
-      "published_date": "2026-10-21T19:55:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kapunan: Evidence filed early to prevent delays in Nov. 9 VP trial",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327892/kapunan-evidence-filed-early-to-prevent-delays-in-nov-9-vp-trial",
-      "published_date": "2026-10-21T19:24:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NBI: 26 more suspected anomalous flood control projects under probe",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327891/nbi-26-more-suspected-anomalous-flood-control-projects-under-probe",
-      "published_date": "2026-10-21T19:01:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clean water finally reaches Zambo Peninsula Indigenous People",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327837/clean-water-finally-reaches-zambo-peninsula-indigenous-people",
-      "published_date": "2026-10-21T18:42:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ombudsman suspends DICT exec over alleged conflict in P1.5-B deal",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327873/ombudsman-suspends-dict-exec-over-alleged-conflict-in-p1-5-b-deal",
-      "published_date": "2026-10-21T18:34:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2026 Galing Pook Awards: Marcos names 10 outstanding governance programs",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327853/2026-galing-pook-awards-marcos-names-10-outstanding-governance-programs",
-      "published_date": "2026-10-21T18:00:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ombudsman dismisses Dagupan treasurer over alleged P1M ‘ghost’ purchase",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327815/ombudsman-dismisses-dagupan-treasurer-over-alleged-p1m-ghost-purchase",
-      "published_date": "2026-10-21T17:57:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marcos urged: Address unfinished gov’t peace pact with MILF",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327834/marcos-urged-address-unfinished-govt-peace-pact-with-milf",
-      "published_date": "2026-10-21T17:47:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marcos, Angara roll out Yakap health caravan in Sulu",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327802/marcos-angara-roll-out-yakap-health-caravan-in-sulu",
-      "published_date": "2026-10-21T17:46:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SC: Filing raps over budget hikes next step to exact accountability",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327829/sc-filing-raps-over-budget-hikes-next-step-to-exact-accountability",
-      "published_date": "2026-10-21T17:45:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Super Typhoon Rosal slightly weakens off Aparri, Cagayan",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327826/super-typhoon-rosal-slightly-weakens-off-aparri-cagayan",
-      "published_date": "2026-10-21T17:44:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Revilla says evidence vs him calls for acquittal in malversation case",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327770/revilla-says-evidence-vs-him-calls-for-acquittal-in-malversation-case",
-      "published_date": "2026-10-21T17:23:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mindoro chemist lands Top 6 in 2026 licensure exam",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327780/mindoro-chemist-lands-top-6-in-2026-licensure-exam",
-      "published_date": "2026-10-21T17:13:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Probe into ‘lapses’ in Atong Ang’s ‘backdoor exit’ needed – Palace",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327764/probe-into-lapses-in-atong-angs-backdoor-exit-needed-palace",
-      "published_date": "2026-10-21T16:53:12+00:00",
       "category": "Local Events"
     }
   ]
