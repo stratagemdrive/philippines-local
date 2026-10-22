@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Entry ban a ‘small price to pay,’ says lawmaker on Chinese Embassy ‘list’",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/22/2565006/entry-ban-small-price-pay-says-lawmaker-chinese-embassy-list",
+      "published_date": "2026-10-22T08:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "DFA calls out Chinese Embassy for series of 'undiplomatic' posts",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/22/2564995/dfa-calls-out-chinese-embassy-series-undiplomatic-posts",
+      "published_date": "2026-10-22T04:42:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "MMDA starts early Undas preps amid Asean Summit buildup",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2327778/fwd-mmda-starts-early-undas-preparations-amid-asean-summit-buildup",
@@ -125,16 +139,23 @@
       "url": "https://www.rappler.com/philippines/dfa-statement-jing-quan-china-ambassador/",
       "published_date": "2026-10-15T23:51:01+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "China envoy urges dialogue on West Philippine Sea tensions",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/16/2563589/china-envoy-urges-dialogue-west-philippine-sea-tensions",
-      "published_date": "2026-10-15T16:00:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Latter-day Saints group donates disaster gear to Army reservists",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328576/latter-day-saints-group-donates-disaster-gear-to-army-reservists",
+      "published_date": "2026-10-22T19:52:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Coast Guard restricts sea travel in parts of Bicol",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328463/coast-guard-restricts-sea-travel-in-parts-of-bicol",
+      "published_date": "2026-10-22T17:51:42+00:00",
+      "category": "Military"
+    },
     {
       "title": "PCG suspends small vessel trips in northern Quezon due to Rosal",
       "source": "Philippine Daily Inquirer",
@@ -260,23 +281,23 @@
       "url": "https://newsinfo.inquirer.net/2325678/4-stranded-individuals-rescued-island-off-bislig-city",
       "published_date": "2026-10-17T21:20:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Speaker Dy joins Marcos at PCG’s 125th anniv rites, cites House-backed reforms",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325645/speaker-dy-joins-marcos-at-pcgs-125th-anniv-rites-cites-house-backed-reforms",
-      "published_date": "2026-10-17T17:52:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "First female PMA Commandant of Cadets named",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/18/2563979/first-female-pma-commandant-cadets-named",
-      "published_date": "2026-10-17T16:00:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Bataan mayors oppose revival of mothballed nuke plant",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328425/bataan-mayors-oppose-revival-of-mothballed-nuke-plant",
+      "published_date": "2026-10-22T16:52:31+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "1 Filipino dead after drone attack on oil field — Saudi Arabia",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/22/2565013/1-filipino-dead-after-drone-attack-oil-field-saudi-arabia",
+      "published_date": "2026-10-22T08:23:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "4 arrested over alleged illegal petroleum trading in Payatas",
       "source": "Philippine Daily Inquirer",
@@ -332,16 +353,44 @@
       "url": "https://newsinfo.inquirer.net/2325015/filing-of-plunder-cases-vs-legarda-leviste-forthcoming-ombudsman",
       "published_date": "2026-10-16T16:14:04+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "[READOUT] What a stickier inflation wave could mean for businesses",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/voices/newsletters/readout-inflation-impact-business/",
-      "published_date": "2026-10-15T10:00:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "PH risks losing ₱603B yearly to money mule fraud, report warns",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328717/ph-risks-losing-%e2%82%b1603b-yearly-to-money-mule-fraud-report-warns",
+      "published_date": "2026-10-22T23:32:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Senate finance panel approves DBM’s P3.1-B budget for 2027",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328439/senate-finance-panel-approves-dbms-p2-9-b-budget-for-2027",
+      "published_date": "2026-10-22T17:39:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Senate finance panel swiftly approves 7.7B budget for chamber",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328459/senate-finance-panel-swiftly-approves-7-7b-budget-for-chamber",
+      "published_date": "2026-10-22T17:21:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ejercito asks House: Don’t recall the approved 2027 budget",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328383/ejercito-asks-house-dont-recall-the-approved-2027-budget",
+      "published_date": "2026-10-22T16:47:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "DBM: Stricter vetting process for infra projects in 2027 budget",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328397/dbm-stricter-vetting-process-for-infra-projects-in-the-2027-budget",
+      "published_date": "2026-10-22T16:17:44+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Baguio, Ormoc top circular economy assessment among Green LGUs",
       "source": "Philippine Daily Inquirer",
@@ -446,182 +495,147 @@
       "url": "https://newsinfo.inquirer.net/2325657/sen-mark-villar-pushes-tax-credits-for-businesses-granting-senior-pwd-discounts",
       "published_date": "2026-10-17T18:29:06+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Sara Duterte denies owning fast food chain franchise amid GenCorp link",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325597/sara-duterte-denies-owning-fast-food-chain-franchise-amid-gencorp-link",
-      "published_date": "2026-10-17T17:37:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bukidnon ube set to enter US market",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325531/bukidnon-ube-set-to-enter-us-market",
-      "published_date": "2026-10-17T15:20:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Northern Samar leads Eastern Visayas in economic growth at 4.6%",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325523/northern-samar-leads-eastern-visayas-in-economic-growth-at-4-6",
-      "published_date": "2026-10-17T14:55:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Senators want more for DepEd’s remedial class program Aral",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325307/senators-want-more-for-depeds-remedial-class-program-aral",
-      "published_date": "2026-10-17T05:50:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Food inflation heavily hits Bukidnon’s poorest households",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325195/food-inflation-heavily-hits-bukidnons-poorest-households",
-      "published_date": "2026-10-16T22:51:30+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
     {
-      "title": "9 hurt after fire breaks out during Buglasan Festival in Dumaguete",
+      "title": "No bribes or assurances: Marvic Leonen sets vision of the judiciary",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2328125/9-injured-after-fire-breaks-out-during-buglasan-festival-in-dumaguete",
-      "published_date": "2026-10-22T09:13:24+00:00",
+      "url": "https://newsinfo.inquirer.net/2328710/no-bribes-or-assurances-marvic-leonen-sets-vision-of-the-judiciary",
+      "published_date": "2026-10-22T23:24:29+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Taal Volcano logs 2 more minor phreatomagmatic eruptions",
+      "title": "SWS: Fewer Filipinos follow Duterte trial than past impeachments",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2328121/taal-volcano-logs-2-more-minor-phreatomagmatic-eruptions",
-      "published_date": "2026-10-22T07:56:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2328665/sws-42-of-filipinos-tune-in-to-sara-dutertes-impeachment-trial",
+      "published_date": "2026-10-22T22:04:47+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Signal No. 2 still up in Batanes, parts of Babuyan Islands",
+      "title": "PCSO lotto results Oct. 22: No jackpot winners",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2328113/signal-no-2-still-up-in-batanes-parts-of-babuyan-islands",
-      "published_date": "2026-10-22T07:46:22+00:00",
+      "url": "https://newsinfo.inquirer.net/2328664/pcso-lotto-results-oct-22-no-jackpot-winners",
+      "published_date": "2026-10-22T21:55:53+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Palace: Probe lapses in Atong Ang case",
+      "title": "Surigao town’s ‘arm-to-spoon’ program among 2026 Galing Pook awardees",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2328031/palace-probe-lapses-in-atong-ang-case",
-      "published_date": "2026-10-22T05:44:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2328568/surigao-towns-arm-to-spoon-program-among-2026-galing-pook-awardees",
+      "published_date": "2026-10-22T20:18:02+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Film industry execs urge gov’t: Help bring down movie ticket prices",
+      "title": "Almirol: eGov deals went to PLDT firms serving gov’t before me",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2328032/film-industry-execs-urge-govt-help-bring-down-movie-ticket-prices",
-      "published_date": "2026-10-22T05:38:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2328601/almirol-egov-deals-went-to-pldt-firms-serving-govt-before-me",
+      "published_date": "2026-10-22T19:55:49+00:00",
       "category": "Local Events"
     },
     {
-      "title": "COA notes P242-M idled equipment for still-unfinished gov’t hospitals",
+      "title": "Drilon: Congress must clarify SC ruling on unprogrammed funds",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2328026/coa-notes-p242-m-idled-equipment-for-still-unfinished-govt-hospitals",
-      "published_date": "2026-10-22T05:36:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2328562/drilon-congress-must-clarify-sc-ruling-on-unprogrammed-funds",
+      "published_date": "2026-10-22T19:55:22+00:00",
       "category": "Local Events"
     },
     {
-      "title": "P397-M ‘duplicate’ payments found in DSWD ‘ayuda’ scheme",
+      "title": "Pagasa: Typhoon Rosal slows down, may further weaken by Saturday",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327998/p397-m-duplicate-payments-found-in-dswd-ayuda-scheme",
-      "published_date": "2026-10-22T05:34:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2328541/pagasa-typhoon-rosal-slows-down-may-further-weaken-by-saturday",
+      "published_date": "2026-10-22T19:39:14+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Taxpayers can’t get back P467B flagged by SC",
+      "title": "El Niño response must draw on scientific, historical data – expert",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327997/taxpayers-cant-get-back-p467b-flagged-by-sc",
-      "published_date": "2026-10-22T05:30:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2328534/el-nino-response-must-draw-on-scientific-historical-data-expert",
+      "published_date": "2026-10-22T19:33:10+00:00",
       "category": "Local Events"
     },
     {
-      "title": "In Bohol, cloud seeding begins to save farms",
+      "title": "QC gives reminders to visitors going to Bagbag, Novaliches cemeteries",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327943/in-bohol-cloud-seeding-begins-to-save-farms",
-      "published_date": "2026-10-22T05:06:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2328587/qc-gives-reminders-to-visitors-going-to-bagbag-novaliches-cemeteries",
+      "published_date": "2026-10-22T19:22:22+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Bukidnon planters seek fixed price for raw sugar",
+      "title": "Mark Villar files bill to cut job-seeking costs for indigent Filipinos",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327939/bukidnon-planters-seek-fixed-price-for-raw-sugar",
-      "published_date": "2026-10-22T05:04:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2328547/mark-villar-files-bill-to-cut-job-seeking-costs-for-indigent-filipinos",
+      "published_date": "2026-10-22T18:57:22+00:00",
       "category": "Local Events"
     },
     {
-      "title": "DENR records big colony of endangered fruit bats in Aurora forests",
+      "title": "SC: Unprogrammed funds constitutional, but with guardrails",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327944/denr-records-big-colony-of-endangered-fruit-bats-in-aurora-forests",
-      "published_date": "2026-10-22T05:02:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2328544/osg-welcomes-sc-ruling-seeks-review-of-budget-safeguards",
+      "published_date": "2026-10-22T18:39:06+00:00",
       "category": "Local Events"
     },
     {
-      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-      "published_date": "2026-10-22T00:32:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "[Puso at Diwa] Sara Duterte trial: Is the space for political impunity finally closing?",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/voices/thought-leaders/puso-at-diwa-sara-duterte-trial-space-political-impunity-finally-closing/",
-      "published_date": "2026-10-22T00:29:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Intense rain possible in Batanes even as Super Typhoon Rosal weakens further",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/philippines/weather/super-typhoon-rosal-update-pagasa-forecast-october-22-2026-5am/",
-      "published_date": "2026-10-22T00:15:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flu-like illnesses up in Oriental Mindoro",
+      "title": "Angara: Classroom building strategy, allocations must be data-driven",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327977/flu-like-illnesses-up-in-oriental-mindoro",
-      "published_date": "2026-10-21T23:54:31+00:00",
+      "url": "https://newsinfo.inquirer.net/2328511/angara-classroom-building-strategy-allocations-must-be-data-driven",
+      "published_date": "2026-10-22T18:30:36+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Forcing employees to perform in Christmas parties a form of bullying",
+      "title": "House ‘haven’t discussed’ recalling 2027 budget bill – solon",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2328063/forcing-employees-to-perform-in-christmas-parties-a-form-of-bullying",
-      "published_date": "2026-10-21T23:48:42+00:00",
+      "url": "https://newsinfo.inquirer.net/2328543/house-havent-discussed-recalling-2027-budget-bill-solon",
+      "published_date": "2026-10-22T18:27:40+00:00",
       "category": "Local Events"
     },
     {
-      "title": "NBI rescues child from alleged online sexual abuse, exploitation",
+      "title": "Ombudsman starts probe into Sara Duterte’s SALN ‘discrepancy’",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2328046/nbi-rescues-child-from-alleged-online-sexual-abuse-exploitation",
-      "published_date": "2026-10-21T23:20:08+00:00",
+      "url": "https://newsinfo.inquirer.net/2328525/ombudsman-starts-probe-into-vp-dutertes-saln-discrepancy",
+      "published_date": "2026-10-22T18:11:01+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Part 1: New candidates in the running to be Marcos’ 2nd SC justice",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/philippines/supreme-court-associate-justice-candidates-marcos-pick-2026-part-1/",
-      "published_date": "2026-10-21T23:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MMDA flags 5 major cemeteries for Undas traffic management",
+      "title": "Ejercito: Prioritize water impounding facilities for Super El Niño",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2328035/mmda-flags-5-major-cemeteries-for-undas-traffic-management",
-      "published_date": "2026-10-21T23:06:43+00:00",
+      "url": "https://newsinfo.inquirer.net/2328460/ejercito-prioritize-water-impounding-facilities-for-super-el-nino",
+      "published_date": "2026-10-22T17:54:38+00:00",
       "category": "Local Events"
     },
     {
-      "title": "PCSO lotto results Oct. 21: ₱291.39-M jackpot unwon",
+      "title": "Court operations suspended in some areas in Luzon on Friday Oct. 23",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327947/pcso-lotto-results-oct-21-291-39m-jackpot-unwon",
-      "published_date": "2026-10-21T21:55:36+00:00",
+      "url": "https://newsinfo.inquirer.net/2328477/court-operations-suspended-in-some-areas-in-luzon-on-friday-oct-23",
+      "published_date": "2026-10-22T17:33:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "6 nabbed as cops seize P2.1-M ‘shabu’ in Metro Manila",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328467/6-nabbed-as-cops-seize-p2-1m-suspected-shabu-in-metro-manila",
+      "published_date": "2026-10-22T17:26:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NBI probes another company linked to Sara Duterte, husband – Matibag",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328406/nbi-probes-another-company-linked-to-sara-duterte-husband-matibag",
+      "published_date": "2026-10-22T17:21:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Super Typhoon Rosal weakens into typhoon Thursday afternoon",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328452/super-typhoon-rosal-weakens-into-typhoon-thursday-afternoon",
+      "published_date": "2026-10-22T17:14:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gatchalian: Senate will comply with SC ruling on budgets’ unconstitutionality",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328420/gatchalian-senate-will-comply-with-sc-ruling-on-budgets-unconstitutionality",
+      "published_date": "2026-10-22T16:39:44+00:00",
       "category": "Local Events"
     }
   ]
