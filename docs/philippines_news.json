@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Nearly 100 student groups ban China envoy",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/24/2565351/nearly-100-student-groups-ban-china-envoy",
+      "published_date": "2026-10-23T16:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Entry ban a ‘small price to pay,’ says lawmaker on Chinese Embassy ‘list’",
       "source": "Philstar Global",
       "url": "https://www.philstar.com/headlines/2026/10/22/2565006/entry-ban-small-price-pay-says-lawmaker-chinese-embassy-list",
@@ -117,13 +124,6 @@
       "source": "Philstar Global",
       "url": "https://www.philstar.com/headlines/2026/10/17/2563867/lawmaker-seeks-chinese-envoys-expulsion-over-embassys-stop-bluffing-taunt",
       "published_date": "2026-10-17T07:21:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "INQToday: China envoy’s remark a threat, not a ‘slip’ – Teodoro",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325100/inqtoday-china-envoys-remark-a-threat-not-a-slip-teodoro",
-      "published_date": "2026-10-16T19:08:40+00:00",
       "category": "Diplomacy"
     }
   ],
@@ -271,6 +271,13 @@
   ],
   "Energy": [
     {
+      "title": "Marcos: Gov’t expanding use of solar-powered irrigation",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2329191/marcos-govt-expanding-use-of-solar-irrigation",
+      "published_date": "2026-10-24T05:31:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Marcos inaugurates P91-million solar irrigation system in Leyte",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2328980/marcos-inaugurates-p91-million-solar-irrigation-system-in-leyte",
@@ -339,23 +346,16 @@
       "url": "https://www.rappler.com/philippines/inside-story-politician-shabu-laos-manila/",
       "published_date": "2026-10-17T02:30:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Solon: Proposed Socoteco II-Ignite Power deal a ‘corporate takeover’",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325254/solon-proposed-socoteco-ii-ignite-power-deal-a-corporate-takeover",
-      "published_date": "2026-10-16T22:24:33+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Filing of plunder cases vs Legarda, Leviste forthcoming – ombudsman",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2325015/filing-of-plunder-cases-vs-legarda-leviste-forthcoming-ombudsman",
-      "published_date": "2026-10-16T16:14:04+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "DOTr to bid out MRT-3 concession",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2329189/dotr-to-bid-out-mrt-3-concession",
+      "published_date": "2026-10-24T05:33:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Hog raisers in Negros Occidental join pork holiday over mounting losses",
       "source": "Philippine Daily Inquirer",
@@ -488,16 +488,72 @@
       "url": "https://newsinfo.inquirer.net/2326527/bir-expands-fuel-marking-operations-to-10-revenue-regions",
       "published_date": "2026-10-19T19:10:25+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Residents back Butuan seaport project, seek clear relocation plan",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326431/residents-back-butuan-seaport-project-seek-clear-relocation-plan",
-      "published_date": "2026-10-19T15:52:57+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Fewer Filipinos trust the news. Can PH media win them back?",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2328914/fewer-filipinos-trust-the-news-can-ph-media-win-them-back",
+      "published_date": "2026-10-24T09:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hunt for Bato dela Rosa sets 1-week ultimatum, P50-M bounty",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2329182/hunt-for-bato-dela-rosa-sets-1-week-ultimatum-p50-m-bounty",
+      "published_date": "2026-10-24T05:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BARMM ex-MP denies link to seized Laos drug cargo",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2329184/barmm-ex-mp-denies-link-to-seized-laos-drug-cargo",
+      "published_date": "2026-10-24T05:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New PCO chief keeping Castro as she’s ‘a treasure in this gov’t’",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2329181/new-pco-chief-keeping-castro-as-shes-a-treasure-in-this-govt",
+      "published_date": "2026-10-24T05:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pulong Duterte files P 20-M cyberlibel raps vs NBI chief, et al",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2329177/pulong-duterte-files-p-20-m-cyberlibel-raps-vs-nbi-chief-et-al",
+      "published_date": "2026-10-24T05:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senate leaders say no need for House to recall budget",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2329188/senate-leaders-say-no-need-for-house-to-recall-budget",
+      "published_date": "2026-10-24T05:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LTO to deploy over 100 personnel for ‘Undas’",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2329185/lto-to-deploy-over-100-personnel-for-undas-2",
+      "published_date": "2026-10-24T05:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NBI nabs 16-year-old ‘online groomer’ in Cebu",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2329143/nbi-nabs-16-year-old-online-groomer-in-cebu",
+      "published_date": "2026-10-24T05:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "[Vantage Point] High barriers, high stakes: The SEC’s liquidity gambit",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/voices/thought-leaders/vantage-point-high-barriers-stakes-sec-francis-lim-liquidity-gambit/",
+      "published_date": "2026-10-24T00:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "DepEd finishes 391 disaster-resilient school buildings; 150 being built",
       "source": "Philippine Daily Inquirer",
@@ -527,7 +583,7 @@
       "category": "Local Events"
     },
     {
-      "title": "Loren Legarda launches 10-point action plan vs. Super El Niño",
+      "title": "Loren Legarda launches 10-point action plan vs Super El Niño",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2329092/loren-legarda-launches-10-point-action-plan-vs-super-el-nino",
       "published_date": "2026-10-23T20:43:15+00:00",
@@ -573,69 +629,6 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2329002/nbi-nabs-over-80-in-makati-for-alleged-lending-app-collection-abuses",
       "published_date": "2026-10-23T16:33:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "P50-M bounty for capture of ‘armed and dangerous’ Bato Dela Rosa – DILG",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2328961/p50-m-bounty-for-capture-of-armed-and-dangerous-bato-dela-rosa-dilg",
-      "published_date": "2026-10-23T15:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Claire Castro stays; she’s a ‘treasure in this gov’t’ – PCO Sec. Cayetano",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2328967/claire-castro-stays-shes-a-treasure-to-govt-pco-sec-cayetano",
-      "published_date": "2026-10-23T15:24:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bohol to host PNPA entrance exam for first time",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2328940/bohol-to-host-pnpa-entrance-exam-for-first-time",
-      "published_date": "2026-10-23T14:56:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No need for House to recall 2027 budget bill, says Gatchalian, Lacson",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2328932/no-need-for-house-to-recall-2027-budget-bill-says-gatchalian-lacson",
-      "published_date": "2026-10-23T14:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What lies beneath: Why archaeological checks matter before construction",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2328923/what-lies-beneath-why-archaeological-checks-matter-before-construction",
-      "published_date": "2026-10-23T14:37:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DOTr aims to bid out P103 billion MRT-3 concession",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2328921/dotr-aims-to-bid-out-p103-billion-mrt-3-concession",
-      "published_date": "2026-10-23T14:34:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senate wants House to follow suit with proposed P2-B budget cut",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2328910/senate-wants-house-to-follow-suit-with-proposed-p2-b-budget-cut",
-      "published_date": "2026-10-23T14:09:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LOOK: Paolo Duterte files libel raps vs Matibag, GMA",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2328894/look-paolo-duterte-files-libel-raps-vs-matibag-gma",
-      "published_date": "2026-10-23T12:55:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rep. Abante eyes filing cyberlibel complaint vs vloggers",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2328883/rep-abante-eyes-filing-cyberlibel-complaint-vs-vloggers",
-      "published_date": "2026-10-23T12:40:10+00:00",
       "category": "Local Events"
     }
   ]
