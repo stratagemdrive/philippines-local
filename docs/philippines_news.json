@@ -118,16 +118,37 @@
       "url": "https://newsinfo.inquirer.net/2325819/afp-modernization-needs-sustained-funding-amid-threats-ejercito",
       "published_date": "2026-10-18T07:51:43+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Lawmaker seeks Chinese envoy’s expulsion over embassy’s ‘stop bluffing’ taunt",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/17/2563867/lawmaker-seeks-chinese-envoys-expulsion-over-embassys-stop-bluffing-taunt",
-      "published_date": "2026-10-17T07:21:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Probe into deadly PAF plane crash to cover several flight aspects – DND",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2329449/probe-into-deadly-paf-plane-crash-to-cover-several-flight-aspects-dnd",
+      "published_date": "2026-10-24T17:18:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Military war games lunched in Dinagat Islands",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2329332/military-war-games-lunched-in-dinagat-islands",
+      "published_date": "2026-10-24T14:12:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "4 PAF pilots killed in Batangas plane crash; SF-260 fleet grounded",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2329371/4-paf-pilots-killed-in-batangas-plane-crash-sf-260-fleet-grounded-2",
+      "published_date": "2026-10-24T14:08:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "3 fishermen rescued after boat partially sinks off Palawan island",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2329263/3-fishermen-rescued-after-boat-partially-sinks-off-palawan-island",
+      "published_date": "2026-10-24T09:38:12+00:00",
+      "category": "Military"
+    },
     {
       "title": "Sea travel resumes in northern areas of Quezon",
       "source": "Philippine Daily Inquirer",
@@ -239,34 +260,6 @@
       "url": "https://newsinfo.inquirer.net/2326504/jv-ejercito-seeks-accounting-of-p90-b-afp-modernization-funds",
       "published_date": "2026-10-19T19:09:53+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Senate panel approves proposed DND budget for 2027",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326499/senate-panel-approves-proposed-dnd-budget-for-2027",
-      "published_date": "2026-10-19T18:57:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rommel Supangan is PCG’s new commandant – Palace",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326362/rommel-supangan-is-pcgs-new-commandant-palace",
-      "published_date": "2026-10-19T15:39:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "4 Sabrah light tanks deployed in Mindanao",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326412/4-sabrah-light-tanks-deployed-in-mindanao",
-      "published_date": "2026-10-19T15:38:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PMA’s first female cadet commandant to uphold academy standards",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326129/pmas-first-female-cadet-commandant-to-uphold-academy-standards",
-      "published_date": "2026-10-19T04:30:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -338,13 +331,6 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2325995/nia-turns-over-3-solar-powered-irrigation-projects-in-leyte-samar",
       "published_date": "2026-10-18T13:08:20+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Inside story: Politician behind 521-kilo shabu shipment bound for Manila",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/philippines/inside-story-politician-shabu-laos-manila/",
-      "published_date": "2026-10-17T02:30:00+00:00",
       "category": "Energy"
     }
   ],
@@ -492,143 +478,143 @@
   ],
   "Local Events": [
     {
-      "title": "Fewer Filipinos trust the news. Can PH media win them back?",
+      "title": "BARMM’s majority coalition gains support of governors, Misuari",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2328914/fewer-filipinos-trust-the-news-can-ph-media-win-them-back",
-      "published_date": "2026-10-24T09:00:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2329561/barmms-majority-coalition-gains-support-of-governors-misuari",
+      "published_date": "2026-10-24T22:16:23+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Hunt for Bato dela Rosa sets 1-week ultimatum, P50-M bounty",
+      "title": "Grand Lotto 6/55, Lotto 6/42 draw results on Saturday, Oct. 24",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329182/hunt-for-bato-dela-rosa-sets-1-week-ultimatum-p50-m-bounty",
-      "published_date": "2026-10-24T05:41:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2329558/grand-lotto-6-55-lotto-6-42-draw-results-on-saturday-oct-24",
+      "published_date": "2026-10-24T21:57:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "BARMM ex-MP denies link to seized Laos drug cargo",
+      "title": "Completion of Tacloban airport rehab, upgrade eyed by February 2027",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329184/barmm-ex-mp-denies-link-to-seized-laos-drug-cargo",
-      "published_date": "2026-10-24T05:39:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2329532/completion-of-tacloban-airport-rehab-upgrade-eyed-by-february-2027",
+      "published_date": "2026-10-24T21:50:33+00:00",
       "category": "Local Events"
     },
     {
-      "title": "New PCO chief keeping Castro as she’s ‘a treasure in this gov’t’",
+      "title": "Eastern Visayas absorbs P300M agri losses due to El Niño",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329181/new-pco-chief-keeping-castro-as-shes-a-treasure-in-this-govt",
-      "published_date": "2026-10-24T05:37:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2329513/eastern-visayas-absorbs-p300m-agri-losses-due-to-el-nino",
+      "published_date": "2026-10-24T21:36:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Pulong Duterte files P 20-M cyberlibel raps vs NBI chief, et al",
+      "title": "3 Caraga drug suspects busted, almost P120,000 shabu seized",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329177/pulong-duterte-files-p-20-m-cyberlibel-raps-vs-nbi-chief-et-al",
-      "published_date": "2026-10-24T05:35:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2329511/caraga-drug-suspects-busted-almost-p120000-shabu-seized",
+      "published_date": "2026-10-24T21:20:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Senate leaders say no need for House to recall budget",
+      "title": "No need for P50-M bounty if Dela Rosa just surrendered- Castro",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329188/senate-leaders-say-no-need-for-house-to-recall-budget",
-      "published_date": "2026-10-24T05:29:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2329489/no-need-for-p50-m-bounty-if-dela-rosa-just-surrendered-castro",
+      "published_date": "2026-10-24T19:21:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "LTO to deploy over 100 personnel for ‘Undas’",
+      "title": "NPC urges transparency in veteran journalist’s arrest",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329185/lto-to-deploy-over-100-personnel-for-undas-2",
-      "published_date": "2026-10-24T05:25:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2329499/npc-urges-transparency-in-veteran-journalists-arrest",
+      "published_date": "2026-10-24T18:57:15+00:00",
       "category": "Local Events"
     },
     {
-      "title": "NBI nabs 16-year-old ‘online groomer’ in Cebu",
+      "title": "Tesda chief denies P5-M ‘allocation fund’ offer to Lacson",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329143/nbi-nabs-16-year-old-online-groomer-in-cebu",
-      "published_date": "2026-10-24T05:17:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2329468/tesda-chief-denies-p5-m-allocation-fund-offer-to-lacson",
+      "published_date": "2026-10-24T18:01:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "[Vantage Point] High barriers, high stakes: The SEC’s liquidity gambit",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/voices/thought-leaders/vantage-point-high-barriers-stakes-sec-francis-lim-liquidity-gambit/",
-      "published_date": "2026-10-24T00:00:00+00:00",
+      "title": "Taxi drivers warned vs overcharging, other violations amid Undas rush",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2329481/taxi-drivers-warned-vs-overcharging-other-violations-amid-undas-rush",
+      "published_date": "2026-10-24T17:47:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "DepEd finishes 391 disaster-resilient school buildings; 150 being built",
+      "title": "Manila Water Foundation boosts water access in Mandaluyong campus to mark Global Handwashing Day",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329165/deped-finishes-391-disaster-resilient-school-buildings-150-being-built",
-      "published_date": "2026-10-23T22:56:22+00:00",
+      "url": "https://newsinfo.inquirer.net/2329471/manila-water-foundation-boosts-water-access-in-mandaluyong-campus-to-mark-global-handwashing-day",
+      "published_date": "2026-10-24T17:29:45+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Bangsamoro group urges Marcos, MILF chief to meet before Oct. 30",
+      "title": "Canarem Lake: A sanctuary for thousands of birds",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329161/bangsamoro-group-urges-marcos-milf-chief-to-meet-before-oct-30",
-      "published_date": "2026-10-23T22:21:12+00:00",
+      "url": "https://newsinfo.inquirer.net/2329455/canarem-lake-a-sanctuary-for-thousands-of-birds",
+      "published_date": "2026-10-24T17:24:48+00:00",
       "category": "Local Events"
     },
     {
-      "title": "3 players bag ₱15M MegaLotto 6/45 jackpot on Friday, Oct. 23",
+      "title": "Over 41,000 affected by Super Typhoon Rosal in N. Luzon, Bicol – DSWD",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329156/3-players-bag-15m-megalotto-6-45-jackpot-on-friday-oct-23",
-      "published_date": "2026-10-23T21:55:07+00:00",
+      "url": "https://newsinfo.inquirer.net/2329426/over-41000-affected-by-super-typhoon-rosal-in-n-luzon-bicol-dswd",
+      "published_date": "2026-10-24T16:14:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "UST suspends Saturday classes after bomb threat",
+      "title": "Senate minority urges gov’t to pursue dialogue with Bato dela Rosa",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329152/ust-suspends-saturday-classes-after-bomb-threat",
-      "published_date": "2026-10-23T21:45:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2329418/senate-minority-urges-govt-to-pursue-dialogue-with-bato-dela-rosa",
+      "published_date": "2026-10-24T15:46:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Loren Legarda launches 10-point action plan vs Super El Niño",
+      "title": "Rare wildlife finds a haven in Bicol Natural Park",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329092/loren-legarda-launches-10-point-action-plan-vs-super-el-nino",
-      "published_date": "2026-10-23T20:43:15+00:00",
+      "url": "https://newsinfo.inquirer.net/2329402/rare-wildlife-finds-a-haven-in-bicol-natural-park",
+      "published_date": "2026-10-24T15:18:32+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Court affirms ruling vs Revilla’s bid to inhibit justice who denied bail",
+      "title": "Veteran journalist Lustre arrested in QC for cyber libel",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329053/court-affirms-ruling-vs-revillas-bid-to-inhibit-justice-who-denied-bail",
-      "published_date": "2026-10-23T18:18:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2329396/veteran-journalist-lustre-arrested-in-qc-for-cyber-libel",
+      "published_date": "2026-10-24T14:59:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "COA flags deficiencies in P17-B DOH infra projects",
+      "title": "3 suspects nabbed in Isulan drug sting, over P400,000 shabu seized",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329042/coa-flags-deficiencies-in-p17-b-doh-infra-projects",
-      "published_date": "2026-10-23T18:05:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2329357/3-suspects-nabbed-in-isulan-drug-sting-over-p400000-shabu-seized",
+      "published_date": "2026-10-24T14:33:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "DOLE moves to shield delivery riders from heat-related penalties, perils",
+      "title": "Mindanao rights lawyers laud SC rules backing grassroots advocacy",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329038/dole-moves-to-shield-delivery-riders-from-heat-related-penalties-perils",
-      "published_date": "2026-10-23T17:53:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2329344/mindanao-rights-lawyers-laud-sc-rules-backing-grassroots-advocacy",
+      "published_date": "2026-10-24T14:21:01+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Typhoon Rosal slightly intensifies off Batanes as it moves away from PH",
+      "title": "Shipping group seeks removal of RoRo terminal fees to cut logistics costs",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329040/typhoon-rosal-slightly-intensifies-off-batanes-as-it-moves-away-from-ph",
-      "published_date": "2026-10-23T17:45:24+00:00",
+      "url": "https://newsinfo.inquirer.net/2329328/shipping-group-seeks-removal-of-roro-terminal-fees-to-cut-logistics-costs",
+      "published_date": "2026-10-24T13:57:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "EV charging now at six NLEX service stops; 2 more by December",
+      "title": "Typhoon Rosal exits PAR on Saturday morning (October 24)",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329001/ev-charging-now-at-six-nlex-service-stops-2-more-by-december",
-      "published_date": "2026-10-23T16:52:07+00:00",
+      "url": "https://newsinfo.inquirer.net/2329294/typhoon-rosal-exits-par-on-saturday-morning-october-24",
+      "published_date": "2026-10-24T11:02:26+00:00",
       "category": "Local Events"
     },
     {
-      "title": "NBI nabs over 80 in Makati for alleged lending app collection abuses",
+      "title": "LIST: Cancelled ferry trips Saturday (Oct. 24) due to Typhoon Rosal",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329002/nbi-nabs-over-80-in-makati-for-alleged-lending-app-collection-abuses",
-      "published_date": "2026-10-23T16:33:59+00:00",
+      "url": "https://newsinfo.inquirer.net/2329281/list-cancelled-ferry-trips-saturday-oct-24-due-to-typhoon-rosal",
+      "published_date": "2026-10-24T10:47:41+00:00",
       "category": "Local Events"
     }
   ]
