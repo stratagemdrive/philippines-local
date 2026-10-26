@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Philippines, Japan, US conclude West Philippine Sea drills",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/26/2565674/philippines-japan-us-conclude-west-philippine-sea-drills",
+      "published_date": "2026-10-25T16:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Philippines government, Chinese embassy urged: Talk, don’t post",
       "source": "Philstar Global",
       "url": "https://www.philstar.com/headlines/2026/10/25/2565570/philippines-government-chinese-embassy-urged-talk-dont-post",
@@ -90,37 +97,23 @@
       "url": "https://newsinfo.inquirer.net/2326686/chinese-envoys-remarks-not-his-own-reflects-beijings-position-teodoro",
       "published_date": "2026-10-19T22:52:45+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Cayetano to Filipinos: Be pro-Philippines",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326150/cayetano-to-filipinos-be-pro-philippines",
-      "published_date": "2026-10-18T22:41:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "PHILTHRA urges harm reduction: Studies back lower-risk nicotine products",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2326063/philthra-urges-harm-reduction-studies-back-lower-risk-nicotine-products",
-      "published_date": "2026-10-18T17:20:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "China taking advantage of VP impeachment raps?",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/19/2564119/china-taking-advantage-vp-impeachment-raps",
-      "published_date": "2026-10-18T16:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Chinese embassy: Persona non grata threat an old trick",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/19/2564124/chinese-embassy-persona-non-grata-threat-old-trick",
-      "published_date": "2026-10-18T16:00:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Army boosts readiness with new Davao del Sur facilities",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2330183/army-boosts-readiness-with-new-davao-del-sur-facilities",
+      "published_date": "2026-10-26T09:02:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hometowns honor PAF pilots killed in Batangas collision",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2330044/hometowns-honor-paf-pilots-killed-in-batangas-collision",
+      "published_date": "2026-10-26T04:45:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Prosecution welcomes VP as defense witness, ready to cross-examine her",
       "source": "Philippine Daily Inquirer",
@@ -140,6 +133,13 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2329978/chua-vp-teams-objections-pang-socmed-reconsideration-not-sought",
       "published_date": "2026-10-25T18:05:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PNP probes Thomas Markle over child abuse images",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/10/26/2565675/pnp-probes-thomas-markle-over-child-abuse-images",
+      "published_date": "2026-10-25T16:00:00+00:00",
       "category": "Military"
     },
     {
@@ -238,27 +238,6 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2329122/sea-travel-resumes-in-northern-areas-of-quezon",
       "published_date": "2026-10-23T20:50:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PAF confirms incident involving 2 aircraft during Batangas training flight",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329107/paf-confirms-incident-involving-2-aircraft-during-batangas-training-flight",
-      "published_date": "2026-10-23T20:09:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "China’s Long March 8A rocket debris may fall within PH waters",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329094/chinas-long-march-8a-rocket-debris-may-fall-within-ph-waters",
-      "published_date": "2026-10-23T19:59:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PNP to Sen. Bato dela Rosa: You have one week to surrender",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329034/pnp-to-sen-bato-dela-rosa-you-have-one-week-to-surrender",
-      "published_date": "2026-10-23T17:33:00+00:00",
       "category": "Military"
     }
   ],
@@ -492,6 +471,97 @@
   ],
   "Local Events": [
     {
+      "title": "INQUIRER.net leads PH news websites in first 9 months of 2026  — Similarweb",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2324994/inquirer-net-leads-ph-news-websites-in-first-9-months-of-2026-similarweb",
+      "published_date": "2026-10-26T09:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LIST: Water interruptions in Metro Manila, Rizal this week",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2330180/list-water-interruptions-in-metro-manila-rizal-this-week",
+      "published_date": "2026-10-26T08:55:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ITCZ to bring rain to parts of Mindanao until Wednesday",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2330158/itcz-to-bring-rain-to-parts-of-mindanao-until-wednesday",
+      "published_date": "2026-10-26T07:52:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jonvic Remulla on Bato dela Rosa arrest: Enough talk, surrender",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2330083/jonvic-on-bato-arrest-enough-talk-surrender",
+      "published_date": "2026-10-26T05:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Journalist says arrest, libel case a ‘special operation’",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2330087/journalist-says-arrest-libel-case-a-special-operation",
+      "published_date": "2026-10-26T05:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senate to tackle Tesda ‘offer’ to Lacson",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2330082/senate-to-tackle-tesda-offer-to-lacson",
+      "published_date": "2026-10-26T05:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police to coordinate closely with schools  after bomb threats",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2330089/police-to-coordinate-closely-with-schools-after-bomb-threats",
+      "published_date": "2026-10-26T05:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Activists honor slain community journo RJ Nichole Ledesma",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2330090/activists-honor-slain-community-journo",
+      "published_date": "2026-10-26T05:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pagasa reports hike in water levels of 5 dams",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2330079/pagasa-reports-hike-in-water-levels-of-5-dams",
+      "published_date": "2026-10-26T05:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Intramuros eases rules for professional cameras",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2330094/intramuros-eases-rules-for-professional-cameras",
+      "published_date": "2026-10-26T04:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Niño gripping agri sector in Iloilo, other parts of Western Visayas",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2330018/el-nino-gripping-agri-sector-in-iloilo-other-parts-of-western-visayas",
+      "published_date": "2026-10-26T00:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspension of Estrada, Marcoleta on hold pending MR",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2330105/estrada-marcoleta-suspensions-on-hold-pending-mr",
+      "published_date": "2026-10-26T00:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bill pushed to help ex-inmates rebuild lives",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2330038/bill-pushed-to-help-ex-inmates-rebuild-lives",
+      "published_date": "2026-10-26T00:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Tinio hits arrest of veteran journalist Lustre",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2330007/tinio-hits-arrest-of-veteran-journalist-lustre",
@@ -538,97 +608,6 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2329998/angara-honors-18-deped-staff-for-integrity-and-hard-work",
       "published_date": "2026-10-25T19:29:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cendaña: Dropping 3 of 4 charges does not spare VP from accountability",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329992/cendana-dropping-3-of-4-charges-does-not-spare-vp-from-accountability",
-      "published_date": "2026-10-25T19:10:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Escudero to refuse VP nomination should Sara Duterte be removed from office",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329981/escudero-to-refuse-vp-nomination-should-sara-duterte-be-removed-from-office",
-      "published_date": "2026-10-25T17:55:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "6 dugongs, 5 sea turtles spotted off Sultan Kudarat coast",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329948/6-dugongs-5-sea-turtles-spotted-off-sultan-kudarat-coast",
-      "published_date": "2026-10-25T17:29:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Libanan says new social worker posts to bolster 4Ps implementation",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329975/libanan-says-new-social-worker-posts-to-bolster-4ps-implementation",
-      "published_date": "2026-10-25T17:28:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "20 hurt as passenger bus overturns in Ilocos Norte",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329951/20-hurt-as-passenger-bus-overturns-in-ilocos-norte",
-      "published_date": "2026-10-25T17:21:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LTFRB to PUV operators, drivers: Honor fare discounts",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329960/ltfrb-to-puv-operators-drivers-honor-fare-discounts",
-      "published_date": "2026-10-25T16:37:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LTO: 51 out of 52 buses in Metro Manila terminals pass roadworthiness",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329958/lto-51-out-of-52-buses-in-metro-manila-terminals-pass-roadworthiness",
-      "published_date": "2026-10-25T16:22:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Construction worker nabbed for alleged theft at Vigan cathedral",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329939/construction-worker-nabbed-for-alleged-theft-at-vigan-cathedral",
-      "published_date": "2026-10-25T16:21:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Beyond bars: Iligan jail makes pitch for second chances",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329929/beyond-bars-iligan-jail-makes-pitch-for-second-chances",
-      "published_date": "2026-10-25T16:04:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gatchalian to enforcers: Carry out safe arrest of Dela Rosa",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329954/gatchalian-to-enforcers-carry-out-safe-arrest-of-dela-rosa",
-      "published_date": "2026-10-25T15:57:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lacson: Bounty not to keep Dela Rosa from voting in impeachment court",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329928/lacson-bounty-not-to-keep-dela-rosa-from-voting-in-impeach-court",
-      "published_date": "2026-10-25T15:06:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Napolcom warns criminology interns about violating traffic rules",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329924/napolcom-warns-criminology-interns-about-violating-traffic-rules",
-      "published_date": "2026-10-25T14:36:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSHS Main, Lapu-Lapu schools suspend Oct. 26 in-person classes",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329876/pshs-main-lapu-lapu-schools-suspend-oct-26-in-person-classes",
-      "published_date": "2026-10-25T13:58:36+00:00",
       "category": "Local Events"
     }
   ]
