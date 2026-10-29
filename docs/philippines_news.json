@@ -101,6 +101,34 @@
   ],
   "Military": [
     {
+      "title": "2 Army soldiers arrested over North Cotabato shooting",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2332137/2-army-soldiers-arrested-over-north-cotabato-shooting",
+      "published_date": "2026-10-29T10:00:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hike in school bomb threats prompts PNP review of response protocols",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2331981/hike-in-school-bomb-threats-prompts-pnp-review-of-response-protocols",
+      "published_date": "2026-10-29T05:44:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PNP opens hotlines for tips on Dela Rosa’s whereabouts",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2331958/pnp-opens-hotlines-for-tips-on-dela-rosas-whereabouts",
+      "published_date": "2026-10-29T05:32:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Authorities seize P2.2M in contraband cigarettes in Sultan Kudarat town",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2332033/authorities-seize-p2-2m-in-contraband-cigarettes-in-sultan-kudarat-town",
+      "published_date": "2026-10-29T01:36:08+00:00",
+      "category": "Military"
+    },
+    {
       "title": "More Filipinos favor VP’s defense team in Senate trial – survey",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2331937/more-filipinos-favor-vps-defense-team-in-senate-trial-survey",
@@ -211,37 +239,30 @@
       "url": "https://newsinfo.inquirer.net/2331000/malacanang-condoles-with-families-of-air-force-pilots-killed-in-crash",
       "published_date": "2026-10-27T15:54:06+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Missing boy found dead in Batangas river",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2330750/missing-boy-found-dead-in-batangas-river",
-      "published_date": "2026-10-27T08:12:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Prosecution eyes VP Duterte mansions in Nov. 9 cross-exam",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2330567/prosecution-eyes-vp-duterte-mansions-in-nov-9-cross-exam",
-      "published_date": "2026-10-26T19:46:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palace: P50M bounty vs Dela Rosa not from Marcos",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2330385/palace-marcos-did-not-order-p50m-bounty-vs-dela-rosa",
-      "published_date": "2026-10-26T16:09:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Expanded SOVFAs with like-minded countries eyed",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/27/2565930/expanded-sovfas-minded-countries-eyed",
-      "published_date": "2026-10-26T16:00:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Visayas grid still on red, yellow alert on Thursday, Oct. 29",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2332130/visayas-grid-still-on-red-yellow-alert-on-thursday-oct-29",
+      "published_date": "2026-10-29T10:13:48+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Mindanao on track to build more clean energy sources",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2331898/mindanao-on-track-to-build-more-clean-energy-sources",
+      "published_date": "2026-10-29T05:02:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "MAP: Power plants in the Visayas grid",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/philippines/map-power-plants-visayas-grid-2026/",
+      "published_date": "2026-10-28T23:15:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Consumers group backs call to penalize power firms over Visayas outages",
       "source": "Philippine Daily Inquirer",
@@ -339,16 +360,44 @@
       "url": "https://www.philstar.com/headlines/2026/10/22/2565013/1-filipino-dead-after-drone-attack-oil-field-saudi-arabia",
       "published_date": "2026-10-22T08:23:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "4 arrested over alleged illegal petroleum trading in Payatas",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2327857/4-arrested-over-alleged-illegal-petroleum-trading-in-payatas",
-      "published_date": "2026-10-21T18:08:19+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "DA eyes tighter pork import rules after corn quota hike",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2331969/da-eyes-tighter-pork-import-rules-after-corn-quota-hike",
+      "published_date": "2026-10-29T05:46:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Farmers’ group defends Montemayor vs libel raps",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2332014/farmers-group-defends-montemayor-vs-libel-raps",
+      "published_date": "2026-10-29T05:38:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Don’t panic,’ Marcos says after peso’s historic lows",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2331968/dont-panic-marcos-says-after-pesos-historic-lows",
+      "published_date": "2026-10-29T05:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Planters, labor groups decry low sugar prices",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2331892/planters-labor-groups-decry-low-sugar-prices",
+      "published_date": "2026-10-29T05:06:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The bee is strong: Jollibee eyes 1,500 more areas for expansion",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/business/jollibee-eyes-more-areas-expansion/",
+      "published_date": "2026-10-29T01:56:15+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Ombudsman fines Cebu City mayor over night market operations",
       "source": "Philippine Daily Inquirer",
@@ -453,44 +502,93 @@
       "url": "https://newsinfo.inquirer.net/2330479/senate-told-over-p1-trillion-in-proposed-2027-budget-is-pork",
       "published_date": "2026-10-26T17:50:12+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "DTI: No price hikes on basic necessities until Dec. 31",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2330399/dti-no-price-hikes-on-basic-necessities-until-dec-31",
-      "published_date": "2026-10-26T15:56:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Flower prices expected to increase as Undas nears",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2330332/flower-prices-expected-to-increase-as-undas-nears",
-      "published_date": "2026-10-26T15:20:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "DSWD gives P10,000 each to families of 5 Sorsogon fire fatalities",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329932/dswd-gives-p10000-each-to-families-of-5-sorsogon-fire-fatalities",
-      "published_date": "2026-10-25T16:09:54+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Legarda: Gender-based price bias banned in new ‘Anti-Pink Tax’ bill",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329574/legarda-gender-based-price-bias-banned-in-new-anti-pink-tax-bill",
-      "published_date": "2026-10-24T23:04:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "DOTr to bid out MRT-3 concession",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329189/dotr-to-bid-out-mrt-3-concession",
-      "published_date": "2026-10-24T05:33:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "SC asks Senate, House to comment on Sara Duterte impeachment vote rule",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2332123/sc-asks-senate-house-to-comment-on-sara-duterte-impeachment-vote-rule",
+      "published_date": "2026-10-29T09:53:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Undas 2026 in Manila: Grave finders, visiting hours, traffic advisories",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2332114/undas-2026-in-manila-grave-finders-visiting-hours-traffic-advisories",
+      "published_date": "2026-10-29T09:52:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Naia logs almost 300,000 passengers ahead of Undas 2026",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2332113/naia-logs-almost-300000-passengers-ahead-of-undas-2026",
+      "published_date": "2026-10-29T09:42:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PITX records over 700,000 passengers ahead of Undas 2026 break",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2332086/pitx-records-over-700000-passengers-ahead-of-undas-2026-break",
+      "published_date": "2026-10-29T09:05:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Taal Volcano continues to shake, logs 8 earthquakes",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2332085/taal-volcano-continues-to-shake-logs-8-earthquakes",
+      "published_date": "2026-10-29T08:53:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sara Duterte’s camp calls replacement talks ‘premature,’ a ‘distraction’",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2332082/sara-dutertes-camp-calls-replacement-talks-premature-a-distraction",
+      "published_date": "2026-10-29T08:21:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amihan, sheer line to bring rain to parts of Luzon Thursday",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2332076/amihan-sheer-line-to-bring-rain-to-parts-of-luzon-thursday",
+      "published_date": "2026-10-29T07:42:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DOT eyes new diving tourism spot in Misamis Oriental",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2332074/dot-eyes-new-diving-tourism-spot-in-misamis-oriental",
+      "published_date": "2026-10-29T07:20:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NCR hospitals, emergency teams on alert for ‘Undas’",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2331976/ncr-hospitals-emergency-teams-on-alert-for-undas",
+      "published_date": "2026-10-29T05:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Journo sued by VP’s husband wants Davao case moved to Manila",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2331982/journo-sued-by-vps-husband-wants-davao-case-moved-to-manila",
+      "published_date": "2026-10-29T05:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senate seeks explanation from Lalamove founder",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2331962/senate-seeks-explanation-from-lalamove-founder",
+      "published_date": "2026-10-29T05:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SC Associate Justice Zalameda receives UE’s honorary degree",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2332053/sc-associate-justice-zalameda-receives-ues-honorary-degree",
+      "published_date": "2026-10-29T01:14:55+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "NMP invests P261M to upgrade seafarer training facilities in Tacloban",
       "source": "Philippine Daily Inquirer",
@@ -545,90 +643,6 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2331830/bernardo-on-testimony-vs-estrada-ang-hirap-ipahamak-ng-kaibigan",
       "published_date": "2026-10-28T19:52:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Safety model: Angara inspects zero-incident school in Manila",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2331788/safety-model-angara-inspects-zero-incident-school-in-manila",
-      "published_date": "2026-10-28T19:39:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chief justice candidate Japar Dimaampao: The law belongs to all",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2331787/chief-justice-candidate-japar-dimaampao-the-law-belongs-to-all",
-      "published_date": "2026-10-28T19:38:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bernardo: Jinggoy Estrada asked my ‘help’ to get P1-B ‘leadership fund’",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2331806/bernardo-jinggoy-estrada-asked-my-help-to-get-p1-b-leadership-fund",
-      "published_date": "2026-10-28T19:25:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manila Water Philippine Ventures boosts N. Luzon supply for El Niño",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2331783/manila-water-philippine-ventures-boosts-n-luzon-supply-for-el-nino",
-      "published_date": "2026-10-28T19:09:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DOH: Flu-like cases in PH rise 35%",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2331760/doh-flu-like-cases-in-ph-rise-35",
-      "published_date": "2026-10-28T18:32:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dizon ignores Piston’s criticism of his return to DOTr: I’ll just do my job",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2331759/dizon-ignores-pistons-criticism-of-his-return-to-dotr-ill-just-do-my-job",
-      "published_date": "2026-10-28T18:09:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Napolcom to pursue charges vs Pasig City cop who pulled gun on vehicle",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2331754/napolcom-to-pursue-charges-vs-pasig-city-cop-in-gun-toting-incident",
-      "published_date": "2026-10-28T18:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parts of Commonwealth Ave to be briefly closed for MRT-7 construction",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2331744/parts-of-commonwealth-ave-to-be-briefly-closed-for-mrt-7-construction",
-      "published_date": "2026-10-28T17:46:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PDEA conducts random drug tests for Cotabato drivers, conductors",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2331725/pdea-conducts-random-drug-tests-for-cotabato-drivers-conductors",
-      "published_date": "2026-10-28T17:43:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Female bookkeeper nabbed, P183K ‘shabu’ seized in Pagadian",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2331719/female-bookkeeper-nabbed-p183k-shabu-seized-in-pagadian",
-      "published_date": "2026-10-28T17:37:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DOJ probe into Aplasca, 2 others over Senate shooting nears end",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2331693/doj-probe-into-aplasca-2-others-over-senate-shooting-nears-end",
-      "published_date": "2026-10-28T16:57:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Undas 2026: Bus driver tests positive in PITX drug screening",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2331660/undas-2026-bus-driver-tests-positive-in-pitx-drug-screening",
-      "published_date": "2026-10-28T16:37:24+00:00",
       "category": "Local Events"
     }
   ]
