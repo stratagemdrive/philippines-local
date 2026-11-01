@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Bamboo takes center stage in Unesco geopark",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2333840/bamboo-takes-center-stage-in-unesco-geopark",
+      "published_date": "2026-11-01T05:20:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "INQToday: Teodoro rejects China’s claim of abuse of Asean chairmanship",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2332516/inqtoday-teodoro-rejects-chinas-claim-of-abuse-of-asean-chairmanship",
@@ -76,16 +83,16 @@
       "url": "https://www.philstar.com/headlines/2026/10/26/2565674/philippines-japan-us-conclude-west-philippine-sea-drills",
       "published_date": "2026-10-25T16:00:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Philippines government, Chinese embassy urged: Talk, don’t post",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/25/2565570/philippines-government-chinese-embassy-urged-talk-dont-post",
-      "published_date": "2026-10-24T16:00:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "8 rescued after cargo boat partially sinks off Cagayan",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2333951/8-rescued-after-cargo-boat-partially-sinks-off-cagayan",
+      "published_date": "2026-11-01T08:11:25+00:00",
+      "category": "Military"
+    },
     {
       "title": "4 rescued after being swept by strong current in La Union",
       "source": "Philippine Daily Inquirer",
@@ -105,6 +112,13 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2333660/remains-of-fallen-air-force-pilot-back-home-in-urdaneta",
       "published_date": "2026-10-31T16:22:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PNP to unmask those assisting Bato’s travel",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/11/01/2567042/pnp-unmask-those-assisting-batos-travel",
+      "published_date": "2026-10-31T16:00:00+00:00",
       "category": "Military"
     },
     {
@@ -211,23 +225,23 @@
       "url": "https://newsinfo.inquirer.net/2331981/hike-in-school-bomb-threats-prompts-pnp-review-of-response-protocols",
       "published_date": "2026-10-29T05:44:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "PNP opens hotlines for tips on Dela Rosa’s whereabouts",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2331958/pnp-opens-hotlines-for-tips-on-dela-rosas-whereabouts",
-      "published_date": "2026-10-29T05:32:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Authorities seize P2.2M in contraband cigarettes in Sultan Kudarat town",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2332033/authorities-seize-p2-2m-in-contraband-cigarettes-in-sultan-kudarat-town",
-      "published_date": "2026-10-29T01:36:08+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "DOE on ‘Undas’ energy supply alert",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2333845/doe-on-undas-energy-supply-alert",
+      "published_date": "2026-11-01T05:26:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Spooky mall frights, cemetery bazaar mark Bukidnon Halloween",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2333782/spooky-mall-frights-cemetery-bazaar-mark-bukidnon-halloween",
+      "published_date": "2026-11-01T03:36:56+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Bishop calls for accountability, RE shift amid Visayas power crisis",
       "source": "Philippine Daily Inquirer",
@@ -318,23 +332,23 @@
       "url": "https://newsinfo.inquirer.net/2329980/lawmaker-warns-power-companies-vs-sharp-electricity-rate-increases",
       "published_date": "2026-10-25T17:46:43+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "RE advocates seek solutions to Mindanao’s fossil fuel dependence",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329632/re-advocates-seek-solutions-to-mindanaos-fossil-fuel-dependence",
-      "published_date": "2026-10-25T01:42:08+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Electricity bring modern education to tribal community in Bukidnon",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2329641/electricity-bring-modern-education-to-tribal-community-in-bukidnon",
-      "published_date": "2026-10-25T01:25:47+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Undas tradition: ‘Biko’ endures in Bukidnon",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2334011/undas-tradition-biko-endures-in-bukidnon",
+      "published_date": "2026-11-01T09:48:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "JV, Lacson: Budget ‘bicam’ open to all, sparing none",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2333838/jv-lacson-budget-bicam-open-to-all-sparing-none",
+      "published_date": "2026-11-01T05:34:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Ejercito opens 2027 budget bicam hearings to civil society groups",
       "source": "Philippine Daily Inquirer",
@@ -460,23 +474,100 @@
       "url": "https://newsinfo.inquirer.net/2331884/ombudsman-fines-cebu-city-mayor-over-night-market-operations",
       "published_date": "2026-10-28T21:31:53+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "INQToday: Don’t panic, says Marcos as peso hits record low",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2331823/inqtoday-dont-panic-says-marcos-as-peso-hits-record-low",
-      "published_date": "2026-10-28T20:12:47+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ecotourism development along BuDa highway triggers Bukidnon town growth",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2331790/ecotourism-development-along-buda-highway-triggers-bukidnon-town-growth",
-      "published_date": "2026-10-28T19:31:56+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Undas 2026: 1,500 passengers make last-minute trips at QC bus terminal",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2334005/undas-2026-1500-passengers-make-last-minute-trips-at-qc-bus-terminal",
+      "published_date": "2026-11-01T09:44:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senior citizen nabbed with P7.4-M shabu in Zamboanga City",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2334002/senior-citizen-nabbed-with-p7-4-m-shabu-in-zamboanga-city",
+      "published_date": "2026-11-01T09:36:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marcos urges Filipinos to turn Undas spirit into acts of kindness",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2333939/marcos-urges-filipinos-to-turn-undas-spirit-into-acts-of-kindness",
+      "published_date": "2026-11-01T07:29:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At 90, sis of WWII soldier visits his grave after decades long search",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2333853/at-90-sis-of-wwii-soldier-visits-his-grave-after-decades-long-search",
+      "published_date": "2026-11-01T05:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A buoy for the spirit in flood-weary Marikina",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2333857/a-buoy-for-the-spirit-in-flood-weary-marikina",
+      "published_date": "2026-11-01T05:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Edcom: Learning gap can be fixed even before Grade 1",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2333841/edcom-learning-gap-can-be-fixed-even-before-grade-1",
+      "published_date": "2026-11-01T05:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "800 deportees arrive in Zamboanga from Sabah",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2333835/800-deportees-arrive-in-zamboanga-from-sabah",
+      "published_date": "2026-11-01T05:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Newspaper of the Year’: Inquirer bags 2026 ALTA media award",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2333830/newspaper-of-the-year-inquirer-bags-2026-alta-media-award",
+      "published_date": "2026-11-01T05:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sagada’s ‘Panag-aapoy’ lights up a hill to honor the dead",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2333777/sagadas-panag-aapoy-lights-up-a-hill-to-honor-the-dead",
+      "published_date": "2026-11-01T05:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Faith traditions that shape how Filipinos observe All Souls’ Day",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2333803/faith-traditions-that-shape-how-filipinos-observe-all-souls-day",
+      "published_date": "2026-11-01T01:19:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iligan mayor asks cemetery visitors to observe proper waste disposal",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2333864/iligan-mayor-asks-cemetery-visitors-to-observe-proper-waste-disposal",
+      "published_date": "2026-11-01T01:01:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "[Time Trowel] Ube is taking over the world. So why are Filipinos still obsessed with rice?",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/voices/thought-leaders/time-trowel-philippines-invest-alternative-crops-ube-taro/",
+      "published_date": "2026-11-01T01:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "22 PUV drivers in Zamboanga test positive for drugs in ‘Oplan Harabas’",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2333859/22-puv-drivers-in-zamboanga-test-positive-for-drugs-in-oplan-harabas",
+      "published_date": "2026-11-01T00:39:17+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Planters group welcome SRA’s cloud seeding fund in Negros, Panay",
       "source": "Philippine Daily Inquirer",
@@ -513,108 +604,17 @@
       "category": "Local Events"
     },
     {
+      "title": "Proper hygiene urged as Tacloban schools record 704 cases of sore eyes",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2333764/proper-hygiene-urged-as-tacloban-schools-record-704-cases-of-sore-eyes",
+      "published_date": "2026-10-31T21:18:50+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Animal protection, care bill pushed after dead pets dumped in Bulacan",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2333746/animal-protection-care-bill-pushed-after-dead-pets-dumped-in-bulacan",
       "published_date": "2026-10-31T21:00:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marcos greets INC leader Eduardo Manalo on his 71st birthday",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2333732/marcos-greets-inc-leader-eduardo-manalo-on-his-71st-birthday",
-      "published_date": "2026-10-31T20:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Edcom 2: Boost early childhood, primary education curricula",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2333709/edcom-2-boost-early-childhood-primary-education-curricula",
-      "published_date": "2026-10-31T18:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 1,400 Albay folk still in evacuation centers after Mayon eruption",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2333694/over-1400-albay-folk-still-in-evacuation-centers-after-mayon-eruption",
-      "published_date": "2026-10-31T18:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mayor Zamora inspects San Juan City Cemetery ahead of Undas",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2333678/mayor-zamora-inspects-san-juan-city-cemetery-ahead-of-undas",
-      "published_date": "2026-10-31T16:53:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catholic bishop lauds election of BARMM Chief Minister Macacua",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2333630/catholic-bishop-lauds-election-of-barmm-chief-minister-macacua",
-      "published_date": "2026-10-31T15:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MMDA suspends road works ahead of Christmas season",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2333582/mmda-suspends-road-works-ahead-of-christmas-season",
-      "published_date": "2026-10-31T12:25:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No illegal items seized in Manila North Cemetery so far – police",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2333551/no-illegal-items-seized-in-manila-north-cemetery-so-far-police",
-      "published_date": "2026-10-31T12:13:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Afternoon rains, high heat index forecast for ‘Undas’ in Mindanao",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2333512/afternoon-rains-high-heat-index-forecast-for-undas-in-mindanao",
-      "published_date": "2026-10-31T11:47:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No flowers, no visitors: The graves Undas leaves behind",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2333399/no-flowers-no-visitors-the-graves-undas-leaves-behind",
-      "published_date": "2026-10-31T09:27:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taal Volcano sulfur dioxide emissions drop as number of volcanic quakes rise",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2333388/taal-volcano-sulfur-dioxide-emissions-drop-as-number-of-volcanic-quakes-rise",
-      "published_date": "2026-10-31T09:16:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Hope and help’: How the Philippines fights to lower breast cancer deaths",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/people/human-interest/philippines-fights-lower-breast-cancer-deaths/",
-      "published_date": "2026-10-31T09:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Niño-ready? These infrastructures in Quezon City collect rainwater",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/philippines/metro-manila/rainwater-collection-system-quezon-city-el-nino/",
-      "published_date": "2026-10-31T06:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sara Duterte camp rejects new cash delivery claim",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2333287/sara-duterte-camp-rejects-new-cash-delivery-claim",
-      "published_date": "2026-10-31T05:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ashes of deceased don’t belong at home, bishop reminds flock",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2333291/ashes-of-deceased-dont-belong-at-home-bishop-reminds-flock",
-      "published_date": "2026-10-31T05:46:00+00:00",
       "category": "Local Events"
     }
   ]
