@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Modern jeepney rides free in parts of NCR from Nov. 5-14",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336358/modern-jeepney-rides-free-in-parts-of-ncr-from-nov-5-14",
+      "published_date": "2026-11-05T09:22:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "$123.2 million allocated for El Niño response",
       "source": "Philstar Global",
       "url": "https://www.philstar.com/headlines/2026/11/05/2567898/1232-million-allocated-el-nio-response",
@@ -58,6 +65,34 @@
     }
   ],
   "Military": [
+    {
+      "title": "Sara Duterte’s lawyers: We respect Sarmiento’s refusal to testify",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336378/sara-dutertes-lawyers-we-respect-sarmientos-refusal-to-testify",
+      "published_date": "2026-11-05T09:35:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Duterte impeachment: Ex-law school dean declines to testify for defense",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336325/duterte-trial-ex-law-school-dean-declines-to-testify-as-defense-witness",
+      "published_date": "2026-11-05T08:06:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "250 pet owners file raps vs Bacoor crematory",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336192/250-pet-owners-file-raps-vs-bacoor-crematory",
+      "published_date": "2026-11-05T05:06:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Ralph Sarmiento refused to testify at Sara Duterte’s trial",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/philippines/why-ralph-sarmiento-refused-testify-sara-duterte-impeachment-trial/",
+      "published_date": "2026-11-05T02:27:55+00:00",
+      "category": "Military"
+    },
     {
       "title": "Man in Zamboanga del Sur nabbed for P5.78-M smuggled cigarettes",
       "source": "Philippine Daily Inquirer",
@@ -169,34 +204,6 @@
       "url": "https://newsinfo.inquirer.net/2335252/army-troops-hone-life-saving-skills-in-davao-de-oro",
       "published_date": "2026-11-03T11:34:05+00:00",
       "category": "Military"
-    },
-    {
-      "title": "PNP urges pet owners to file raps vs crematorium over dumped remains",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2335206/pnp-urges-pet-owners-to-file-raps-vs-crematorium-over-dumped-remains",
-      "published_date": "2026-11-03T10:10:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Garin: VP camp resorting to delaying, diversionary tactics in impeach trial",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2334999/garin-vp-camp-resorting-to-delaying-diversionary-tactics-in-impeach-trial",
-      "published_date": "2026-11-02T21:38:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Undas’ generally peaceful, orderly; 40.7M visit cemeteries nationwide",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2334995/undas-generally-peaceful-orderly-40-7m-visit-cemeteries-nationwide",
-      "published_date": "2026-11-02T21:10:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Over 9,000 passengers monitored in S. Tagalog ports on Nov. 2 – PCG",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2334883/over-9000-passengers-monitored-in-s-tagalog-ports-on-nov-2-pcg",
-      "published_date": "2026-11-02T16:48:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -283,23 +290,16 @@
       "url": "https://newsinfo.inquirer.net/2331898/mindanao-on-track-to-build-more-clean-energy-sources",
       "published_date": "2026-10-29T05:02:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "MAP: Power plants in the Visayas grid",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/philippines/map-power-plants-visayas-grid-2026/",
-      "published_date": "2026-10-28T23:15:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Consumers group backs call to penalize power firms over Visayas outages",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2331888/consumers-group-backs-call-to-penalize-power-firms-over-visayas-outages",
-      "published_date": "2026-10-28T21:47:24+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Stroke could cost Philippines ₱416.5B over 15 years",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336438/stroke-could-cost-philippines-416-5b-over-15-years",
+      "published_date": "2026-11-05T10:14:04+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Can Filipino MSMEs keep up with growing digital economy?",
       "source": "Philippine Daily Inquirer",
@@ -432,16 +432,114 @@
       "url": "https://www.philstar.com/headlines/2026/10/31/2566791/diokno-concrete-plan-needed-amid-peso-drop",
       "published_date": "2026-10-30T16:00:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Current, ex-Cebu City mayors slapped fines",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2332678/current-ex-cebu-city-mayors-slapped-fines",
-      "published_date": "2026-10-30T05:40:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "South Cotabato gov: P1,000 budget ‘enough’ for simple Noche Buena",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336447/south-cotabato-gov-p1000-budget-enough-for-simple-noche-buena",
+      "published_date": "2026-11-05T10:52:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ramon Tulfo admits error in Romualdez exposé",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336416/ramon-tulfo-admits-error-in-romualdez-expose",
+      "published_date": "2026-11-05T10:11:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "OVP suffers alleged data leak – cybersecurity group",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336392/ovp-suffers-alleged-data-leak-cybersecurity-group",
+      "published_date": "2026-11-05T10:00:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BJMP allows Romualdez’s staff to attend to his needs, court told",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336404/bjmp-allows-romualdezs-staff-to-attend-to-his-needs-court-told",
+      "published_date": "2026-11-05T09:49:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marcos, MILF leaders meet in Malacañang",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336398/marcos-milf-leaders-meet-in-malacanang",
+      "published_date": "2026-11-05T09:42:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "50 applicants vie for Cabinet, top BARMM positions",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336361/50-applicants-vie-for-cabinet-top-barmm-positions",
+      "published_date": "2026-11-05T09:24:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heat index forecast to reach 43°C in Coron, Dipolog – Pagasa",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336348/heat-index-forecast-to-peak-at-43c-in-coron-dipolog-pagasa",
+      "published_date": "2026-11-05T08:39:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rainy Thursday in parts of PH due to amihan, easterlies",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336312/rainy-thursday-in-parts-of-ph-due-to-amihan-easterlies",
+      "published_date": "2026-11-05T07:53:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "OSG: Senate didn’t amend Charter in revised impeach rule",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336260/osg-senate-didnt-amend-charter-in-revised-impeach-rule",
+      "published_date": "2026-11-05T05:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court to BJMP: Did you let Romualdez out?",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336257/court-to-bjmp-did-you-let-romualdez-out",
+      "published_date": "2026-11-05T05:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Distribute Move It’s excess riders to other platforms – advocacy groups",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336255/distribute-move-its-excess-riders-to-other-platforms-advocacy-groups",
+      "published_date": "2026-11-05T05:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PH ‘Carving Capital’ cries foul over TV horror special",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336254/ph-carving-capital-cries-foul-over-tv-horror-special",
+      "published_date": "2026-11-05T05:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ilocos region needs P660M to address drought impact",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336194/ilocos-region-needs-p660m-to-address-drought-impact",
+      "published_date": "2026-11-05T05:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Classes in Negros, Tacloban shift online due to heat",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336191/classes-in-negros-tacloban-shift-online-due-to-heat",
+      "published_date": "2026-11-05T05:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Filipino teens among least physically active globally — WHO study",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/health-and-family/2026/11/05/2568038/filipino-teens-among-least-physically-active-globally-who-study",
+      "published_date": "2026-11-05T01:26:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Four dead, 1 missing as firecracker factory caught fire in Pangasinan",
       "source": "Philippine Daily Inquirer",
@@ -475,111 +573,6 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2336222/negros-occidental-to-honor-2-national-artists-top-taxpayers",
       "published_date": "2026-11-04T22:47:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Groups seek transfer of 55,000 excess Move It riders to other platforms",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336235/groups-seek-transfer-of-55000-excess-move-it-riders-to-other-platforms",
-      "published_date": "2026-11-04T22:46:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police set to file parricide raps vs 15-year-old boy over ma’s killing",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336215/police-set-to-file-parricide-raps-vs-15-year-old-boy-over-mas-killing",
-      "published_date": "2026-11-04T22:42:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NTF-Elcac: Nearly 1,500 CTG members neutralized in 2026",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336230/ntf-elcac-nearly-1500-ctg-members-neutralized-in-2026",
-      "published_date": "2026-11-04T22:38:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DSWD pours P884.7M in aid to sugarcane farmers, laborers in Negros",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336212/dswd-pours-p884-7m-in-aid-to-sugarcane-farmers-laborers-in-negros",
-      "published_date": "2026-11-04T22:36:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nov. 4 PCSO lotto results: P333.42M jackpot not won",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336198/nov-4-pcso-lotto-results-p333-42m-jackpot-not-won",
-      "published_date": "2026-11-04T22:14:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manila Water repair works to affect NCR, Rizal areas",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336188/manila-water-repair-works-to-affect-ncr-rizal-areas",
-      "published_date": "2026-11-04T21:26:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mark Villar calls for stronger food security measures for El Niño",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336183/mark-villar-calls-for-stronger-food-security-measures-for-el-nino",
-      "published_date": "2026-11-04T21:12:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "INQToday: No power outage or Romualdez exit from QC jail – BJMP",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336170/inqtoday-no-power-outage-or-romualdez-exit-from-qc-jail-bjmp",
-      "published_date": "2026-11-04T20:43:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "WALANG PASOK: Class suspensions on Thursday due to high heat index",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336167/walang-pasok-class-suspensions-on-thursday-due-to-high-heat-index",
-      "published_date": "2026-11-04T20:21:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tigson named new PTV general manager",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336146/tigson-named-new-ptv-general-manager",
-      "published_date": "2026-11-04T19:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Solon backs call to scrap limits on motorcycle taxis",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336127/solon-backs-call-to-scrap-limits-on-motorcycle-taxis",
-      "published_date": "2026-11-04T19:05:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manila Water maximizes 6 water treatment plants for El Niño",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336131/manila-water-maximizes-6-water-treatment-plants-for-el-nino",
-      "published_date": "2026-11-04T18:57:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brian Poe plans to file bill to regulate pet crematoriums",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336118/brian-poe-plans-to-file-bill-to-regulate-pet-crematoriums",
-      "published_date": "2026-11-04T18:45:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cases of flu-like illnesses rise by 31% in two weeks – DOH",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336111/cases-of-flu-like-illnesses-rise-by-31-in-two-weeks-doh",
-      "published_date": "2026-11-04T18:26:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ACT slams Marcos’ class suspension policy as ‘band-aid solution’",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336110/act-slams-marcos-class-suspension-policy-as-band-aid-solution",
-      "published_date": "2026-11-04T18:19:48+00:00",
       "category": "Local Events"
     }
   ]
