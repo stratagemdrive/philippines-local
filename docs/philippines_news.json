@@ -69,16 +69,16 @@
       "url": "https://newsinfo.inquirer.net/2333840/bamboo-takes-center-stage-in-unesco-geopark",
       "published_date": "2026-11-01T05:20:00+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "INQToday: Teodoro rejects China’s claim of abuse of Asean chairmanship",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2332516/inqtoday-teodoro-rejects-chinas-claim-of-abuse-of-asean-chairmanship",
-      "published_date": "2026-10-29T20:17:16+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "First of 25 witnesses for Sara Duterte defense backs out",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336887/first-of-25-witnesses-for-sara-duterte-defense-backs-out",
+      "published_date": "2026-11-06T05:32:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Luistro praises ex-law dean’s reason for declining to be VP  witness",
       "source": "Philippine Daily Inquirer",
@@ -211,16 +211,16 @@
       "url": "https://newsinfo.inquirer.net/2335636/nartatez-says-there-is-secrecy-in-police-operations",
       "published_date": "2026-11-03T21:47:04+00:00",
       "category": "Military"
-    },
-    {
-      "title": "PCG logs over 83,000 passengers at ports after Undas",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2335535/pcg-logs-over-83000-passengers-at-ports-after-undas",
-      "published_date": "2026-11-03T18:19:23+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Malampaya milestone: Gas flows from Phase 4 wells",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336878/malampaya-milestone-gas-flows-from-phase-4-wells",
+      "published_date": "2026-11-06T05:34:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "13 power firms told to explain long plant outages",
       "source": "Philstar Global",
@@ -293,6 +293,27 @@
     }
   ],
   "Economy": [
+    {
+      "title": "EcoWaste seeks crackdown on unsafe, unauthorized squishy toys",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2337000/ecowaste-seeks-crackdown-on-unsafe-unauthorized-squishy-toys",
+      "published_date": "2026-11-06T10:11:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Comelec says Barangay residency certificate, cedula not valid IDs",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336890/comelec-says-barangay-residency-certificate-cedula-not-valid-ids",
+      "published_date": "2026-11-06T05:44:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "[OPINION] Government must outlive administrations",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/voices/thought-leaders/opinion-government-must-outlive-administrations/",
+      "published_date": "2026-11-05T23:00:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Stroke could cost Philippines ₱416.5B over 15 years",
       "source": "Philippine Daily Inquirer",
@@ -411,30 +432,79 @@
       "url": "https://newsinfo.inquirer.net/2333119/ejercito-dpwh-agree-to-drop-noncompliant-projects-from-2027-budget",
       "published_date": "2026-10-30T18:38:38+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Palace tells business groups it’s hoping for passage of clean 2027 budget too",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2333121/palace-tells-business-groups-its-hoping-for-passage-of-clean-2027-budget-too",
-      "published_date": "2026-10-30T18:23:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Documents vs VP in impeachment trial came from her camp, says prosec",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2333042/documents-vs-vp-in-impeachment-trial-came-from-her-camp-says-prosec",
-      "published_date": "2026-10-30T17:11:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Diokno: Concrete plan needed amid peso drop",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/10/31/2566791/diokno-concrete-plan-needed-amid-peso-drop",
-      "published_date": "2026-10-30T16:00:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Marcos swears in ten cabinet members at the Palace",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2337004/marcos-swears-in-nine-cabinet-members-and-one-director",
+      "published_date": "2026-11-06T10:19:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zalameda asked to restore people’s trust in the justice system",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336973/zalameda-asked-to-restore-peoples-trust-in-the-justice-system",
+      "published_date": "2026-11-06T08:10:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Easterlies to bring rains to most parts of PH on Friday",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336958/easterlies-to-bring-rains-to-most-of-ph-on-friday",
+      "published_date": "2026-11-06T07:23:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SC adopts ‘child-friendly’ rules for court testimony",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336888/sc-adopts-child-friendly-rules-for-court-testimony",
+      "published_date": "2026-11-06T05:52:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Remulla: No truth to ‘chismis’ Romualdez can freely leave jail",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336891/remulla-no-truth-to-chismis-romualdez-can-freely-leave-jail",
+      "published_date": "2026-11-06T05:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zalameda is new Chief Justice",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336876/zalameda-is-new-chief-justice",
+      "published_date": "2026-11-06T05:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BARMM chief forms Cabinet",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336839/barmm-chief-forms-cabinet",
+      "published_date": "2026-11-06T05:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In Albay, Mayon evacuees get aid as volcanic unrest persists",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336837/in-albay-mayon-evacuees-get-aid-as-volcanic-unrest-persists",
+      "published_date": "2026-11-06T05:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Group vows to watch IP consent process",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2336835/group-vows-to-watch-ip-consent-process",
+      "published_date": "2026-11-06T05:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "[Puso at Diwa] Wanted: Integrity dividend",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/voices/thought-leaders/puso-at-diwa-wanted-integrity-dividend-governance-philippines/",
+      "published_date": "2026-11-06T00:44:52+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "1 killed, another wounded as firecracker ‘factory’ in Iligan explodes",
       "source": "Philippine Daily Inquirer",
@@ -461,6 +531,13 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2336870/manila-archbishop-orders-prayers-for-rain-amid-el-nino-threat",
       "published_date": "2026-11-05T23:31:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FACT CHECK: ICC’s arrest warrant vs Dela Rosa still active, not dismissed by SC",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/newsbreak/fact-check/icc-arrest-warrant-against-ronald-dela-rosa-still-active-not-dismissed-supreme-court/",
+      "published_date": "2026-11-05T23:15:00+00:00",
       "category": "Local Events"
     },
     {
@@ -496,83 +573,6 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2336828/romualdez-camp-false-claim-of-jailbreak-shows-danger-of-unverified-info",
       "published_date": "2026-11-05T21:38:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Michelin-starred Manila restaurant eyes Samar delicacies for 2027 menu",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336817/michelin-starred-manila-restaurant-eyes-samar-delicacies-for-2027-menu",
-      "published_date": "2026-11-05T21:07:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "INQToday: Rodil Zalameda is new SC chief justice",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336813/inqtoday-rodil-zalameda-is-new-sc-chief-justice",
-      "published_date": "2026-11-05T20:56:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watchdog: Speaker Dy to convene House budget panel to discuss reforms",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336808/watchdog-speaker-dy-to-convene-house-budget-panel-to-discuss-reforms",
-      "published_date": "2026-11-05T20:25:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dangerous heat index expected in 3 areas on Friday – Pagasa",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336795/dangerous-heat-index-expected-in-3-areas-on-friday-pagasa",
-      "published_date": "2026-11-05T19:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTFoMS backs decriminalizing libel",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336787/ptfoms-backs-decriminalizing-libel",
-      "published_date": "2026-11-05T19:34:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Luistro: No ‘fishing expedition’ in wealth case vs VP Duterte",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336785/luistro-no-fishing-expedition-in-wealth-case-vs-vp-duterte",
-      "published_date": "2026-11-05T19:31:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marcos warns LGUs against corruption in P8.6-B disaster funds",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336754/marcos-warns-lgus-against-corruption-in-p8-6-b-disaster-funds",
-      "published_date": "2026-11-05T18:30:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Robredo: No room for unauthorized budget insertions in Naga City",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336757/robredo-no-room-for-unauthorized-budget-insertions-in-naga-city",
-      "published_date": "2026-11-05T18:29:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 arrested for transporting fish allegedly caught via explosives",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336743/3-arrested-for-transporting-fish-allegedly-caught-via-explosives",
-      "published_date": "2026-11-05T18:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NBI prepares 6 complaints against people behind dumping of pet remains",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336751/nbi-prepares-6-complaints-against-people-behind-dumping-of-pet-remains",
-      "published_date": "2026-11-05T18:16:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pet crematorium issue exposes gaps in animal welfare laws – analyst",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2336750/pet-crematorium-issue-exposes-gaps-in-animal-welfare-laws-analyst",
-      "published_date": "2026-11-05T18:01:23+00:00",
       "category": "Local Events"
     }
   ]
