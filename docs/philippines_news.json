@@ -80,6 +80,13 @@
   ],
   "Military": [
     {
+      "title": "'Prosecution had its chance. It failed': Duterte camp says ahead of VP Sara's defense",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/11/07/2568520/prosecution-had-its-chance-it-failed-duterte-camp-says-ahead-vp-saras-defense",
+      "published_date": "2026-11-07T02:05:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Kapunan: Defense’s ‘I don’t know’ alibi makes VP Duterte look ‘dumb’",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2337420/kapunan-defenses-i-dont-know-alibi-makes-vp-duterte-look-dumb",
@@ -211,13 +218,6 @@
       "url": "https://newsinfo.inquirer.net/2335887/pnp-welcomes-palace-challenge-vows-no-special-treatment-for-dela-rosa",
       "published_date": "2026-11-04T10:29:08+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Palace to police chief: Get Dela Rosa despite PNP past",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2335731/palace-to-police-chief-get-dela-rosa-despite-pnp-past",
-      "published_date": "2026-11-04T05:38:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -310,13 +310,6 @@
       "source": "Rappler",
       "url": "https://www.rappler.com/philippines/rooftop-solar-affordable-financing-options/",
       "published_date": "2026-10-31T05:30:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "PH, Abu Dhabi firm eyeing strategic petroleum reserves partnership",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2333147/ph-abu-dhabi-firm-eyeing-strategic-petroleum-reserves-partnership",
-      "published_date": "2026-10-30T18:51:59+00:00",
       "category": "Energy"
     }
   ],
@@ -464,6 +457,48 @@
   ],
   "Local Events": [
     {
+      "title": "Amihan, easterlies, shear line to bring rains across country",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2337501/amihan-easterlies-shear-line-to-bring-rains-across-country",
+      "published_date": "2026-11-07T09:35:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heatwave fuels 54% fire surge in Northern Mindanao",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2337482/heatwave-fuels-54-fire-surge-in-northern-mindanao",
+      "published_date": "2026-11-07T09:28:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palace wants probe on why Romualdez allowed aide",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2337465/palace-wants-probe-on-why-romualdez-allowed-aide",
+      "published_date": "2026-11-07T05:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Impeach court: COA docs for Article 1 can’t be used for 2",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2337451/impeach-court-coa-docs-for-article-1-cant-be-used-for-2",
+      "published_date": "2026-11-07T05:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New BARMM education chief vows improved learning outcomes",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2337379/new-barmm-education-chief-vows-improved-learning-outcomes",
+      "published_date": "2026-11-07T05:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meghan Markle's dad arrested in US over child sex abuse images found in PH",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/11/07/2568517/meghan-markles-dad-arrested-us-over-child-sex-abuse-images-found-ph",
+      "published_date": "2026-11-07T01:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Fire hits mall in Makati City Friday evening",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2337440/fire-hits-mall-in-makati-city-friday-evening",
@@ -559,48 +594,6 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2337259/deped-saves-%e2%82%b11-4b-in-landmark-procurement-of-laptops-via-open-bidding",
       "published_date": "2026-11-06T18:28:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Verbal spat to ‘power hug’: Castro, Magalong strike a friendlier note",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337261/verbal-spat-to-power-hug-castro-magalong-strike-a-friendlier-note",
-      "published_date": "2026-11-06T18:16:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rescue group slams UPLB memo on stray animals",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337251/rescue-group-slams-uplb-memo-on-stray-animals",
-      "published_date": "2026-11-06T18:10:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "OSG urges SC: Define which flagged projects could continue",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337244/osg-urges-sc-define-which-flagged-projects-could-continue",
-      "published_date": "2026-11-06T17:57:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SC affirms 5-year term for barangay, SK execs; next polls in Nov. 2028",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337234/sc-affirms-5-year-term-for-barangay-sk-execs-next-polls-in-nov-2028",
-      "published_date": "2026-11-06T17:24:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LTFRB extends TNVS drivers’ regularization deadline by 30 days",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337187/ltfrb-extends-tnvs-drivers-regularization-deadline-by-30-days",
-      "published_date": "2026-11-06T17:02:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPLB official defends stray animal memo, cites student safety",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337219/uplb-official-defends-stray-animal-memo-cites-student-safety",
-      "published_date": "2026-11-06T16:56:09+00:00",
       "category": "Local Events"
     }
   ]
