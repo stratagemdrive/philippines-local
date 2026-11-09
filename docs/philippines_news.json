@@ -1,6 +1,27 @@
 {
   "Diplomacy": [
     {
+      "title": "Chinese-run fish cages blamed for displaced Pangasinan fisherfolk",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338693/chinese-run-fish-cages-blamed-for-displaced-pangasinan-fisherfolk",
+      "published_date": "2026-11-10T04:40:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hold protests after Asean Summit, security official tells groups",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338740/hold-protests-after-asean-summit-security-official-tells-groups",
+      "published_date": "2026-11-10T01:00:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "MMDA announces Nov. 15-18 road closures, rerouting for Asean Summit",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338544/mmda-announces-nov-15-18-road-closures-rerouting-for-asean-summit",
+      "published_date": "2026-11-09T19:24:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Philippines’ West PH Sea, China discord seeps through fissures",
       "source": "Rappler",
       "url": "https://www.rappler.com/newsbreak/inside-track/west-philippine-sea-china-discord-seeps-through-fissures/",
@@ -97,23 +118,65 @@
       "url": "https://newsinfo.inquirer.net/2335187/mayon-volcano-logs-ash-emission-on-tuesday-morning",
       "published_date": "2026-11-03T09:55:20+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Philippines to host Quad leaders’ summit during ASEAN meet",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/11/03/2567466/philippines-host-quad-leaders-summit-during-asean-meet",
-      "published_date": "2026-11-02T16:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ICC holds 5th status conference on Rodrigo Duterte’s case | The wRap",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/video/daily-wrap/november-2-2026/",
-      "published_date": "2026-11-02T14:00:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Nartatez: PNP getting tips in Dela Rosa manhunt",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338716/nartatez-pnp-getting-tips-in-bato-manhunt",
+      "published_date": "2026-11-10T04:45:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Legazpi City declared insurgency-free",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338696/legazpi-city-declared-insurgency-free",
+      "published_date": "2026-11-10T01:31:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Defense confident next witnesses will show up – Poa",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338708/defense-confident-next-witnesses-will-show-up-poa",
+      "published_date": "2026-11-09T22:51:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Luistro presses Mans Carpio to testify on assets shared with VP",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338655/luistro-presses-mans-carpio-to-testify-on-assets-shared-with-vp",
+      "published_date": "2026-11-09T21:29:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Asking witness about China trips improper, unfair, says VP spox",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338568/asking-witness-about-china-trips-improper-unfair-says-vp-spox",
+      "published_date": "2026-11-09T20:02:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PNP gets over 500 tips on Bato’s whereabouts",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/11/10/2569104/pnp-gets-over-500-tips-batos-whereabouts",
+      "published_date": "2026-11-09T16:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Senators grill defense witness over China trip",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/11/10/2569107/senators-grill-defense-witness-over-china-trip",
+      "published_date": "2026-11-09T16:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sara Duterte’s defense witness hit over ‘inconsistencies’ | The wRap",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/video/daily-wrap/november-9-2026/",
+      "published_date": "2026-11-09T14:00:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "WATCH: Sara Duterte impeachment trial | Nov. 9, 2026",
       "source": "Philippine Daily Inquirer",
@@ -197,65 +260,16 @@
       "url": "https://newsinfo.inquirer.net/2337662/prosecution-questions-alleged-lavish-card-spending-by-vp-duterte-husband",
       "published_date": "2026-11-07T16:30:15+00:00",
       "category": "Military"
-    },
-    {
-      "title": "PNP logs 8 cybercrime convictions, 144 referred cases in October",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337663/pnp-logs-8-cybercrime-convictions-144-referred-cases-in-october",
-      "published_date": "2026-11-07T16:26:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Prosecution: Answer Sara Duterte’s alleged ₱818-M unexplained wealth",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337656/prosecution-answer-sara-dutertes-alleged-%e2%82%b1818-m-unexplained-wealth",
-      "published_date": "2026-11-07T16:11:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "DND chief honors Philippines, US war veterans",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/11/08/2568686/dnd-chief-honors-philippines-us-war-veterans",
-      "published_date": "2026-11-07T16:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Prosecution had its chance, but failed – VP Sara",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/11/08/2568689/prosecution-had-its-chance-failed-vp-sara",
-      "published_date": "2026-11-07T16:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sara Duterte defense lacks counter-witness on P817M asset gap — Kapunan",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337652/sara-duterte-defense-lacks-counter-witness-on-p817m-asset-gap-kapunan",
-      "published_date": "2026-11-07T15:51:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "BOC: P4.1M illegal cigarettes seized in Negros Occidental",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337647/boc-p4-1m-illegal-cigarettes-seized-in-negros-occidental",
-      "published_date": "2026-11-07T15:09:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PCG flags registration, clearance violations of 2 capsized boats",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337576/pcg-flags-registration-clearance-violations-of-2-capsized-boats",
-      "published_date": "2026-11-07T13:21:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sara Duterte’s spox: Prosecution in impeach trial failed to prove its case",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337531/sara-duterte-spox-impeachment-prosecution-failed-to-prove-its-case",
-      "published_date": "2026-11-07T10:39:56+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Accountability, aid for Leyte fishers urged after submarine cable oil leak",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338690/accountability-aid-for-leyte-fishers-urged-after-submarine-cable-oil-leak",
+      "published_date": "2026-11-10T04:30:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Power fluctuations in Ilocos Norte traced to NGCP’s low voltage supply",
       "source": "Philippine Daily Inquirer",
@@ -304,16 +318,16 @@
       "url": "https://newsinfo.inquirer.net/2335141/oil-price-watch-as-of-nov-3-2026",
       "published_date": "2026-11-03T09:02:23+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Bohol’s smoke ritual caps cemetery visits",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2334375/bohols-smoke-ritual-caps-cemetery-visits",
-      "published_date": "2026-11-02T05:17:00+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Closed fishing season may trigger price hike, supply issues – Pamalakaya",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338612/closed-fishing-season-may-trigger-price-hike-supply-issues-pamalakaya",
+      "published_date": "2026-11-09T21:23:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "P7.2-T budget, tax relief among legislative agenda",
       "source": "Philippine Daily Inquirer",
@@ -432,168 +446,147 @@
       "url": "https://newsinfo.inquirer.net/2335263/is-sugar-in-negros-still-sweet",
       "published_date": "2026-11-03T11:44:07+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Prosecution: Bank records prompted dropping of 3 impeachment charges",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2334994/prosecution-bank-records-prompted-dropping-of-3-impeachment-charges",
-      "published_date": "2026-11-02T21:17:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Groups call for de-escalation of tension with China",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/11/03/2567481/groups-call-de-escalation-tension-china",
-      "published_date": "2026-11-02T16:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Despite economic problems, Undas flower vendors strive to survive",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2334742/despite-economic-problems-undas-flower-vendors-strive-to-survive",
-      "published_date": "2026-11-02T13:09:15+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
     {
-      "title": "College ‘ban’ on hijab stirs controversy in Northern Mindanao",
+      "title": "Marcos leads rollout of laptops for schoolteachers",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2338207/college-ban-on-hijab-stirs-controversy-in-northern-mindanao",
-      "published_date": "2026-11-09T09:56:14+00:00",
+      "url": "https://newsinfo.inquirer.net/2338731/marcos-leads-rollout-of-laptops-for-schoolteachers",
+      "published_date": "2026-11-10T05:15:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Marcos swears in Zalameda as chief justice",
+      "title": "House to also delete undocumented infra items",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2338212/marcos-swears-in-zalameda-as-chief-justice",
-      "published_date": "2026-11-09T09:39:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2338718/house-to-also-delete-undocumented-infra-items",
+      "published_date": "2026-11-10T04:50:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Amihan to bring cooler weather to much of Luzon on Nov. 9",
+      "title": "BARMM racing to pass 2027 regional budget",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2338171/amihan-to-bring-cooler-weather-to-much-of-luzon-on-nov-9",
-      "published_date": "2026-11-09T07:52:30+00:00",
+      "url": "https://newsinfo.inquirer.net/2338685/barmm-racing-to-pass-2027-regional-budget",
+      "published_date": "2026-11-10T04:35:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Gov’t workers to get bonus, cash gift",
+      "title": "Bataan drug buy-bust operation uncovers alleged drug den; 7 arrested",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2338120/govt-workers-to-get-bonus-cash-gift",
-      "published_date": "2026-11-09T05:30:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2338699/bataan-drug-buy-bust-operation-uncovers-alleged-drug-den-7-arrested",
+      "published_date": "2026-11-10T01:24:53+00:00",
       "category": "Local Events"
     },
     {
-      "title": "13 years after Yolanda, Tacloban carries lessons into every typhoon",
+      "title": "What’s the status of your agency’s 2024 PBB processing?",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2338130/13-years-after-yolanda-tacloban-carries-lessons-into-every-typhoon",
-      "published_date": "2026-11-09T04:40:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2338734/whats-the-status-of-your-agencys-2024-pbb-processing",
+      "published_date": "2026-11-10T00:31:45+00:00",
       "category": "Local Events"
     },
     {
-      "title": "LTO summons bus driver, operator in Quezon road accident",
+      "title": "Candon City sets aside P124M for tobacco farmers",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2338128/lto-summons-bus-driver-operator-in-quezon-road-accident",
-      "published_date": "2026-11-09T04:35:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2338703/candon-city-sets-aside-p124m-for-tobacco-farmers",
+      "published_date": "2026-11-09T23:00:49+00:00",
       "category": "Local Events"
     },
     {
-      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-      "published_date": "2026-11-09T01:08:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SPECIAL COVERAGE: Impeachment trial of Sara Duterte",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/philippines/video-special-coverage-panel-discussion-impeachment-trial-sara-duterte/",
-      "published_date": "2026-11-09T01:08:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Typhoon Cempaka to enter PAR Monday, briefly stay before exiting Tuesday",
+      "title": "Baguio council seeks specific indigenous identities in health records",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2338141/typhoon-cempaka-to-enter-par-monday-briefly-stay-before-exiting-tuesday",
-      "published_date": "2026-11-09T00:24:22+00:00",
+      "url": "https://newsinfo.inquirer.net/2338676/baguio-council-seeks-specific-indigenous-identities-in-health-records",
+      "published_date": "2026-11-09T22:42:58+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Hontiveros: Too early to say there’s already a number for VP conviction",
+      "title": "Ilocos Sur town sets P180 minimum farmgate price for live hogs",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2338114/hontiveros-too-early-to-say-theres-already-a-number-for-vp-conviction",
-      "published_date": "2026-11-08T21:53:55+00:00",
+      "url": "https://newsinfo.inquirer.net/2338661/ilocos-sur-town-sets-p180-minimum-farmgate-price-for-live-hogs",
+      "published_date": "2026-11-09T22:33:07+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Lotto draw results on Sunday, Nov. 8, 2026",
+      "title": "Lotto draw results on Monday, November 9",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2338109/lotto-draw-results-on-sunday-nov-8-2026",
-      "published_date": "2026-11-08T21:51:26+00:00",
+      "url": "https://newsinfo.inquirer.net/2338670/lotto-draw-results-on-monday-november-9",
+      "published_date": "2026-11-09T21:59:33+00:00",
       "category": "Local Events"
     },
     {
-      "title": "WALANG PASOK: Class suspensions on Monday, Nov. 9",
+      "title": "Dy: House will soon launch transparency platform on its website",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2338062/walang-pasok-class-suspensions-on-monday-nov-9",
-      "published_date": "2026-11-08T17:30:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2338667/dy-house-will-soon-launch-transparency-platform-on-its-website",
+      "published_date": "2026-11-09T21:59:25+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Cempaka intensifies into typhoon outside PAR",
+      "title": "Pope names Mati bishop as new head of Davao archdiocese",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2338055/cempaka-intensifies-into-typhoon-outside-par",
-      "published_date": "2026-11-08T17:01:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2338601/pope-names-mati-bishop-as-new-head-of-davao-archdiocese",
+      "published_date": "2026-11-09T21:09:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Bill vs AI job displacement filed",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/11/09/2568852/bill-vs-ai-job-displacement-filed",
-      "published_date": "2026-11-08T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "P2 million escrow, fines eyed over balikbayan boxes",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/11/09/2568855/p2-million-escrow-fines-eyed-over-balikbayan-boxes",
-      "published_date": "2026-11-08T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Typhoon Samuel enters PAR",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/11/09/2568865/typhoon-samuel-enters-par",
-      "published_date": "2026-11-08T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Valencia City LGU, farmers receive P6.6M agri equipment from DA",
+      "title": "Doubled night shift differential for private sector workers pushed",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2338008/valencia-city-lgu-farmers-receive-p6-6m-agri-equipment-from-da",
-      "published_date": "2026-11-08T14:52:00+00:00",
+      "url": "https://newsinfo.inquirer.net/2338595/doubled-night-shift-differential-for-private-sector-workers-pushed",
+      "published_date": "2026-11-09T21:00:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Hontiveros expects Sara Duterte to attend OVP budget deliberations",
+      "title": "Pagadian City hosts 2026 MindaCon, more tech investments seen",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2338006/hontiveros-expects-sara-duterte-to-attend-ovp-budget-deliberations",
-      "published_date": "2026-11-08T14:20:18+00:00",
+      "url": "https://newsinfo.inquirer.net/2338589/pagadian-city-hosts-2026-mindacon-more-tech-investments-seen",
+      "published_date": "2026-11-09T20:46:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Storm Cempaka retains strength ahead of PAR entry",
+      "title": "Caraga poverty rate drops to 7.8% in 2025",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337965/pagasa-cempaka-maintains-strength-ahead-of-expected-entry-to-par",
-      "published_date": "2026-11-08T14:02:43+00:00",
+      "url": "https://newsinfo.inquirer.net/2338574/caraga-poverty-rate-drops-to-7-8-in-2025",
+      "published_date": "2026-11-09T20:22:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Sara Duterte conviction unlikely to spark mass protests – Ridon",
+      "title": "Heat index hits 42°C in Coron, Palawan and Borongan, Eastern Samar",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337963/sara-duterte-conviction-unlikely-to-spark-mass-protests-ridon",
-      "published_date": "2026-11-08T13:36:16+00:00",
+      "url": "https://newsinfo.inquirer.net/2338572/heat-index-hits-42c-in-coron-palawan-and-borongan-eastern-samar",
+      "published_date": "2026-11-09T20:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Manila Water readies 33 reservoirs for prolonged El Niño",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338623/manila-water-readies-33-reservoirs-for-prolonged-el-nino",
+      "published_date": "2026-11-09T20:07:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Caloocan lotto outlet teller, operator sued for illegal numbers racket",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338614/caloocan-lotto-outlet-teller-operator-sued-for-illegal-numbers-racket",
+      "published_date": "2026-11-09T19:59:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "De Lima hoping Robredo reconsiders decision to ditch bid for nat’l post",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338613/de-lima-hoping-robredo-reconsiders-decision-to-ditch-bid-for-natl-post",
+      "published_date": "2026-11-09T19:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AdU legal aid office hails acquittal of 2 clients arrested over protests",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338552/adu-legal-aid-office-hails-acquittal-of-2-clients-arrested-over-protests",
+      "published_date": "2026-11-09T19:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marcos, Angara start distributing laptops to teachers in Dagupan",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338576/marcos-angara-start-distributing-laptops-to-teachers-in-dagupan",
+      "published_date": "2026-11-09T19:20:29+00:00",
       "category": "Local Events"
     }
   ]
