@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Philippines’ West PH Sea, China discord seeps through fissures",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/newsbreak/inside-track/west-philippine-sea-china-discord-seeps-through-fissures/",
+      "published_date": "2026-11-08T23:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "DFA: Philippine officials’ comments on China issue ‘regrettable’",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/11/09/2568895/dfa-philippine-officials-comments-china-issue-regrettable",
+      "published_date": "2026-11-08T17:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Philippines moves to address climate-related loss, damage",
       "source": "Philstar Global",
       "url": "https://www.philstar.com/headlines/2026/11/09/2568863/philippines-moves-address-climate-related-loss-damage",
@@ -100,6 +114,34 @@
     }
   ],
   "Military": [
+    {
+      "title": "WATCH: Sara Duterte impeachment trial | Nov. 9, 2026",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338165/watch-sara-duterte-impeachment-trial-nov-9-2026",
+      "published_date": "2026-11-09T07:16:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sara Duterte impeachment trial Day 40: Defense to call on first witness",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338096/sara-duterte-impeachment-trial-day-40-defense-to-call-on-first-witness",
+      "published_date": "2026-11-09T07:00:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "VP’s defense begins amid calls for her to testify",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338126/vps-defense-begins-amid-calls-for-her-to-testify",
+      "published_date": "2026-11-09T05:55:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sara Duterte trial: Defense begins presentation of evidence",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/philippines/national-news/defense-begins-presentation-evidence-sara-duterte-impeachment-trial/",
+      "published_date": "2026-11-09T01:00:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Prosecution sees VP’s possible ‘I didn’t know’ defense on bank accounts",
       "source": "Philippine Daily Inquirer",
@@ -211,34 +253,6 @@
       "url": "https://newsinfo.inquirer.net/2337531/sara-duterte-spox-impeachment-prosecution-failed-to-prove-its-case",
       "published_date": "2026-11-07T10:39:56+00:00",
       "category": "Military"
-    },
-    {
-      "title": "'Prosecution had its chance. It failed': Duterte camp says ahead of VP Sara's defense",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/11/07/2568520/prosecution-had-its-chance-it-failed-duterte-camp-says-ahead-vp-saras-defense",
-      "published_date": "2026-11-07T02:05:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kapunan: Defense’s ‘I don’t know’ alibi makes VP Duterte look ‘dumb’",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337420/kapunan-defenses-i-dont-know-alibi-makes-vp-duterte-look-dumb",
-      "published_date": "2026-11-06T23:21:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Missing man from Lipa City found dead in Taal Lake area",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337367/missing-man-from-lipa-city-found-dead-in-taal-lake-area",
-      "published_date": "2026-11-06T22:27:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kapunan: VP Duterte defense has no reason to avoid tackling evidence",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337217/kapunan-vp-duterte-defense-has-no-reason-to-avoid-tackling-evidence",
-      "published_date": "2026-11-06T17:42:46+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -300,6 +314,27 @@
     }
   ],
   "Economy": [
+    {
+      "title": "P7.2-T budget, tax relief among legislative agenda",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338122/p7-2-t-budget-tax-relief-among-legislative-agenda",
+      "published_date": "2026-11-09T05:25:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bishops in Visayas, Romblon renew opposition to Boracay casino",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338103/bishops-in-visayas-romblon-renew-opposition-to-boracay-casino",
+      "published_date": "2026-11-09T04:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Philippine economic growth slows further to 2.1% in Q3 2026",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/business/gross-domestic-product-philippines-q3-2026/",
+      "published_date": "2026-11-09T02:15:31+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Private prosecutor Kapunan questions Cale88 production records",
       "source": "Philippine Daily Inquirer",
@@ -418,23 +453,72 @@
       "url": "https://newsinfo.inquirer.net/2334742/despite-economic-problems-undas-flower-vendors-strive-to-survive",
       "published_date": "2026-11-02T13:09:15+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "[New Rx] What if the Philippines leased an island for 100 years?",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/voices/thought-leaders/new-rx-philippines-lease-island-international-investors/",
-      "published_date": "2026-11-02T10:05:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Baguio council seeks report on P225-M Camp John Hay claim vs BCDA",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2334416/baguio-council-seeks-report-on-p225-m-camp-john-hay-claim-vs-bcda",
-      "published_date": "2026-11-02T00:00:26+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "College ‘ban’ on hijab stirs controversy in Northern Mindanao",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338207/college-ban-on-hijab-stirs-controversy-in-northern-mindanao",
+      "published_date": "2026-11-09T09:56:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marcos swears in Zalameda as chief justice",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338212/marcos-swears-in-zalameda-as-chief-justice",
+      "published_date": "2026-11-09T09:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amihan to bring cooler weather to much of Luzon on Nov. 9",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338171/amihan-to-bring-cooler-weather-to-much-of-luzon-on-nov-9",
+      "published_date": "2026-11-09T07:52:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gov’t workers to get bonus, cash gift",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338120/govt-workers-to-get-bonus-cash-gift",
+      "published_date": "2026-11-09T05:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "13 years after Yolanda, Tacloban carries lessons into every typhoon",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338130/13-years-after-yolanda-tacloban-carries-lessons-into-every-typhoon",
+      "published_date": "2026-11-09T04:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LTO summons bus driver, operator in Quezon road accident",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338128/lto-summons-bus-driver-operator-in-quezon-road-accident",
+      "published_date": "2026-11-09T04:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "published_date": "2026-11-09T01:08:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SPECIAL COVERAGE: Impeachment trial of Sara Duterte",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/philippines/video-special-coverage-panel-discussion-impeachment-trial-sara-duterte/",
+      "published_date": "2026-11-09T01:08:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Typhoon Cempaka to enter PAR Monday, briefly stay before exiting Tuesday",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2338141/typhoon-cempaka-to-enter-par-monday-briefly-stay-before-exiting-tuesday",
+      "published_date": "2026-11-09T00:24:22+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Hontiveros: Too early to say there’s already a number for VP conviction",
       "source": "Philippine Daily Inquirer",
@@ -510,69 +594,6 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2337963/sara-duterte-conviction-unlikely-to-spark-mass-protests-ridon",
       "published_date": "2026-11-08T13:36:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "13 years after Yolanda, Borongan diocese warns vs destructive mining",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337962/13-years-after-yolanda-borongan-diocese-warns-vs-destructive-mining",
-      "published_date": "2026-11-08T13:01:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senate to release transcripts of 2027 budget bicam proceedings – Lacson",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337944/senate-to-release-transcripts-of-2027-budget-bicam-proceedings-lacson",
-      "published_date": "2026-11-08T12:59:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Erwin Tulfo seeks safeguards for workers displaced by AI",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337929/tulfo-files-bill-protecting-workers-from-layoffs-due-to-ai",
-      "published_date": "2026-11-08T12:26:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LTO issues show cause order vs bus driver, operator after fatal accident",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337936/lto-issues-show-cause-order-vs-bus-driver-operator-after-fatal-accident",
-      "published_date": "2026-11-08T12:16:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "HOMESTRETCH: Surfing legends make history in Siargao",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/sports/homestretch-surfing-legends-make-history-siargao-cloud-9-world-surf-league/",
-      "published_date": "2026-11-08T12:00:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-      "published_date": "2026-11-08T11:03:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 soldiers hurt in Lanao del Sur clan war",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337894/3-soldiers-hurt-in-lanao-del-sur-clan-war",
-      "published_date": "2026-11-08T10:43:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "[Inside the Newsroom] The struggle with declaring #WalangPasok",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/voices/newsletters/inside-the-newsroom-class-suspension-resumption-framework/",
-      "published_date": "2026-11-08T10:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two arrested in Dipolog buy-bust, shabu worth P340,000 seized",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2337856/two-arrested-in-dipolog-buy-bust-shabu-worth-p340000-seized",
-      "published_date": "2026-11-08T09:45:01+00:00",
       "category": "Local Events"
     }
   ]
