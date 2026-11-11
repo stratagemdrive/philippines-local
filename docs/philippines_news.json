@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "LIST: Over 300 flights affected by ASEAN Summit in Manila Nov. 13–19",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/11/11/2569221/list-over-300-flights-affected-asean-summit-manila-nov-1319",
+      "published_date": "2026-11-10T23:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Marcos makes final walkthrough of Asean Summit venues",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2339384/marcos-makes-final-walkthrough-of-asean-summit-venues",
@@ -136,6 +143,55 @@
   ],
   "Military": [
     {
+      "title": "Luistro: Sub judice manifestation vs Tolosa a ‘diversionary tactic’",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2339560/luistro-sub-judice-manifestation-vs-tolosa-a-diversionary-tactic",
+      "published_date": "2026-11-11T10:36:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sara Duterte impeachment: Defense presents witnesses to counter case",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2339507/sara-duterte-impeachment-defense-presents-witnesses-to-counter-case",
+      "published_date": "2026-11-11T09:30:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "WATCH:  Sara Duterte impeachment trial | Nov. 11, 2026",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2339476/watch-sara-duterte-impeachment-trial-nov-11-2026",
+      "published_date": "2026-11-11T07:58:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "VP Trial Day 42: GenCorp, Metro Chow counsel to take witness stand",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2339285/vp-trial-day-42-gencorp-metro-chow-counsel-to-take-witness-stand",
+      "published_date": "2026-11-11T07:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "AFP probes alleged data breach involving Air Force",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2339430/afp-probes-alleged-data-breach-involving-air-force",
+      "published_date": "2026-11-11T05:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Army relieves soldier in viral dog killing video",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2339422/army-relieves-soldier-in-viral-dog-killing-video",
+      "published_date": "2026-11-11T04:45:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "LIVE: Sara Duterte impeachment trial, Nov. 11",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/11/11/2569396/live-sara-duterte-impeachment-trial-nov-11",
+      "published_date": "2026-11-10T23:25:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Defense sees no need to change strategy, says it does not coach witnesses",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2339415/defense-sees-no-need-to-change-strategy-says-it-does-not-coach-witnesses",
@@ -224,55 +280,6 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2338968/fwd-davao-city-assessor-yet-to-provide-list-of-duterte-carpio-properties-in-matina-crossing-court",
       "published_date": "2026-11-10T11:26:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lacson: Witnesses may face contempt over impeachment trial ‘mockery’",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2338940/lacson-witnesses-may-face-contempt-over-impeachment-trial-mockery",
-      "published_date": "2026-11-10T10:41:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "WATCH:  Sara Duterte impeachment trial | Nov. 10, 2026",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2338784/watch-sara-duterte-impeachment-trial-nov-10-2026",
-      "published_date": "2026-11-10T08:12:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Samal City assessor to take stand as 2nd defense witness",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2338657/samal-city-assessor-to-take-stand-as-2nd-defense-witness",
-      "published_date": "2026-11-10T07:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Assessor’s evasive answers draw ire of senator-judges",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2338720/assessors-evasive-answers-draw-ire-of-senator-judges",
-      "published_date": "2026-11-10T05:50:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nartatez: PNP getting tips in Dela Rosa manhunt",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2338716/nartatez-pnp-getting-tips-in-bato-manhunt",
-      "published_date": "2026-11-10T04:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Duterte defense asks ICC to drop two witnesses, calls their accounts hearsay",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/11/10/2569195/duterte-defense-asks-icc-drop-two-witnesses-calls-their-accounts-hearsay",
-      "published_date": "2026-11-10T04:16:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "LIVE: Sara Duterte impeachment trial, Nov. 10",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/11/10/2569180/live-sara-duterte-impeachment-trial-nov-10",
-      "published_date": "2026-11-10T02:00:00+00:00",
       "category": "Military"
     }
   ],
@@ -492,10 +499,108 @@
   ],
   "Local Events": [
     {
+      "title": "Masungi asserts fight for PH forests as threats remain",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2339550/masungi-asserts-fight-for-ph-forests-as-threats-remain",
+      "published_date": "2026-11-11T09:48:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man nabbed for marijuana he sells to North Cotabato students",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2339513/man-nabbed-for-marijuana-he-sells-to-north-cotabato-students",
+      "published_date": "2026-11-11T09:43:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Romualdez camp: Ex-Speaker’s suspension does not mean guilt",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2339522/romualdez-camp-ex-speakers-suspension-does-not-mean-guilt",
+      "published_date": "2026-11-11T09:27:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amihan, easterlies to bring rains over parts of PH on Nov. 11",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2339465/amihan-easterlies-to-affect-most-of-ph-on-wednesday-pagasa",
+      "published_date": "2026-11-11T07:28:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Evasive,’ conflicting answers test impeach court’s patience",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2339418/evasive-conflicting-answers-test-impeach-courts-patience",
+      "published_date": "2026-11-11T05:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Romualdez suspended for 90 days",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2339436/romualdez-suspended-for-90-days",
+      "published_date": "2026-11-11T05:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Declaring PH-wide ‘El Niño’ state of calamity ruled out",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2339433/declaring-ph-wide-el-nino-state-of-calamity-ruled-out",
+      "published_date": "2026-11-11T05:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DSWD reminder: Cash ‘ayuda’ not for gadgets",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2339425/dswd-reminder-cash-ayuda-not-for-gadgets",
+      "published_date": "2026-11-11T04:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marinduque group seeks urgent rehab of Marcopper-hit sites",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2339408/marinduque-group-seeks-urgent-rehab-of-marcopper-hit-sites",
+      "published_date": "2026-11-11T04:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Balicasag tour guide fees questioned",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2339405/balicasag-tour-guide-fees-questioned",
+      "published_date": "2026-11-11T04:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "published_date": "2026-11-11T02:26:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SPECIAL COVERAGE: Impeachment trial of Sara Duterte",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/philippines/video-special-coverage-panel-discussion-impeachment-trial-sara-duterte/",
+      "published_date": "2026-11-11T01:02:13+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "More room to improve budget transparency, steps were taken – solons",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2339442/more-room-to-improve-budget-transparency-steps-were-taken-solons",
       "published_date": "2026-11-11T00:05:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cebu Pacific’s new ‘Dreamer Plane,’ a flying tribute to its roots",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/business/cebu-pacific-dreamer-plane-cebuano-roots/",
+      "published_date": "2026-11-10T23:45:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lapid to Davao City accountant at Duterte trial: 'Are you being used?'",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/11/11/2569229/lapid-davao-city-accountant-duterte-trial-are-you-being-used",
+      "published_date": "2026-11-10T23:45:00+00:00",
       "category": "Local Events"
     },
     {
@@ -531,104 +636,6 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2339371/ltfrb-summons-taxi-operator-for-overcharging-complaint",
       "published_date": "2026-11-10T21:18:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ridon understands evasive witnesses: Jobs, lives at stake back in Davao",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2339364/ridon-gets-evasive-witnesses-jobs-lives-at-stake-back-in-davao",
-      "published_date": "2026-11-10T20:54:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maritime security beyond disputes explored in Australia media fellowship",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2339349/maritime-security-beyond-disputes-explored-in-australia-media-fellowship",
-      "published_date": "2026-11-10T20:27:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tiangco: Marcos told off Romualdez for taking funds from big projects",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2339344/tiangco-marcos-told-off-romualdez-for-taking-funds-from-big-projects",
-      "published_date": "2026-11-10T20:10:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pagasa: 3 weather systems to bring cloudy skies, rain on Wednesday",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2339331/pagasa-3-weather-systems-to-bring-cloudy-skies-rain-on-wednesday",
-      "published_date": "2026-11-10T19:38:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Agencies make budget changes, not individual lawmakers – solon",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2339314/agencies-make-budget-changes-not-individual-lawmakers-solon",
-      "published_date": "2026-11-10T19:25:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brian Poe to budget watchdogs: Help find idle funds for projects",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2339282/brian-poe-to-budget-watchdogs-help-find-idle-funds-for-projects",
-      "published_date": "2026-11-10T19:03:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lito Lapid worried Davao City accountant merely being used",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2339279/lito-lapid-worried-davao-city-accountant-merely-being-used",
-      "published_date": "2026-11-10T18:20:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palace: Corruption issues affecting OVP employees’ mental health",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2339272/palace-corruption-issues-affecting-ovp-employees-mental-health",
-      "published_date": "2026-11-10T17:59:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sandiganbayan suspends Martin Romualdez for 90 days",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2339257/sandiganbayan-suspends-martin-romualdez-for-90-days",
-      "published_date": "2026-11-10T17:47:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Water supply interruption set in parts of NCR, Rizal, Cavite",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2339236/water-supply-interruption-set-in-parts-of-ncr-rizal-cavite",
-      "published_date": "2026-11-10T17:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LTO voids license of driver whose truck crushed motorcycle, killing 2",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2339183/lto-voids-license-of-driver-whose-truck-crushed-motorcycle-killing-2",
-      "published_date": "2026-11-10T17:20:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "JuanHand spearheads multisectoral forum to address school-based violence",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/11/11/2569308/juanhand-spearheads-multisectoral-forum-address-school-based-violence",
-      "published_date": "2026-11-10T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Sara Duterte witness is linked to auditor of Mans Carpio’s firms",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/newsbreak/inside-track/sara-duterte-witness-linked-auditor-mans-carpio-firms/",
-      "published_date": "2026-11-10T14:20:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Davao city accountant frustrates senator-judges | The wRap",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/video/daily-wrap/november-10-2026/",
-      "published_date": "2026-11-10T14:00:00+00:00",
       "category": "Local Events"
     }
   ]
