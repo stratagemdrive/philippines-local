@@ -1,6 +1,27 @@
 {
   "Diplomacy": [
     {
+      "title": "372 buses get special permits for Asean holiday rush",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2340690/372-buses-get-special-permits-for-asean-holiday-rush",
+      "published_date": "2026-11-13T10:43:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Campus startups in Butuan test path to commercialization of incubators",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2340645/campus-startups-in-butuan-test-path-to-commercialization-of-incubators",
+      "published_date": "2026-11-13T08:51:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ASEAN who’s who: Regional, global leaders converge in Manila for year-end summit",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/philippines/asean-summit-who-coming-manila/",
+      "published_date": "2026-11-13T01:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Road reblocking, repairs on southbound Edsa start Nov. 13 to 15",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2340577/road-reblocking-repairs-on-southbound-edsa-from-nov-13-to-15",
@@ -118,30 +139,30 @@
       "url": "https://newsinfo.inquirer.net/2339754/no-general-road-closures-during-asean-summit-says-mmda",
       "published_date": "2026-11-11T15:37:10+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "LIST: Over 300 flights affected by ASEAN Summit in Manila Nov. 13–19",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/11/11/2569221/list-over-300-flights-affected-asean-summit-manila-nov-1319",
-      "published_date": "2026-11-10T23:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Marcos makes final walkthrough of Asean Summit venues",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2339384/marcos-makes-final-walkthrough-of-asean-summit-venues",
-      "published_date": "2026-11-10T21:36:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Carpio: Lawmakers can discuss, oppose foreign policy",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/11/11/2569304/carpio-lawmakers-can-discuss-oppose-foreign-policy",
-      "published_date": "2026-11-10T16:00:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Prosec: Duterte’s camp in panic, still no answer to ill-gotten wealth allegations",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2340679/prosec-dutertes-camp-in-panic-still-no-answer-to-ill-gotten-wealth-allegations",
+      "published_date": "2026-11-13T09:46:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "VP team drops 16 bank execs from witness list",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2340553/vp-team-drops-16-bank-execs-from-witness-list",
+      "published_date": "2026-11-13T05:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sara Duterte's defense drops all 16 bank witnesses in trial",
+      "source": "Philstar Global",
+      "url": "https://www.philstar.com/headlines/2026/11/13/2569871/sara-dutertes-defense-drops-all-16-bank-witnesses-trial",
+      "published_date": "2026-11-13T02:18:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Defense: Carpio backing sports not issue, topic is unexplained wealth",
       "source": "Philippine Daily Inquirer",
@@ -260,27 +281,6 @@
       "url": "https://newsinfo.inquirer.net/2339994/gencorp-payments-raise-conflict-of-interest-questions-for-vp-witness",
       "published_date": "2026-11-12T05:32:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Witness: VP earned P2M from ‘loose investment’",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2339998/witness-vp-earned-p2m-from-loose-investment",
-      "published_date": "2026-11-12T05:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "LIVE: Sara Duterte impeachment trial, Nov. 12",
-      "source": "Philstar Global",
-      "url": "https://www.philstar.com/headlines/2026/11/12/2569645/live-sara-duterte-impeachment-trial-nov-12",
-      "published_date": "2026-11-11T23:31:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Highlights:  Day 42 of Sara Duterte impeachment trial | Nov. 11, 2026",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2339970/highlights-day-42-of-sara-duterte-impeachment-trial-nov-11-2026",
-      "published_date": "2026-11-11T22:48:44+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -356,6 +356,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Opapru, MinDA vow support for BARMM peace, economic development",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2340652/opapru-minda-vow-support-for-barmm-peace-economic-development",
+      "published_date": "2026-11-13T09:01:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Witness: Romualdez cash inflows not traceable to DPWH, Co, contractors",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2340545/witness-romualdez-cash-inflows-not-traceable-to-dpwh-co-contractors",
+      "published_date": "2026-11-13T05:44:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Mendoza thanks Marcos for appointment as BOC chief",
       "source": "Philippine Daily Inquirer",
@@ -481,23 +495,100 @@
       "url": "https://newsinfo.inquirer.net/2338103/bishops-in-visayas-romblon-renew-opposition-to-boracay-casino",
       "published_date": "2026-11-09T04:30:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Philippine economic growth slows further to 2.1% in Q3 2026",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/business/gross-domestic-product-philippines-q3-2026/",
-      "published_date": "2026-11-09T02:15:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Private prosecutor Kapunan questions Cale88 production records",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2338107/private-prosecutor-kapunan-questions-cale88-production-records",
-      "published_date": "2026-11-08T21:47:12+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Senate probe into ‘spaghetti wires,’ electrical hazards sought",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2340685/senate-probe-into-spaghetti-wires-electrical-hazards-sought",
+      "published_date": "2026-11-13T11:03:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marina suspends safety permit of vessel grounded in Surigao City",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2340697/marina-suspends-safety-permit-of-vessel-grounded-in-surigao-city",
+      "published_date": "2026-11-13T10:53:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BFAR warns vs eating shellfish from 4 Eastern Visayas bays due to red tide",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2340664/bfar-warns-vs-eating-shellfish-from-4-eastern-visayas-bays-due-to-red-tide",
+      "published_date": "2026-11-13T09:12:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Muslim judges condemn ambush-slay of Basilan colleague",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2340641/muslim-judges-condemn-ambush-slay-of-basilan-colleague",
+      "published_date": "2026-11-13T08:39:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amihan, easterlies to bring rains over parts of PH on Friday",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2340635/amihan-easterlies-to-bring-rains-over-parts-of-ph-on-friday-pagasa",
+      "published_date": "2026-11-13T07:35:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Class suspensions declared in towns of Batangas, Pangasinan",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2340632/class-suspensions-declared-in-towns-of-batangas-pangasinan",
+      "published_date": "2026-11-13T07:16:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DOJ says P50-M bounty for Dela Rosa ‘legal’",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2340557/doj-says-p50-m-bounty-for-dela-rosa-legal",
+      "published_date": "2026-11-13T05:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chemicals, heat fueled ferry fire; 16 charged",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2340560/chemicals-heat-fueled-ferry-fire-16-charged",
+      "published_date": "2026-11-13T05:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ombudsman suspends Cavite town mayor over gambling allegation",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2340565/ombudsman-suspends-cavite-town-mayor-over-gambling-allegation",
+      "published_date": "2026-11-13T05:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Basilan judge slain in Zambo gun attack",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2340526/basilan-judge-slain-in-zambo-gun-attack",
+      "published_date": "2026-11-13T05:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Negros bishop leads push for antidynasty campaign",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2340525/negros-bishop-leads-push-for-antidynasty-campaign",
+      "published_date": "2026-11-13T05:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BARMM chief order: Prioritize ex-Moro fighters in low-tier jobs",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2340521/barmm-chief-order-prioritize-ex-moro-fighters-in-low-tier-jobs",
+      "published_date": "2026-11-13T05:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "published_date": "2026-11-13T03:12:41+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Heat, crowd limits top safety measures for 462nd Fiesta Señor in Cebu",
       "source": "Philippine Daily Inquirer",
@@ -527,6 +618,13 @@
       "category": "Local Events"
     },
     {
+      "title": "[Vantage Point] Follow VP Sara’s money, not her alibis",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/voices/thought-leaders/vantage-point-follow-sara-duterte-money-not-alibis/",
+      "published_date": "2026-11-12T23:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Two weather systems to bring rain in parts of PH on Friday, Nov. 13",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2340512/weather-for-friday-nov-13",
@@ -538,104 +636,6 @@
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2340508/garcia-poll-converting-naga-into-huc-will-not-be-a-walk-in-the-park",
       "published_date": "2026-11-12T22:09:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lotto results on Thursday, November 12, 2026",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2340497/lotto-results-on-thursday-november-12-2026",
-      "published_date": "2026-11-12T21:47:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dangerous heat index grips 9 areas on Thursday",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2340468/dangerous-heat-index-grips-9-areas-on-thursday",
-      "published_date": "2026-11-12T21:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DOJ chief defends legality of bounty for Bato dela Rosa’s arrest",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2340473/doj-chief-defends-legality-of-bounty-for-bato-dela-rosas-arrest",
-      "published_date": "2026-11-12T20:54:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brian Poe: ‘Most Trusted’ award inspires him to work harder to serve",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2340457/brian-poe-most-trusted-award-inspires-him-to-work-harder-to-serve",
-      "published_date": "2026-11-12T20:51:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Motorcycle taxi group pushes for industry legalization, rider protection",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2340446/motorcycle-taxi-group-pushes-for-industry-legalization-rider-protection",
-      "published_date": "2026-11-12T20:09:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DepEd cites private sector role in NCR schools’ tech transformation",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2340413/deped-cites-private-sector-role-in-ncr-schools-tech-transformation",
-      "published_date": "2026-11-12T19:22:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alcantara returns new batch of stolen public funds, increasing pot to P866M",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2340402/alcantara-returns-new-batch-of-stolen-public-funds-increasing-pot-to-p866m",
-      "published_date": "2026-11-12T18:25:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Niño takes toll on fishers’ health, livelihoods",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2340381/el-nino-takes-toll-on-fishers-health-livelihoods",
-      "published_date": "2026-11-12T17:54:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sandigan justice scolds BJMP official over statements on Romualdez aide",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2340378/sandigan-justice-scolds-bjmp-official-over-statements-on-romualdez",
-      "published_date": "2026-11-12T17:44:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Or. Mindoro receives P17.8-M medical equipment, 2 ambulances from PCSO",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2340371/or-mindoro-receives-p17-8-m-medical-equipment-2-ambulances-from-pcso",
-      "published_date": "2026-11-12T17:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pia Cayetano irked as prosec questions Carpio’s spending for athletes",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2340365/pia-cayetano-irked-as-prosec-questions-carpios-spending-for-athletes",
-      "published_date": "2026-11-12T17:01:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IBP condemns killing of Basilan judge in Zamboanga City attack",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2340355/ibp-condemns-killing-of-basilan-judge-in-zamboanga-city-attack",
-      "published_date": "2026-11-12T16:53:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AMLC witness: Romualdez’s cash inflows not traced to DPWH, Zaldy Co",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2340347/amlc-witness-romualdezs-cash-inflows-not-traced-to-dpwh-zaldy-co",
-      "published_date": "2026-11-12T16:50:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How social aid could fund green jobs and reforestation",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2340141/from-social-aid-to-green-jobs-a-new-model-for-philippine-welfare-spending",
-      "published_date": "2026-11-12T10:13:36+00:00",
       "category": "Local Events"
     }
   ]
